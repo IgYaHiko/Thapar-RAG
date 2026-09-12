@@ -1,0 +1,48 @@
+SOURCE: https://www.thapar.edu/academics/centerspages/softwares65
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Softwares
+System Software
+Win Home 10 SNGL OLP-300
+WinSL 8 SNGL OLP-220
+Win Svr Ent 2008 - 01
+MS Window 7
+MS – Windows Vista Business Upg OLP NL AE – 30
+MS – Windows Vista Business media kit – 01
+MS-Windows XP Professional
+MS-Windows 2003 server
+MS-Windows Terminal servers CAL 2003 OLP NL AE – 20
+50 CAL and 50 TCAL for Windows 2003
+Windows 2000 Advance Server
+Windows 2000 Professional
+Windows 98
+Windows NT 4.0
+Red Hat Linux 9.0
+Sun Solaris 10
+Utility Software
+Adobe Acrobat Professional 9.00AE – 05
+Web Publishing Tools
+MATHWORKS MATLAB
+Crystal Reports 9.0
+Staler 4.0
+Application Software
+SQL Svr Ent 2008
+Oracle 10g
+Oracle 9.i (30 User)
+MS Visual Studio 2010
+MS Visual Studio 2008
+MS Visual Studio 6.0
+MS Office 2007
+MS Office 2000 Professional
+MS Office 4.3
+Nash Pack 3.0
+VC++ 2.0
+VB 4.0
+MS Project 4.0
+Neural Connection
+SPSS 20.0
+Citrix Xen Server 6.2
+Academia Alliances
+Microsoft Ed-vantage Program
+MATHWORKS Campus

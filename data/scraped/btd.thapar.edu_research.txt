@@ -1,0 +1,563 @@
+SOURCE: https://btd.thapar.edu/research
+TITLE: Department of Biotechnology (BTD) - Research-Intensive Training
+------------------------------------------------------------
+
+Research-Intensive Training
+Delivering excellence via varied research avenues, trained faculty and innovation
+Major research areas
+Industrial Biotechnology and Environmental Biotechnology
+Plant Molecular Biology
+Genetic Engineering
+Plant Biotechnology
+Plant Genetic Manipulations
+Applied Microbiology and Biotechnology,
+Molecular Biology
+Animal-microbe interaction
+Natural product based drug discovery
+Immunology
+Cancer Biology
+Computational Biology
+Genomics and Plant Biotechnology
+Food Engineering, Fruit and Vegetable Processing
+Nanobiotechnology
+Bioprocess Engineering
+Biomaterials
+Genetic and Epigenetic Gene Regulation
+Pharmaceutical sciences
+Ongoing projects
+EXTERNAL
+Sr. No.
+Investigator
+Title of the project and duration
+Amount
+Agency
+Year
+1
+Dr. Mondem Sudhakara Reddy/Dr. Shweta Goyal
+Development of field ready bio-product for crack healing and anti-corrosive applications.
+84.16 Lakh
+NBCC (India) Limited
+2024
+2
+Dr. Priyankar Dey
+Development and validation of an open-source ‘plug and play’ AI tool for oral microbiome and metabolome-based individual and inter-population long-term risk prediction of MASLD-associated diabetes.
+2.82 Crore
+ICMR
+2024
+3
+Dr. Bunushree Behera
+Development of microalgae bio-embedded granules for compost enhancement and soil nourishment: An enviro-economic approach for sustainable agriculture
+28.89 Lakh
+SERB-SRG
+2024
+4
+Dr. Bunushree Behera
+Phyco nano generation of biopesticides against fall army worm: An Eco-friendly approach for agricultural sustainability and food security
+54.39 Lakh
+SERB/ANRF-CRG
+2024
+5
+Dr. Manoj Baranwal/Dr. Priyankar Dey/Dr. Debjyoti Dutta
+Identification of immunogenic peptide for diagnosis of orthohantavirus infection.
+87.29 Lakh
+DST Indo-Russia
+2023
+6
+Dr. Bunushree Behera
+Fortified biochar microalgae biostimulant nutrimix for precision agronomic fertilization
+49.51 Lakh
+DBT-BIRAC
+2023
+7
+Dr. Priyankar Dey
+Effect of SCFA producing commensals isolated from healthy donors on the mucosal translocation of gut pathobionts
+10 Lakhs
+Univ. Hail.
+2022
+8
+Dr. Priyankar Dey/Dr. Prangya Ranjan Rout
+An artificial colon model for microbiota research (AMMR)
+45 Lakh
+DBT-BIRAC
+2022
+9
+Dr. Debajyoti Dutta
+Development of native-lipid nanodisc mediated protocol for the identification of crop salinity stress associated plasma membrane proteins and lipids interactions
+28.2 Lakh
+SERB
+2022
+10
+Dr. M. Vasundhara/Dr. Priyankar Dey
+Development of gut microbiota-resistant mucoadhesive bio-nano-encapsulation for efficient delivery of epigallocatechin gallate isolated from endophytic fungi of Camelia sinensis (tea)
+29.6 Lakh
+SERB-POWER
+2022
+11
+Dr. Mondem Sudhakara Reddy/Dr. Shweta Goyal
+Field scale biogenic treatment for crack remediation and self-healing in concrete structures
+47.3 Lakh
+SERB
+2021
+12
+Dr. Moushumi Ghosh
+ANKURAN-Pre seed stage grant-in-aid funding under innovation and agri-preneurship program, RKVY-RAFTAAR Scheme
+5 Lakhs
+IIT-BHU
+2021
+13
+Dr. Priyankar Dey
+Development of an in vitro pseudo-facilitation model of lipotoxicity in NAFLD-associated metainflammation coupled with characterization of hepatocellular global metabolomic signatures
+32 Lakh
+SERB
+2021
+14
+Dr. Dinesh Goyal
+Lignocellulosic biomass utilization for lactic acid and bioethanol production. (2020)
+25.37 Lakh
+DBT
+2020
+15
+Dr. Anil Kumar
+Host mediated silencing of cellulose synthase genes of Phytopathora infestans for late blight resistance in Indian potato cultivar(s)
+25 Lakh
+CSIR
+2019
+16
+Dr. Mondem Sudhakara Reddy/Dr. Shweta Goyal
+Bio-mediated cementation for concrete problems.
+42.12 Lakh
+DST (SEED)
+2018
+17
+Dr. Mondem Sudhakara Reddy/Dr. Shweta Goyal
+Development of self-healing concrete using bacteria.
+52.6 Lakh
+NBCC (India) Limited
+2018
+18
+Dr. Mondem Sudhakara Reddy
+Biocalcification process of photoautotrophic bacteria in concrete environment
+15 Lakh
+DBT
+2018
+19
+Dr. Sanjai Saxena
+Isolation and Characterization of Xanthine oxidase inhibitors from endophytic fungi for treatment of Hyperuricemia and Gout
+29.85 Lakh
+NBB, DBT
+2018
+20
+Dr. Shekhar Agnihotri
+Production of High Fructose Syrup from Cellulosic Agro-Waste using Dual Enzyme Immobilization on Halloysite Nanotubes as Recyclable Biocatalysts
+27.28 Lakh
+DST
+2018
+21
+Dr. Dinesh Goyal/Dr. Shekhar Agnihotri
+Nanobioremediation of butachlor herbicide
+34.85 Lakh
+SERB-DST
+2017
+22
+Dr. M. Baranwal/Dr. Dwarakanath
+Analysis of Virus Transport through Subsurface Media
+23.46 Lakh
+CSIR
+2017
+23
+Dr. Mondem Sudhakara Reddy
+Novel gene pool from copper polluted soil ecosystem using metatranscriptomic approach.
+15 Lakh
+CSIR
+2016
+24
+Dr. Mondem Sudhakara Reddy
+Utilization of banana stem juice for renewable energy and value-added products.
+25 Lakh
+DST
+2016
+25
+Dr. Siddharth Sharma
+Association of Single Nucleotide Polymorphisms and Methylation status in the Wnt and AhR signaling pathways with risk for occurrence of Lung Cancer in a North Indian Population.
+27.2 Lakh
+ICMR
+2015
+26
+Dr. Siddharth Sharma
+Studies on anti-inflammatory responses as function of bioavailable selenium from Se-rich cereal grains
+19.96 Lakh
+CSIR
+2015
+27
+Dr. Mondem Sudhakara Reddy
+Cloning and characterization of genes of Glutathione biosynthesis in ectomycorrhizal fungi
+29.5 Lakh
+DBT
+2014
+28
+Dr. Mondem Sudhakara Reddy
+Durability enhancement and prevention of damages in RC structures using bacteria.
+53.9 Lakh
+DST
+2014
+29
+Dr. Mondem Sudhakara Reddy/Dr. R.S. Kaler
+Development of photonic crystal biosensor for detection of foodborne pathogens.
+33 Lakh
+DBT
+2014
+30
+Dr. Sanjai Saxena
+Isolation, Characterization of novel fibrinolytic molecules from endophytic fungi for anti-thrombotic therapy
+12 Lakh
+CSIR
+2014
+31
+Dr. M. Baranwal
+In Silico and In vitro approach to identify immunogenic peptideso H1N1 Virus as a target for Vaccine design
+23.6 Lakh
+DST-SERB
+2013
+32
+Dr. M. Baranwal
+Identification of T cell Epitope in H1N1 influenza virus as target for vaccine design
+11 Lakh
+AICTE
+2012
+33
+Dr. M. Baranwal/Dr. Sanjai Saxena
+Immunomodulatory agents from endophytic fungi for breast cancer therapy
+16.02 Lakh
+DBT
+2011
+INTERNAL
+Sr. No.
+Investigator
+Title of the project and duration
+Amount
+Agency
+Year
+1
+Dr. Bunushree Behera
+Co-hydrothermal carbonization of microalgae and sludge- A waste to R3 recovery, Recycling and reuse approach for slow release agro chemical application targetting Enviro economic sustainability.
+4.5 Lakhs
+TIET SEED Grant
+2023
+2
+Dr. Jyotsana Mehta
+Development of a point-of-care device based on 2D- functional nanomaterials for high-performance electrochemical sensing of priority antibiotics
+8 lakhs
+TIET SEED Grant
+2023
+3
+Dr. Jyotsana Mehta
+Development of biocatalytic membranes comprised of enzyme immobilized two-dimensional functional nanomaterials for efficient removal of priority antibiotics
+1.5 lakhs
+TIET-CEEMS Seed Grant
+2023
+4
+Dr. Debajyoti Dutta
+Development of crop salinity stress markers using plant protein related to salt tolerance
+6.6 lakh
+TIET SEED Grant
+2022
+5
+Dr. Dinesh Goyal
+Graphene oxide coating of titanium screws used in prosthetic joints and its invitro assessment of antimicrobial activity and cytotoxicity: A feasibility study
+1 lakh
+Bio-X initiative under TIET- Virginia Tech Center of Excellence for Emerging Materials
+2021
+6
+Dr. Moushumi Ghosh
+Biosensor platforms and affrodable processing technologies for mitigation of post-harvest losses in tropical guava fruit
+22 lakhs
+Food Security Centre of Excellence, TIET
+2021
+7
+Dr. Manoj Baranwal
+Design of magnetic nanoparticles exhibiting thermochemotherapeutic effects specific to cancer cells
+1 lakh
+Bio-X initiative under TIET- Virginia Tech Center of Excellence for Emerging Materials
+2021
+8
+Dr. Priyankar Dey
+Gut microbiome-resistant chitosan-EGCG nanoconjugates for efficient intracellular redox homeostasis and maintenance of global metabolome
+1 lakh
+Bio-X initiative under TIET- Virginia Tech Center of Excellence for Emerging Materials
+2021
+9
+Dr. Moushumi Ghosh/Dr. Priyankar Dey
+Development of Nano-Bio composites as Next Generation Arsenals Against Biofilms
+5 lakhs
+Centre of Excellence in Emerging Material Science, TIET
+2020
+10
+Dr. Moushumi Ghosh
+Digital Village: a data driven approach for food security
+32 lakhs
+Food Security Centre of Excellence, TIET
+2020
+11
+Dr. Mousumi Ghosh
+Biosensor platforms and affordable processing technologies for mitigation of post-harvest losses in tropical guava fruit
+25 lakhs
+TIET Food Security Center
+2020
+12
+Dr. Priyankar Dey
+Development of commensal gut microbes-derived non-immunogenic therapeutic leads through identification and evaluation of intestinal targets against chronic metabolic disease
+4.5 lakhs
+TIET seed grant (PI) 2020-2023
+2020
+13
+Dr. Atul Kumar Upadhyay
+Genome and transcriptome enabled identification of novel food allergens and decoding their possible role in human diseases
+4.5 lakhs
+TIET SEED Grant
+2020
+14
+Dr. Ovais Shafiq Qadri
+Development and evaluation of different edible coating on quality and shelf life of minimally processed Kinnow segments. (2020)
+4.4 lakhs
+TIET SEED Grant
+2020
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

@@ -1,0 +1,422 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Dr.-Meenakshi-Rana/MTg5/ZmFjdWx0eTk1
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Dr. Meenakshi Rana
+Professor
+Designation:
+Professor
+Specialization:
+Partition Theory, Enumerative Combinatorics, Number Theory
+Email:
+mrana@thapar.edu
+Designation:
+Professor
+Specialization:
+Partition Theory, Enumerative Combinatorics, Number Theory
+Email:
+mrana@thapar.edu
+Biography:
+Meenakshi Rana is full Professor in School of Mathematics, at Thapar Institute of Engineering & Technology, Patiala. She Joined Thapar Institute of Engineering & Technology in 2008. She has completed three major research Projects as principal investigator in the area of Partition Theory and has keen interest in the related areas. Formerly, she worked at CIET Rajpura for three years, and before that she worked at SSIET, Derabassi for one year. Dr. Rana has published many reviewed publication and book chapters. Apart from her research interest she is highly enthusiastic teacher and enjoys lecturing to her students.
+Research Projects
+Project Title:
+On Rogers-Ramanujan-Slater type identities and related topics in Partition Theory
+Duration :
+2020 –2023
+Project No.
+MTR/2019/00123
+Funding Agency:
+Science and Engineering Research Board
+(SERB)
+Project Title:
+On q-series, split n-color partitions and F-partitions
+Duration:
+2016--2019
+Project No.
+25(0256)/16/EMR-II
+Funding Agency:
+Council for Scientific and Industrial Research
+(CSIR)
+Project Title:
+On Combinatorics of q-Series, Rogers- Ramanujan type identities and Split n-Color Partitions
+Duration
+2016—2019
+Project No.
+2/48(18)/2016/NBHM(R.P.)/R&DII/14983
+Funding Agency:
+National Board for Higher Mathematics
+(NBHM)
+Conference/Workshop Organized
+Various workshop under Thapar Mathematical Society since 2016
+Convener: “International Conference of Special Functions and Their Applications”, 16-18 October 2014, Thapar University, Patiala, India
+Convener “Conference on Number Theory, Combinatorics & Special Function (NTCSF-2019)., Thapar Institute of Engineering & Technology, Patiala
+Workshop on
+MATLAB Fundamentals
+by
+MathWorks Training Services, 17-19 March, 2016
+Membership of Professional Institutions, Associations, Societies
+Life member of Ramanujan Mathematical Society (644)
+Life member of Indian Mathematical Society (R-10- 131)
+Life member of Society for Special function and their applications (804)
+Life member of Indian Science Congress (L-16404)
+Life member of Punjab Academy of Sciences (L-1406)
+THESIS SUPERVISION
+Ph.D Thesis
+Ms. Jasdeep Kaur (2016): Rogers-Ramanujan identities type identities and Combinatorics
+Ms. Shruti Sharma (2021):
+Combinatorics of Mock Theta Functions and q-Series
+Ms. Vasudha (2023): On Combinatorics of q-series and over-partitions
+Ms. Harman (Thesis Writing)
+Ms. PrabhSimrat (Thesis Writing)
+M.Sc. Thesis
+Komal, 2021, “On Study of recurrence relations”
+Watanjeet, 2019, “
+On Multiplicity of Parts in n-Colour Compositions”
+Amrinder Kaur 2017, “On plane partitions and colored partitions”
+Priyanka, 2016,  ‘‘A survey on colored partition and q-series”
+Diksha Chawala, 2015, “Rogers-Ramanujan Identities and split (n+t) color Partition”
+Nisha, 2015, “On Study of Lattice Paths”
+Shelja Dutta, 2014, “On n-colour Compositions”
+Avneet Kaur, 2013, “A Study of ordinary, colored and signed Gollnitz-Gordon identities”
+Rajni Mittal, 2012, “A Study of Gollnitz-Gordon identities”
+Richa Bansal, 2011, “A Study of Guassian polynomial”
+Rajni Bansal, 2011, “Combinatorial interpretations of Rogers-Ramanujan identities and their analogues”
+Inderpal Singh, 2010, “A Study of Colored partitions”
+List of Publications
+Published (SCI/ESCI)
+M Rana
+, H Kaur, K Garg, Recurrence relations connecting mock theta functions and restricted partition functions, Notes on Number Theory and Discrete Mathematics, Vol. 29, No. 2, 360-371, 2023 (ESCI).
+M Rana
+, S Sharma
+, (
+n
++
+t
+)–color analogue of Gordon’s theorem,
+J. Ramanujan Math. Soc. 37, No.4 (2022) 411–417
+V Gupta and
+M Rana
+,
+Some Congruences for the Coefficients of Rogers – Ramanujan Type Identities, Mathematics
+2022
+, 10, 3582.
+H Kaur,
+M Rana
+, On some mock theta functions of order 2 and 3, J. Ramanujan Math. Soc. 37, No. 3 (2022), pp 221-229. (September 2022)
+H Kaur,
+M Rana
+, On second order mock theta function
+B
+(
+q
+),
+Electronic Research Archive (ERA)
+, 30 (1), pp 52-65. (09.12.2021)
+H Kaur,
+M Rana
+, Congruences for sixth order mock theta function $\lambda(q)$ and $\rho(q)$, Electronic Research Archive (ERA), Vol 29, Number 6, December 2021, PP4257-4268.
+M Rana
+, S Sharma,
+n-Color Compositions and Lattice Paths of Agarwal-Bressoud,
+Indian Journal of Pure and Applied Mathematics
+(SCI),
+Indian J Pure Appl Math (2021) 52:87-95, DOI:  https://doi.org/10.1007/s13226-021-00120-w
+(March 2021)
+M Rana
+and N Saikia, Combinatorial interpretations of
+q
+-series using
+n
+-color partitions,
+J. Ramanujan Math. Soc.
+36,
+No. 2 (2021) 123–127.
+(June 2021)
+M Rana
+and S Sharma, “Combinatorics of some fifth and sixth order mock theta functions,
+Electronic Research Archive
+,
+29(1): 1803-1818
+(doi:
+10.3934/era.2020092
+),
+March 2021
+.
+K. Singla and
+M Rana
+,
+Exact Solutions and Conservation Laws of Multi Kaup-Boussinesq System with Fractional Order Analysis and Mathematical Physics, Analysis and Mathematical Physics (2021) 11:30,
+https://doi.org/10.1007/s13324-020-00467-z (Jan 2021)
+S. Sharma,
+M Rana
+,
+A Simple Combinatorial Treatment for the q–Series Interpreted by Agarwal,
+Utilitas Mathematica (SCI), 2020
+A Kumar,
+M Rana
+, “On the treatment of partitions as factorization and further analysis”, J. Ramanujan Math. Soc. 35, No. 3 (2020) 263-276.
+Komal Singla and
+M Rana
+,
+Symmetries, Explicit Solutions and Conservation Laws For Some Time Space Fractional Nonlinear Systems,
+Reports in Math. Physics, Vol 86, NO. 2, 2020.
+V. Gupta,
+M
+Rana
+and S Sharma, “On Weighted Signed Color Partitions”, Proc. Indian Acad. Sci. (Math. Sci.) (2020) 130:10 Https://Doi.Org/10.1007/S12044-019-0545-1
+(0.341)
+(SCI)  09, January 2020
+S Sharma,
+M Rana
+, On Mock Theta Functions and Weight-Attached Frobenius Partitions,
+Ramanujan Journal
+, 50: 289-303,
+https://doi.org/10.1007/s11139-018-0054-3
+(SCI), September 2018
+S. Sharma,
+M. Rana
+,
+Interpreting some fifth and sixth order mock theta functions by attaching weights, J. Ramanujan Math. Soc.
+34,
+No.4 (2019) 401–410, Dec, 2019
+S Sharma,
+M Rana
+, “
+A new approach in interpreting some mock theta functions”
+International journal of Number Theory,
+Vol. 15, No. 7 (2019) 1369–1383, 2019. (IF: 0.462)
+(SCI) March 2019
+M Goyal and
+M Rana
+, “
+Combinatorial Identities For Tenth Order Mock Theta Functions
+”,
+Proc. Indian Academy of Sciences
+,
+(2019) 129:39
+https://doi.org/10.1007/s12044-019-0475-y
+, (2019)(0.341)
+(SCI),  JUNE 2019
+M Rana,
+J. K. Sareen and D. Chawala, “On Generalized q-Series and Split (n+t)-Color Partitions”,
+Utilitas Mathematica
+, 108(2018), Page No. 3-19. (IMPACT FACTOR-0.228)
+(SCI)
+M Goyal and
+M Rana
+, “On Central Tendencies of the Parts in Certain Restricted Partitions”,
+Mathematical Reports
+, Vol. 20(70)3, Page No. 291-300, (2018) (IMPACT Factor-0.341)
+(SCI)
+S Sharma,
+M Rana
+, “Combinatorial interpretations of mock theta functions by attaching weights”,
+Discrete Mathematics
+Vol. 341 (2018) PP 1903–1914.
+(Impact Factor-0.728)
+(SCI)
+M Rana
+and M Goyal, “On Combinatorics of Modified Lattice Paths and Generalized q-series”,
+Contributions to Discrete Math
+., Vol. 13, No. 1, pp 136-149, ISSN 1715-0868, (2018).
+(Impact Factor-0.419)
+(SCI)
+M Rana
+and J K Sareen, “Split (n+t)-Color Partitions and 2-Color F-Partitions”,
+Contributions to Discrete Math.
+, Vol. 12, No. 2, pp 115-145, ISSN 1715-0868, 2017.
+(Impact Factor-0.28)
+(SCI)
+J K Sareen and
+M Rana, “
+Four-way combinatorial interpretations of some Rogers-Ramanujan type identities”,
+ARS-Combinatoria
+, 133(2017), pp 17-35.
+(Impact Factor-0.268)
+(SCI)
+M Rana
+,
+“Partition Theoretic Interpretations Of The A
+2
+Rogers-Ramanujan Identities”,
+ARS -Combinatoria
+, 130 (2017), pp 119-129.
+(Impact Factor-0.268
+)
+(SCI)
+J K Sareen and
+M Rana, “
+Combinatorics of Tenth Order Mock Theta functions”,
+Proc. Indian Acad. Sci. (Math. Sci)
+, Vol. 126, No. 4, November 2016, pp. 549-556.
+(Impact Factor-0.371)
+(SCI)
+A K Agarwal and
+M Rana
+,
+New combinatorial versions of Gollnitz- Gordon identities
+,
+Utilitas Mathematica
+, Vol. 79 (2009), pp. 145-155. (Impact Factor-0.28)
+(SCI)
+M Rana
+and A K Agarwal,
+On an extension of a combinatorial identity,
+Proc. Indian Acad. Sci. (Math. Sci)
+, Vol. 119, No. 1, (2009), pp. 1-7. (Impact Factor-0.371)
+(SCI)
+Published (Scopus/Other Refereed Journal/NON-SCI)
+M Rana
+, A Kumar, Raw Moments And Entropy Associated With The Last Part In A    Composition,
+Integers
+, (Scopus), #A26 INTEGERS 23 (2023)
+V Gupta,
+M Rana
+,
+On Some Combinatorial Interpretations For Rogers-Ramanujan Type Identities
+, South East Asian J. of Mathematics and Mathematical Sciences, SEAJMMS, (Scopus), Vol 19, No. 1 (2023), pp 01-16.
+S Sharma,
+M Rana
+,
+Three-way Combinatorial Interpretations of Rogers–Ramanujan Identities,
+Journal of Indian Math. Soc., Vol 89, Nos. (1-2) (2022), 167-171.
+(NON-SCI)
+V Gupta,
+M Rana
+, “Rogers–Ramanujan type identities for (n + t)–color over-partitions’,
+J. of Ramanujan Society of Mathematics and Mathematical Sciences
+Vol. 8, No. 2 (2021), pp. 01-16
+S Sharma and
+M Rana
+, “Combinatorics Of Third Order Mock Theta Function f(q) and Sixth Order Mock Theta Functions φ(q), ψ(q)”,
+J. of Ramanujan Society of Mathematics and Mathematical Sciences
+, Vol. 7, No. 1 (2019), pp. 31-36.
+V Gupta,
+M Rana, “
+On Some Combinatorics of Rogers–Ramanujan Type Identities Using Signed Color Partitions
+”
+Current Trends in Mathematical Analysis and Its
+Interdisciplinary Applications, pp 101-118, 2019 https://doi.org/10.1007/978-3-030-15242-0_3.
+M Rana
+and
+J K Sareen
+, “
+On Combinatorial Extensions of Some Mock Theta Functions Using Signed Partitions”,
+Advances in Theoretical and Applied Mathematics
+, Vol. 10, No.1, pp 15-25 (2015)
+A K Agarwal and
+M Rana
+, “
+Combinatorial interpretation of a generalized basic series”,
+Analytic Number Theory, approximation Theory, and special functions, DOI 10.1007/978-1-4939-0258-3_7
+HMS-Volume, Springer
+, 215-225 (2014).
+(Cite: Agarwal, A.K., Rana, M. (2014). Combinatorial Interpretation of a Generalized Basic Series. In: Milovanović, G., Rassias, M. (eds) Analytic Number Theory, Approximation Theory, and Special Functions. Springer, New York, NY. https://doi.org/10.1007/978-1-4939-0258-3_7)
+A
+K Agarwal and
+M Rana
+, Two new combinatorial interpretations of a fifth order mock theta function,
+Journal of The Indian Mathematical Society
+, Special Centenary Volume (1907-2007), (2009), pp 11-24.
+M Rana
+and A K Agarwal, Frobenius partition theoretic interpretation of a fifth order mock theta function,
+Canadian Journal of Pure & Applied Sciences
+, Vol. 3, No.2, (2009), pp. 859-863.
+CONFERENCES
+Abroad
+M. Rana
+,“ Analytics and Combinatorial Number Theory-A legacy of Ramanujan,
+University of Illinois, June 5-9, 2019, USA
+M. Rana, “
+Split (n+t)-Color Partitions and 2-Color F-Partitions
+”,
+Connections in Discrete Mathematics,
+15-19 June, 2015, Simon Fraser University, Burnaby, Canada.
+India
+On mock theta functions of Gordon–McIntosh & Gu-Hao, at International Conference on Number Theory and Graph Theory, to be held on January 18-20, 2023, at Manipal Academy of Higher Education (MAHE), Manipal, India.
+Enumeration of mock theta functions treating them as q-series, ICND-2021, December 20-24
+, 2021.
+M. Rana
+, Workshop on MODULAR FORMS, organized by IIT Gawahati, held at National centre for Mathematics, TIFR and IIT Bombay, December 14-19, 2020.
+M. Rana
+, Combinatorics of Mock Theta Functions with attached weights, ICSFA, November 22-24, 2018, Amal Jyoti College of Engineering, Kanjirappally, Kottayam, Kerala, India.
+M Rana
+, “Split (n+t)-color Partitions & 2-color F - Partitions”, National Conference on Fractional Calculus, special Functions and Their Applications in Computer Science, November 10-12, 2018. Deptt of Mathematics, TDPG College, Jaunpur, UP, India
+M. Rana
+, “
+q-Series and Split (n+t)-Color Partitions”,
+International Conference on Special Functions and their Applications, 9-11 September 2016, Jamia Millia Islamia, New Delhi
+M Rana, “On Split (n+t)-Color Partitions, 2-Color F-Partitions and Mock Theta Functions”,
+South Asian Mathematics Research Scholars Meet , 8-9 May, 2015,
+South Asian University, New Delhi.
+M Rana, “On Combinatorics of RRI”,
+18
+th
+Punjab Science Academy Annual Conference, 7-9 February, 2015, Desh Bhagat University, Mandi Gobingarh, Punjab, India.
+M Rana, “On some extension of Tenth order mock theta functions”,
+International Conference of Special Functions and Their Applications, 16-18 October, 2014, Thapar University, Patiala, India.
+M Rana, “Three-way combinatorial interpretations of some RRI”,
+International Conference of Special Functions and Their Applications, 13-15 December, 2013, MVNIT, Jaipur, India.
+M Rana
+and H Kaur,
+“Combinatorial interpretations of some tenth order mock theta functions”,
+National Conference on Advances in Mathematics & its Applications in Mathematics & its applications, 25-27 June, 2013, NIT, Hamirpur, India.
+M Rana, “Partition theoretic interpretations of Some double series q- identities”,
+International Conference of Special Functions and Their Applications, 27-29 June 2012, SVNIT, Surat, India.
+M Rana, “Partition theoretic interpretations of RR-type identities”,
+Twenty first international conference of forum for Interdisciplinary Mathematics, 15-17 Dec, 2012, P.U., Chandigarh, India.
+M Rana, “On a fifth order mock theta function”,
+98
+th
+Indian Science Congress, 3-7 Jan 2011, SRM University, Chennai, India.
+M Rana
+and A K Agarwal
+, “New combinatorial versions of Gollnitz-Gordon identities”
+11
+th
+Punjab Science congress, 7-9 Feb, 2008, T. U., Patiala, India.
+M Rana
+and A K Agarwal
+, “Partition theoretic interpretation of a fifth order mock theta function”
+74
+rd
+annual conference of IMS, 27-30 Dec, 2008, University of Allahabad, Allahabad, India.
+M Rana
+and A K Agarwal,
+“On a Combinatorial identity”, 73
+rd
+annual conference of IMS
+, 27-30 Dec, 2007, University of Pune, Pune, India.
+Invited Talks
+On mock theta functions of Gordon–McIntosh & Gu-Hao, at International Conference on Number Theory and Graph Theory, to be held on January 18-20, 2023, at Manipal Academy of Higher Education (MAHE), Manipal, India.
+Enumeration of mock theta functions treating them as q-series, ICND-2021, December 20-24
+, 2021.
+“q-Series and Split (n+t)-Color Partitions” International Conference on Special Functions and their Applications, 9-11 September 2016, Jamia Millia Islamia, New Delhi
+“On Multiple Integrals and its applications in engineering, October 20, 2015, Chandigarh Engineering College, Landran, Mohali, Punjab, India.
+“On some extension of Tenth order mock theta functions”, International Conference of Special Functions and Their Applications, 16-18 October, 2014, Thapar Institute of Engineering & Technology, Patiala, India.
+“Applications of Mathematics in Engineering, Rayat and Behra Institute for Women, Khrar, Mohali, February 07, 2014.
+“Three way combinatorial interpretations of some RRI” International Conference of Special Functions and Their Applications, 13-15 Dec, 2013, MVNIT, Jaipur, India.
+Awards and Honours
+Awarded for $750 by Simon Fraser University, Burnaby for participating in conference “Connections to Discrete Mathematics”
+Awarded by best paper in Number Theory/Algebra in Indian Mathematical Society Annual Conference (IMS) - 2007
+2
+nd
+Rank in M.Sc. (Hons.) Mathematics, Panjab University, 2003
+4
+th
+Rank in B.Sc.(Hons.) Mathematics, Panjab University, 2001
+Visit Abroad
+University of Illinois, June 5-9, 2019, USA (Conference)
+Simon Fraser University, Burnaby, Canada Jun 15- June 24 (Conference)
+Trinity College Dublin, Jan 06-Feb 24, 2018 (Teaching and Learning in Higher Education Program
+Administrative/Additional Responsibilities
+Member of scrutiny of candidate for faculty position committee.
+Member of PH.D. candidate selection committee, year 2022-23.
+Member in Committee for Prevention of Unfair Means (CPUM), 2021-23, TIET
+Ex Warden-PG hostel, Thapar University, 2016-2020
+School Profile Coordinator, School of Mathematics. (2010-2012)
+President, Thapar Mathematical Society (2016-2023)
+Vice President - Kalam (Under privileged children society)
+Faculty Advisor/Nodal Officer-Gender Champion Club (2017-2021)
+Description of Research Interests
+Dr. Rana’s interest is in Partition Theory and her motivation is Ramanujan’s Mock Theta Functions. Her most work include the interpretations of many basic series and mock theta functions using colored partitions, lattice paths, F-partitions and a special class of infinite matrices, and she worked with many other combinatorial tools. Her current interest are in establishing direct bijections between different combinatorial tools and their combinatorial connections.

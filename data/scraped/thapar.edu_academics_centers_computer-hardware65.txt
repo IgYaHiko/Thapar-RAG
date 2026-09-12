@@ -1,0 +1,49 @@
+SOURCE: https://thapar.edu/academics/centers/computer-hardware65
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Computer Hardware
+S.No.
+Name of the laboratory
+Name of Equipment
+1.
+Data Centre
+Server:
+1.Dell Servers – 10
+2.KVM Switch -01
+3.Central Storage-01
+4.Server Rack -03
+5.Dell Optiplex 330 P-IV – 02
+6.Dell Optiplex 360 P-IV – 02
+7.Dell Optiplex 9010 – 01
+2.
+CITM- NOC
+1.Dell Power Edge R 730 Storage Server- 02
+2.HP SAN P4300 -01
+3.HP Proliant ML 350P Storage Server- 01
+4.Dell Optiplex 9010 – 01
+5.Dell Optiplex 330 P-IV – 01
+6.Dell Optiplex 380 P-IV – 01
+7.Dell Optiplex AIO Series 7440- 02
+3.
+General Computing Lab-I
+Dell Optiplex AlO 9010
+Dell Optiplex AIO Series 7440
+4.
+General Computing Lab-II
+Dell Optiplex AIO Series 7440
+5.
+Video Conferencing System
+Lifesize UVC Multipoint with 5 Flex ports, Lifesize UVC Clearsea with 5 Video calling ports, Lifesize Icon 600 10X PTZ, 65" Professional Display
+6.
+IP Camera Surviellance
+Hikvision Camers-245/ NVRs-20
+7.
+Used Across all Labs
+Laptop – 09
+8.
+Printers: 05
+9.
+Projectors:
+DLP Data Sharp Projector XR – 1x
+DLP Projector PG-LW 3000

@@ -1,0 +1,706 @@
+SOURCE: https://ced.thapar.edu/research
+TITLE: Civil Engineering Department- Major Research Area | TIET
+------------------------------------------------------------
+
+Research and Consultancy
+Delivering excellence via varied research and consultancy avenues, trained faculty and innovation
+Major Research Areas
+Civil engineering department, TIET has put forward a strong foot in numerous consultancy projects in Structural, Transportation & Geotechnical Engineering from various Government & Industrial Organisations
+Structural Health Monitoring (SHM) & Retrofitting of Structures
+Damage detection and real time monitoring of civil infrastructures using: i. Vibration diagnostics ï. Ultrasonic guided waves üi. Acoustic emission iv. Infrared thermography v. Digital image correlation using high speed camera
+Retrofitting of structures using FRP, Ferro cement and UHP-HFRC Me TOD
+Cement & Cement based Materials
+Self-compacting concrete Behaviour of concrete at elevated temperatures Ultra-high performance concrete
+Reliability based design
+Water Resource Engineering
+Contaminate transport in groundwater Water quality modelling
+Fluvial hydraulics
+Water resources management
+Transportation Engineering
+Pavement Maintenance Management Systems for various categories of roads
+Rheological properties of Paving Bitumen including modified binders
+Mechanistic empirical structural design of pavements using various stabilized layers
+Development of road safety methodology using sustainable design facilitating NMT and pedestrian traffic
+Transportation planning and traffic impact studies
+Ongoing Sponsored Projects
+The department has ongoing sponsored research projects worth Rs 375 lakhs.
+Handling consultancy and testing services for several government and private clients including Punjab PWD, PUDA, Municipal Corporations, Improvement Trust, NHAI, SP Singla Constructions, and Military Engineer Services, etc.
+The department got appointed as ‘Road Safety Consultant’ for NH-21 & NH-1A by NHAI and 7 National Highways/State Highways for PWD (B&R)/MORTH projects in state of Punjab, Bihar, West Bengal, Orissa, J&K & Rajasthan by private concessionaire.
+Investigation on SMA Fibers for Retrofitting of RC Structures
+Development of a Novel Graphene Based Smart Self-sensing Coatings for Concrete
+Development of Smart Concrete with Self-Assessing Properties
+Application of Biochar to Develop Cementitious Composite for Various Building Materials
+A Low-Cost Seismic Vibration Control Mechanism for RC Buildings
+Sustainable Nano-Engineered Smart Self-Healing Concrete Utilizing Graphene and Its Derivatives
+Eco-Friendly Pervious Concrete Using Chemically Activated Fly-Ash and Graphene Derivatives
+Characterization and Performance Evaluation of Styrene-Butadiene-Styrene (SBS) Modified Asphalt Reinforced with Nanomaterials
+Development of a self-sensing cementitious composite for smart structural health monitoring
+Valorisation of activated marble dust along with industrial and agricultural waste for advanced construction applications: Ultra low Water Absorption, Remarkable Thermal and Mechanical Behaviour.
+Intervention of Artificial Intelligence for conducting Road Safety Audit using video streaming through IoT based
+Bio mediated cementation for concrete problems
+Development of Self-Healing Concrete using Bacteria
+Behavior of Corroded and Corrosion Repaired RC Beams using Advanced Non-Destructive Techniques of Infrared Thermography (IRT) and Digital Image Correlation (DIC)
+Analysis of Virus Transport through Subsurface Media
+Behaviour of External Beam-Column Joint Retrofitted using UHP-HFRC
+Bond Behaviour Between FRP and Damaged Concrete
+Performance Evaluation of Generic Compounds with effective Functional groups as corrosion Inhibitors for RC structures
+Optimization Techniques for design of Ultra-High Performance Concrete Mixes
+Special Assistance Program (DRS-Phase-III), Structural Health monitoring of RC buildings for earthquakes using guided waves & vibration diagnostics
+Resistance properties of coal-water slurry flowing through local piping fittings
+Lateral and longitudinal hydrodynamic dispersion through rigid and flexible vegetation
+Ultrasonic Guided Wave Approach for monitoring setting and hardening of concrete
+Detection of Corrosion by Ultrasonic and Acoustic Emission Techniques
+Investigation of corrosion and its progression in ship hulls
+Utilization of cement kiln dust in concrete after removal of alkalinity and metal toxicity with microbes
+FRP Stay-in-place Structural Form work for Concrete Floors
+Durability enhancement and prevention of damages in RC structures using bacteria
+Details of Sponsored Research Projects (2017-)
+Name of of the PI/ Co-PI
+Title of the research project
+Name of the funding agaency
+Duration (years)
+Year of award or sanction
+Amount in INR.
+Dr Prem Pal Bansal, Dr Gurbir Kaur
+BEHAVIOUR OF EXTERNAL BEAM- COLUMN JOINT RETROFITTED USING CONFINED UHP-HFRC
+SERB, DST
+3
+2017
+8,747,200
+Dr. Shweta Goyal
+Bio mediated cementation for concrete problems.
+DST-SEED
+3
+2018
+4,212,000
+Dr. DWARIKANATH RATHA
+Analysis of virus transport through subsurface media
+CSIR
+3
+2018
+2,346,000
+Dr. Shruti Sharma
+Behavior of corroded and corrosion repaired RC Beams using advanced non-destructive techniques of Acoiustic Emission and Digital Image Correlation.
+DST-SERB
+3
+2018
+3,288,000
+Dr. Danie Roy AB
+Bond Behaviour Between FRP and Damaged Concrete
+Ushta Infinity Construction Company Pvt. Ltd. (UICCPL)
+3
+2018
+500,000
+Dr. Shweta Goyal
+Development of self healing concrete using bacteria
+National Buildings Construction Corporation
+3
+2018
+5,300,000
+Dr. Shweta Goyal
+Self healing of cracks in concrete and durability enhancement of building materials by autotrphic bacteria
+DBT
+3
+2018
+1,500,000
+Dr. Shweta Goyal
+Accelerated carbonation curing of concrete: An Effective Carbon foot print reduction and water conservation
+AICTE RPS
+3
+2019
+549,000
+Dr. Shweta Goyal; Dr Vijay Luxmi
+Performance Evaluation of Generic compounds with effective functional groups as corrosion inhibitors for RC structures
+AERB
+3
+2019
+3,479,000
+Dr. Shweta Goyal
+Development of Accelerated Carbonation Curing Procedure as an effective CO2 sequestaration and water conservation technique.
+NBCC
+3
+2020
+7,289,000
+Dr. Shruti Sharma, Dr. Sandeep K Sharma
+Dr. Rajeev Mehta
+Graphene Based Epoxy Coatings for corrosion inhibition in Reinforcing ars in Concrete
+xx-CEEMS TIET
+3
+2020
+1,110,000
+Dr. Naveen Kwatral Dr. Himanshu Chawla
+Development of Graphene Sensors for Structural Helath Monitoring of Structures Retrofitted with Graphene-FRP composites
+xx-CEEMS, VT-TIET
+3
+2020
+1,150,000
+Dr. Himanshu Chawla
+Study the Structural response of FRP U-shaped girders
+xx-Seed Money-TIET
+2
+2020
+200,000
+Dr. Prempal Bansal and Gurbir Kaur
+Behavior of External Beam column Joints Retrofitted using Confined UHP-HFRC
+DST
+3
+2020
+8,747,000
+Dr. Shruti Sharma
+Sustainable Concrete Using Epoxy Nano-composite Coatings utilizing Coal Derived Graphene and Its Derivatives
+xx-CEEMS-SEED MONEY
+1
+2021
+100,000
+Dr. Shruti Sharma
+Field Scale Biogenic Treatment for Crack Remediation and Self -Healing in Concrete Structures
+Department of Science and Technology (DST), CRG
+3
+2021
+4,735,000
+Dr. Tanuj Chopra, Dr. Vinay Arora
+Intervention of Artificial Intelligence for conducting Road Safety Audit using video streaming through IoT based
+SP Singla Constructions Pvt Ltd
+2
+2021
+556,000
+Dr Vivek, Dr Tanuj and Dr Prem Pal Bansal
+Detailed characterization of industrial slag of lead recycling industry for possible utilization as a construction material
+Gravita
+2
+2021
+655,000
+Dr Trishna Choudhury and Dr Dhirendra Pandey (NIT Agartala)
+Low cost seismic vibration control for RC buildings using Compliant Tuned Liquid Dampers
+SERB
+3
+2022
+2,558,556
+Dr Arpit Goyal and Dr Shruti Sharma
+Development of Smart Concrete with Self-Assessing Properties
+xx-CEEMS-TIET
+3
+2022
+1,360,000
+Dr AB Danie Roy, Dr Arpit Goyal and Dr Manpreet Singh
+Application of Biochar to Develop Cementitious Composite for Various Building Materials
+xx-CEEMS-TIET
+3
+2022
+1,382,000
+Dr. Shruti Sharma, Dr. Rafat Siddique
+Eco-Friendly Pervious Concrete Using Chemically Activated Fly-Ash and Graphene Derivatives
+xx-CEEMS-TIET
+3
+2022
+1,360,000
+Dr. Abhinay Kumar
+Assessment of prolonged storage stability characteristics of polymer modified asphalt binders
+xx-TIET SEED GRANT
+2
+2022
+548,000
+Dr Trishna Choudhury
+Investigation on self centering and energy dissipation of sma fibers for RC structures
+xx-TIET CEEMS
+3
+2022
+1,260,000
+Dr. Tanuj Chopra, Dr. Vivek Gupta & Prof. Rajeev Mehta
+Characterization and performance evaluation of Styrene butadiene Styrene (SBS) modified asphalt reinforced with nano materials
+xx-TIET CEEMS
+3
+2022
+1,200,000
+Dr. Naveen Kwatra, Dr. Shweta Goyal, Dr. Tarun Bera
+3D Printing of Buildings with Appropriate Concrete Mixes using Gantry Robot
+SERB, Govt of India
+3
+2022
+1,980,000
+Dr Shruti Sharma,Dr. Rajeev Mehta
+Sustainable Nano-Engineered Smart Self-Healing Concrete Utilizing
+Graphene and Its Derivatives
+SERB-Power-DST
+3
+2022
+2,982,408
+Dr. Naveen Kwatra, Dr. Shweta Goyal, Dr. Tarun Bera
+Design Development of 6-Axis Robotic Arm for 3D Printing of Buildings with Appropriate Concrete
+La Foundation Dassault Systems
+2
+2022
+2,410,000
+Dr Arpit Goyal
+Development of a self-sensing cementitious composite for smart structural health monitoring
+xx-Seed Money-TIET
+2
+2022
+460,000
+Dr Manpreet Singh
+Valorisation of activated marble dust along with industrial and agricultural waste for advanced construction applications: Ultra low Water Absorption, Remarkable Thermal and Mechanical Behaviour.
+xx-Seed Money-TIET
+2
+2022
+430,000
+Dr. Dipanjan Mukherjee
+Development of a methodological framework for road safety assessment using combined reactive and proactive approaches
+xx-TIET SEED GRANT
+2
+2023
+387,000
+Dr. Abhinay Kumar; Dr. Dhamodharan. K
+Development of Sustainable Pavement Preservation Materials with Carbonaceous Chars as Alternative Fillers
+xx-CEEMS, VT-TIET
+2
+2023
+1,310,000
+Dr. Kumari Monu
+Novel technique to modify recycled concrete aggregates using waste plastic
+xx-TIET SEED GRANT
+2
+2023
+355,000
+Dr. Surya Kant Sahdeo
+Roller compacted concrete roads containing 100% recycled materials
+xx-TIET SEED GRANT
+2
+2023
+442,000
+Dr. Vivek Gupta
+Sustainable building bricks from brine sludge generated in chlor-alkali industries
+xx-TIET SEED GRANT
+2
+2023
+745,000
+Dr. Pratik Tiwari
+Development of laminated hemp fiber composites for low velocity impact resistance
+xx-TIET SEED GRANT
+2
+2023
+795,000
+Dr Arpit Goyal,Dr Shruti Sharma
+Development of a Novel Graphene Based Smart Self-sensing Coatings for Concrete
+DST-AMT
+3
+2023
+4,724,232
+Dr. Vivek Gupta
+Technology Dissemination of Compressed Colored Composite for a wide range of products to support sustainable rural infrastructure
+DST/TDT/TDP
+2
+2023
+1,689,352
+Dr. Shruti Sharma, Dr, Sandeep K Sharma, Dr. Himanshu Chawla, Dr. Rajeev Mehta
+Performance Evaluation of CNF and Graphene Reinforced Hybrid Glass/Carbon Fiber Epoxy Nano-Composite for Improved Ballistic Resistance
+xx-CEEMS-TIET
+3
+2023
+1,200,000
+Dr Prem Pal Bansal
+Advanced Testing Faciltiy
+DST FIST
+3
+2023
+17,900,000
+Dr Shweta Goyal
+International Travel Grant
+ANRF
+2023
+1,92,854
+Dr Shweta Goyal/Dr M S Reddy
+Development of field ready bio-product for crack healing and anti-
+corrosive applications
+NBCC
+3
+2024
+8,416,000
+Dr Shweta Goyal/Dr Arpit Goyal
+A novel bidirectional electromigration rehabilitation (BIEM) technique
+for highly corroded reinforced concrete structures due to high admixed
+chloride
+NBCC
+3
+2024
+4,348,000
+Dr. Shweta Goyal
+Structural Safety Assessment and Analysis of Strengthening Measures for Redevelopment Works of East Kidwai Nagar, New Delhi
+HSCC India Ltd.
+3
+2025
+3,17,89,724
+Dr. Tapas Karmaker
+Functional water parameter for Iron-based arsenic absorption
+New Life Power Gospel Fellowship, Odisha, India
+0.5
+2025
+11,40,400
+Dr. Aditya Parihar, Dr Nitin Arora (CSED), Dr. Trishna Choudhury
+Utilization of AI Generated Model to
+Suggest Optimal Landslide Control Measure for Earthen Slopes
+Seed Grant CoDSAI
+2
+2025
+11,40,000
+Dr. Himanshu Chawla
+Real-Time Health Monitoring and Development of Maintenance Management System for Rigid Pavements using AI/ML
+AKCM
+2026
+13,80,000
+Research Facilites
+Facilities The civil engineering department has received several research and infrastructural grants from agencies such as AICTE, DST, UGC which has fuelled innovative & cutting edge engineering research Well-equipped laboratories with latest software & computing techniques in the fields of Building Materials, Surveying, Geotechnical, Hydraulic, Transportation & Structural Engineering
+Geotechnical Laboratory
+Digital Tri-axial and Direct Shear Test
+Consolidation Test
+Unconfined Compression Test
+Field and Lab Vane Shear Test
+Relative Density Test
+Static Cone Penetration Test
+Plate Load Test
+SPT Apparatus
+Automatic Compactor
+Structure Health Monitoring Lab
+Infrared Thermographic Imaging Camera
+High Speed Digital Camera
+Eight Channel Vibration Diagnostic Equipment
+Acoustic Emission Eight Channel System
+Ultrasonic Pulse Receiver System
+ABAQUS, DISPERSE and Math CAD Softwares
+Water Resources Laboratory
+Hydraulic Flumes
+Wind Tunnel
+Open Channel Flumes
+Hele-Shaw Apparatus
+Acoustic Doppler Velocity Meter
+Fluorometer
+Surveying and GIS Lab
+Total Stations
+Theodolite
+Digital Level
+Auto Levels
+Differential Global Positioning System
+ArcGIS software
+Rolta Geomatica (GIS) Software
+Transportation Engineering
+Dynamic Shear Rheometer (DSR)
+Lightweight Deflectometer (LWD)
+Pavement Quality Indicator (PQI)
+Digital CBR Testing
+Marshal Mix design testing facility
+Rotational Viscometer
+Centrifugal Extractor
+Modified Marshall Stability Testing
+Bump Integrator
+Benkelman Beam Deflectometer (BBD) studies
+HEADS and HDM-4 Software
+Structure Analysis Modular Teaching System (Digital)
+Structure Laboratory
+Servo Control UTM- 1000kN
+Automatic Compression Testing Machine - 5000kN
+Carbonation Chamber
+Muffle Furnace 1200°C
+Actuator – 150 kN
+Rapid Chloride Permeability Test Apparatus
+Data Acquisition System (DAS)
+Non-Destructive Testing Facilities
+Mercury Intrusion Porosity - MIP
+Accelerated Carbonation curing chamber
+Loading frame
+Pre stress arrangement for FRP sheets
+Steam curing apparatus for concrete
+Strain measuring instrument (LVDT)
+Automatic Vicat apparatu
+Penetrometer Make Humbolt (USA)
+Consultancy Earnings
+Year
+Amount (Rs. In Lacs)
+2018-19
+33.30
+2019-20
+41.30
+2020-21
+44.60
+2021-22
+109.25
+202-23
+47.00*
+* Ongoing
+Department handles consultancy and testing services for various government and private clients such as Punjab PWD, PUDA, Municipal Corporations, Improvement Trust, NHAI, SP Singla Constructions, and Military Engineer Services etc. Department has also been appointed as Road Safety Consultant for NH-21 & NH-1A by NHAI and 7 National Highways / State Highways for PWD (B&R) / MORTH projects in state of Punjab, Bihar, West Bengal, Orissa, J&K & Rajasthan by private concessionaire. Department handles consultancy and testing services for various government and private clients such as Punjab PWD, PUDA, Municipal Corporations, Improvement Trust, NHAI, SP Singla Constructions, and Military Engineer Services etc.
+Patents
+List of Patents Granted
+Patent No.
+Patent Title
+Date of Grant
+Agency
+Patentee
+578013
+A system and method for mobile microscopy for point-of-care while blood cell histopathological analysis
+13.01.2026
+Govt. of India
+IIT Indore, TIET Patiala [Inventors: Dr. Puneet Gupta, Rajesh Kumar, Adit Srivastava, Dr. Vivek Gupta, Abhay Bagla]
+359576
+An improved process for external pre-stressing of FRP sheets
+24.02.2021
+Govt of India
+Dr Abhijeet Mukherjee, Dr Shweta Goyal, Thapar University
+2021101363
+Artificial intelligence based system for conducting road safety audit using video streaming through IoT based devices
+28.04.2021
+Govt of Australia
+Dr Vinay Arora, Dr Tanuj Chopra, Rohan Singh Leekham Gaurav Dhiman, Rajesh Gupta
+List of Patents Published
+Application No.
+Patent Title
+Date of Publishing
+Agency
+Patentee
+2021110222231
+Bacterial carrier based inoculum containing efficient bacteria for self-healing concrete
+10.03.2023
+Govt of India
+Dr Shweta Goyal, Dr MS Reddy, Dr Kamal Anand
+202311063853
+Development of infill panel fabrication using rice stubble agricultural waste
+30.08.2024
+Govt of India
+Dr Deepak Jain, Ms Aiman, Dr Naveen Kwatra
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

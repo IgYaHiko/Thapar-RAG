@@ -1,0 +1,924 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Dr.-Maninder-Singh/MTM2/ZmFjdWx0eTM=
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Dr. Maninder Singh
+Professor and Head
+Designation:
+Professor and Head
+Specialization:
+Network Security, Software Engineering, Parallel and Distributed Computing
+Email:
+msingh@thapar.edu
+EXECUTIVE PROFILE
+Academic and technology leader with three decades of unbroken service at Thapar Institute of Engineering & Technology (TIET), Patiala — spanning frontline cybersecurity and AI research, university-wide digital infrastructure command as Chief Technology Officer, and institution-level academic governance as Dean, Academic Affairs. Joined TIET in January 1996 and has since built and operated its entire campus network, ERP and cybersecurity backbone; supervises doctoral and Master's research at scale; secures competitive national and international funding (ICMR, Erasmus+/European Union, Tata Consultancy Services, DRDO); and has delivered over 100 invited talks, keynotes and resource-person sessions nationally. As a National Board of Accreditation (NBA) Evaluator, has personally conducted 50+ accreditation evaluations of Tier-1 and Tier-2 engineering institutes across India — direct, external experience in judging institutional quality. Currently leads the HPC/GPU compute infrastructure, as CTO, for TIET's newly announced collaboration with Imperial College London (announced at the India AI Impact Summit, Patiala, April 2026) to co-develop AI4PDEs-based physicsinformed and generative-AI "digital twin" models forecasting air pollution across Northern India — the systemsengineering backbone of one of the university's flagship AI research partnerships. Most recently, has deliberately supplemented deep technical and academic expertise with general-management readiness for institutional leadership — completing an IIM Kozhikode executive programme for Chief Technology Officers, four NVIDIA Deep Learning Institute credentials, and two Kellogg (Northwestern) executive programmes in AI strategy and growth strategy, all across 2024– 2025.
+Recent Executive & Leadership Development (2024–2025)
+Programme
+Institution
+Period
+Chief Technology Officer — eMDP Professional Certificate Programme
+Indian Institute of Management Kozhikode (IIM-K)
+Oct 2024 – Jul 2025
+Certificate of Competency — Fundamentals of Deep Learning
+NVIDIA Deep Learning Institute
+Feb 2025
+Certificate of Competency — Building AI-Based Cybersecurity Pipelines
+NVIDIA Deep Learning Institute
+Mar 2025
+University Ambassador — certified to deliver NVIDIA instructor-led workshops for academia
+NVIDIA Deep Learning Institute
+Apr 2025
+Certified Instructor — "Building AI-Based Cybersecurity Pipelines"
+NVIDIA Deep Learning Institute
+Apr 2025
+AI Strategies for Business Transformation —
+"Strategize, Innovate, and Transform with AI"
+Northwestern University, Kellogg School of Management (Executive Education)
+Jun – Aug 2025
+Business Strategies for Growth — "Fewer, Bigger, Bolder"
+Northwestern University, Kellogg School of Management (Executive Education)
+Aug – Oct 2025
+EDUCATION
+Year
+Degree
+Institution
+Distinction
+2007
+Ph.D. (Computer Science & Engineering)
+Thapar University, Patiala
+Topic: A Proactive Network Surveillance Framework
+2003
+M.E. (Software Engineering)
+T.I.E.T., Patiala
+1st, Honours, 9.06 CGPA
+1994
+B.E. (Computer Science & Engineering)
+Pune University
+1st Division
+COMPLETE POSITION HISTORY (1995 – PRESENT)
+Dean, Academic Affairs
+—  Thapar Institute of Engineering & Technology (TIET)  (Mar 2022 – June 2025)
+Oversee academic policy, curriculum development and teaching quality across the university; lead academic planning and NBA/accreditation compliance; supervise departments, faculty performance and teaching standards; manage academic calendars and student academic development.
+Chief Technology Officer (CTO)
+—  Thapar Institute of Engineering & Technology (TIET)  (Jul 2024 – Present)
+Drive institution-wide technology strategy and infrastructure for learning, teaching, research and administration; oversee campuswide IT infrastructure, cybersecurity and data systems; lead integration of educational technologies (LMS, virtual classrooms); support research through HPC/GPU computing; manage IT teams, vendors and technology budgets.
+Professor & Head, Computer Science & Engineering
+—  Thapar University  (Jul 2017 – Present)
+UG/PG teaching, research, project/network-auditing consultation, doctoral admissions (also served as Head, Jun 2016–Mar 2022, and Nov 2010–Nov 2013).
+Head, Centre of Information Technology Management (CITM)
+—  Thapar University  (Sep 2014 – Present)
+University-wide network, ERP and IT strategy: planning, deployment and management for the entire campus.
+Associate Professor
+—  Thapar University  (Nov 2013 – Jul 2017)
+UG/PG teaching, research, project consultation.
+Associate Professor & Head, CSE
+—  Thapar University  (May 2007 – Nov 2009)
+UG/PG teaching, research, network management for a 4,000+ node wired/wireless campus network; secure Internet-facing DMZ design for thapar.edu.
+Assistant Professor & Network Manager
+—  Thapar University  (Mar 2005 – May 2007)
+UG/PG teaching, network management for 1,050+ nodes and 7 servers, including Citrix, security wall, mail server and TIET's public web identity.
+Assistant Professor & Network Administrator
+—  Thapar Institute of Engineering & Technology  (Oct 2003 – Mar 2005)
+UG/PG teaching plus network administration and management.
+System Analyst & Network Administrator
+—  Thapar Institute of Engineering & Technology  (Jan 1999 – Mar 2005)
+Active/passive network component administration; Cisco/Cabletron/3Com switch administration; network design and VLAN creation by department.
+System Analyst
+—  Thapar Institute of Engineering & Technology  (Jan 1997 – Oct 2003)
+System, software configuration and administration across a heterogeneous server cluster.
+Lecturer
+—  Thapar Institute of Engineering & Technology  (Jan 1996 – Jan 1997)
+Undergraduate teaching.
+Software Developer
+—  Absolute Solutions Inc.  (Jan 1995 – Jan 1996)
+Software development on 2/3-tier architectures.
+RESEARCH SNAPSHOT & DATABASE RECONCILIATION
+Source
+Publications
+Citations
+h-index / Notes
+Scopus / ScienceDirect author profile
+97
+~2,120+
+h-index 23
+TIET-IRINS / Vidwan (ID 154556)
+101
+~2,287
+h-index 23; institutional master record
+ResearchGate (live, 27 Aug 2026)
+90
+2,410
+h-index 24
+Google Scholar (BUbOzJ8AAAAJ)
+100
+2792
+h-index 28
+Note: differences across databases reflect coverage and disambiguation differences (conference papers, reviews, book chapters, duplicate records, indexing dates), not contradiction. For formal promotion, accreditation or statutory use, the Scopus Author ID and ORCID should be treated as primary disambiguates, with TIET-IRINS as the institutional master record.
+Signature Research Themes
+Cybersecurity & Threat Intelligence:
+zero-day/worm and botnet detection, malware analysis, DNS fingerprinting, intrusion detection, attack-signature generation, network forensics.
+AI for Cybersecurity:
+GPU-accelerated cybersecurity pipelines, anomaly detection, machine learning for threat detection; NVIDIA DLI University Ambassador & Certified Instructor (2025).
+Physics-Informed, Surrogate & Generative AI Systems Infrastructure:
+HPC/GPU infrastructure leadership (as CTO) for the Thapar–Imperial College London AI4PDEs collaboration building physics-informed and generative-AI digital twin models for Northern India air pollution forecasting (announced Apr 2026).
+IoT / Cyber-Physical / Healthcare Security:
+IoMT privacy, blockchain-enabled healthcare security, secure IoT authentication, resource-constrained device security.
+Post-Quantum Security:
+lattice- and code-based authentication and encryption for IoT and resource-constrained devices.
+Cloud & Autonomic Computing:
+self-healing/self-protecting systems, QoS-aware autonomic resource management, energy-efficient optimization.
+Software Engineering & Program Analysis:
+code-clone detection, concurrent-program testing, UML test-scenario synthesis.
+Privacy & Blockchain:
+location privacy in vehicular cloud networks, blockchain supply-chain traceability, geofencing.
+RESEARCH SUPERVISION & MENTORING
+Doctoral (Ph.D.) Theses Supervised — 15 Completed, 4 Ongoing
+Thesis Title
+Supervision
+Autonomic Model for Self-Healing and Self-Protection in Grid Computing using Multi-agents
+Sole Supervisor
+DPI-based Network Security Framework using Grid Infrastructure
+Sole Supervisor
+An Integrated Network Traffic Visualization System for Network Security Enhancement
+Sole Supervisor
+A Network Security Model for Attack Signature Generation, Tracking and Analysis
+Sole Supervisor
+Efficient Zero-Day Attacks Detection Techniques
+Sole Supervisor
+Post-Quantum Cryptography-based Improved Security Mechanism for Resource-Constrained
+IoT Devices
+with Dr. Raman Singh, Dr. Hitesh Tiwari
+A Framework to Enhance Location Privacy using Geo-fence Service over Vehicular Cloud Network
+with Dr. Raman Singh
+Design and Implementation of Computer and Network Forensics Framework
+with Dr. Varinder Pal Singh
+Anomaly-based Botnet Detection using DNS Traffic Analysis
+with Dr. Sanmeet Kaur
+Slicing Technique for Test Path Generation in Concurrent Programs
+with Dr. Rajesh Bhatia
+Development of an Efficient Semantic Code Clone Detection Technique
+with Dr. Rajesh Bhatia
+Framework to Detect, Analyze and Report Zero-Day Malware with Minimum False Positives
+with Dr. Renu Dhir
+Design and Development of a Framework to Detect and Analyse Compromised Hosts in a Campus Network
+with Dr. Vibhakar Mansotra
+Thesis Title
+Supervision
+Blockchain-Based Framework for Anti-Counterfeits in the Supply Chain
+with Dr. Sanmeet Kaur
+Blockchain-Based Secure Framework for Efficient Management of IoT-Generated Healthcare
+Data
+with Dr. Sanmeet Kaur
+Master's / Graduate Theses Supervised (Selected 41 of 50+)
+Lossless Image Compression
+Design and Development of a Linux-Based Honeypot
+Design and Development of Gateway Port Scanner
+Design and Development of Fingerprinting Security Framework
+Capturing, Controlling and Analyzing Network Traffic using Network Processor
+A Framework for Detecting and Classifying Rootkit Exploits
+Transport Level Security in Grid Environment (with Dr. Seema Bawa)
+Design and Development of Forensic Analysis Toolkit for Analysing Malware Binary
+Design and Development of Honeypot for Campus Network
+Vulnerability Analysis of Alchemi .NET Grid Middleware (with Dr. Seema Bawa)
+Designing Masking Ruleset for Hiding Operating System Identity
+A Framework for Measuring Hardening Capabilities of an Operating System
+SNMP Vulnerability Analysis and Suggested Countermeasures for Wireless Networks
+JGSnap: A Graphical Analyzer for Honeysnap
+Design and Development of a Powerful Easy-to-Use Packet Control API for Linux
+Design and Development of Policy Scripts to Detect Network Intrusions Using BRO
+Protocol Compiler Design and Implementation in Network Security Through Deep Packet Inspection
+XML Parser for SIP Message Bodies
+Intrusion Prevention Scripts to Detect Malicious Traffic Using BRO
+Deep Packet Inspection in Linux Kernel Firewall (with V.P. Singh)
+Design and Develop a Campus Honeypot to Detect Intrusions
+Log Visualization to Track Compromised Host on the Network
+Hardening Linux Operating System to Mask against Fingerprinting
+Network Vulnerability Detection Using Ant Colony Optimization
+Ant Colony Optimization (ACO) Based Intrusion Detection System
+Design and Develop ECC for Wireless Sensor Networks
+Parametric Evaluation of IAPP using Software Access Point and Hardware Access Point
+A Hybrid and Enhanced Framework for Visualization and Analysis of Network Traffic Data
+Design, Implement and Deploy Security Mechanisms for SIP
+Security Analysis and Implementation of Session Hijacking on Different Operating Systems
+DDoS Attacks and their Alleviation using iptables
+Buffer Overflow Security Techniques in Windows: Development, Verification and Validation
+Address Space Layout Randomization (ASLR) in Windows & Linux: Proof of Concept Implementation
+Improved IPv6 Trace-Back Technique to Uncover Denial of Service (DoS) Attacks
+Design and Development of Improved Stealth Alternate Data Streams (with Sumit Miglani)
+AVS Scanner: A Black Box Vulnerability Scanner with Minimum False Positives
+XSS Proof of Concept Implementation, Analysis and Countermeasures
+Implementation of Secure, Fast and Efficient RSA Algorithm on GPU
+An Efficient and Secure Database System using OpenCL
+PythonHoneyMonkey: Detecting Malicious Internet Websites on Client-Side Honeypots
+Gene Mutation Analysis — Role of Open Source Tools for Personalized Medication and Designer Drugs
+Courses Taught
+Course
+Level
+Years Taught
+Advanced Software Engineering
+PG
+2005, 2009
+Software Design and Construction
+PG
+2006, 2008
+Network Security
+PG
+2008–2014
+Network Programming and Administration
+UG
+2006, 2009
+Computer Networks
+UG
+2007, 2010–2013
+Computer Programming
+UG
+2007, 2009, 2011, 2012
+Network System Design
+PG
+2007, 2009
+Ethical Hacking
+PG
+2013
+Network Security & Cryptography
+UG
+2013
+Reverse Engineering Malware
+PG
+2014
+Computer and Network Security
+UG (odd sem.)
+2015–2025
+Secure Coding
+PG (even sem.)
+2015–2025
+SPONSORED RESEARCH, CONSULTANCY & STRATEGIC PROJECTS
+Sponsored Projects
+Project
+Duration
+Funding Agency
+Role
+Value
+Indian Languages Technology Solutions (RC-ILTS) Punjabi
+2000–2004
+MoCIT
+Co-PI
+₹89 lakh
+Centre of Excellence in Grid Computing
+2005
+TIET
+Co-PI
+₹20 lakh
+Zero-Day Worm Detection Framework
+2011–2014
+Tata Consultancy Services
+PI
+₹14.5 lakh
+Non-invasive Detection of Tuberculosis via Smart Breathlyzer
+2021–2024
+ICMR
+PI
+₹89.33 lakh
+OPEN-Asia: Capacity Building in Higher Education (Erasmus+)
+2024–2027
+European Union
+Project
+Coordinator
+₹92 lakh
+Thapar–Imperial College London
+Collaboration: Physics-Informed &
+Generative AI Digital Twin for Northern India Air Pollution (AI4PDEs-based surrogate AI)
+2026 –
+Imperial College London /
+TIET (announced, India AI Impact Summit 2026)
+HPC/GPU
+Infrastructure
+Lead
+Infrastructure
+Consultancy Assignments
+Project
+Duration
+Client / Agency
+Design and Deployment of Network-Based IDS and Firewall
+Sep 2007
+Indian Army, DIV HQ, Corps Signals, Patiala
+Project-Based Server Setup Consultation and Training
+Mar 2007
+State Bank of Patiala, Head Office
+Network Auditing & Penetration Testing
+Aug 2007
+State Bank of Patiala, Head Office
+Network Design & Planning
+Jan 2008
+Punjab School Education Board
+Java Project Training & Consultancy
+Apr 2008
+State Bank of Patiala
+Network Design & Implementation
+Sep 2008
+Sant Longowal Institute of Engineering & Technology
+Domain Relocation and Mail Server Provisioning
+Nov–Dec 2008
+State Bank of Patiala
+Penetration Testing
+2007–2009
+Magma Mettcast, JVR Forging & Eastman Impex, Ludhiana
+Project
+Duration
+Client / Agency
+Network Consultant
+2010
+Sri Guru Granth Sahib World University, Fatehgarh Sahib
+Network Consultant
+2011
+Punjab Excise & Taxation Department
+Network Consultant
+2011
+Rajiv Gandhi National University of Law, Patiala
+Network & Security Solution Consultant
+2012
+LM Thapar School of Management, Derabassi
+Network Advisor & Mentor
+2013–14
+Ashoka University, Sonepat
+Penetration Testing
+2016
+DRDO, Delhi
+Network Design & Implementation
+2017–2025
+Thapar Institute (3 consultants)
+BOOKS, MONOGRAPHS & EDUCATIONAL MEDIA
+Title
+Year
+Publisher
+Network Programming and Administration
+2010
+DDE, Thapar University
+Network Security
+2012
+DDE, Thapar University
+UGC Educational Video Lecture Series
+2014
+MHRD, NMEICT eContent Project
+SWAYAM: Information Security Course
+2020, 2024
+Govt. of India, SWAYAM Portal
+AWARDS, HONOURS & PROFESSIONAL CREDENTIALS
+Award / Credential
+Year
+On Roll of Honour, EC-Council USA — Certified Ethical Hacker (C|EH)
+2005; recertified CEH v8, 2014
+Certified Search Engine Optimization Professional (CSEOP), SEO Certification.org, USA
+2006
+Listed, Marquis Who's Who in Science and Engineering, 9th Edition
+2006
+Licensed Penetration Tester (LPT), EC-Council USA
+2007
+EC-Council Certified Security Analyst (ECSA)
+2007
+Shresth Acharya Award, Manav Kalyan Parishad, Punjab
+2008
+SunGuru, Sun Microsystems
+2008
+Cyberoam Certified Network Security Professional (CCNSP)
+2010
+Cisco Instructor Excellence Award — Advanced Level
+2012
+Cisco Instructor Excellence Award — Expert Level
+2013
+Cisco Instructor — Years of Service Recognition
+2013
+ScienceDirect TOP25 (Jan–Mar 2013)
+2013
+Certified Ethical Hacker v8 recertification
+2014
+NVIDIA DLI Certificate of Competency — Fundamentals of Deep Learning
+Feb 2025
+NVIDIA DLI Certificate of Competency — Building AI-Based Cybersecurity Pipelines
+Mar 2025
+NVIDIA DLI University Ambassador — certified to deliver NVIDIA instructor-led workshops for academia
+Apr 2025
+NVIDIA DLI Certified Instructor — "Building AI-Based Cybersecurity Pipelines"
+Apr 2025
+eMDP Professional Certificate Programme: Chief Technology Officer, Indian Institute of Management Kozhikode
+2024–2025
+AI Strategies for Business Transformation, Northwestern Kellogg School of Management (Credential ID 160381649)
+2025
+Award / Credential
+Year
+Business Strategies for Growth — "Fewer, Bigger, Bolder," Northwestern Kellogg School of Management (Credential ID 164359983)
+2025
+"Tux Hero" recognition, Linux For You (LFY) magazine, for open-source network-security toolkit vision
+—
+Featured on "Centre Stage," Headlines Today (national TV channel)
+—
+Workshops / Conferences Organized
+Scope
+Event
+Duration
+Role
+Country
+National
+National Conference on Software Engineering Principles & Practices (SEPP'04)
+Mar 5–6, 2004
+Convener
+India
+National
+National Conference on Bioinformatics Computing (NCBC'05)
+Mar 18–19, 2005
+Member, Technical Committee
+India
+International
+International Workshop on Cloud Computing and High Performance Computing
+Dec 5–8, 2012
+Chairperson & Resource Person
+India
+National
+Faculty Development Programme on Machine Learning
+Feb 25–Mar 1, 2013
+Convener
+India
+Membership of Professional Bodies
+Senior Member, IEEE Computer Society (since Jan 2002)
+Senior Member, ACM
+Life Member, Computer Society of India
+Member, Microsoft Developer Network
+Member, Oracle Technology Network
+Member, Rational Developer Network
+Member, Sun Inner Circle
+Member, Citrix Developer Network
+Accreditation, External Academic Bodies & Governance Service
+Year
+Role
+Body / Institution
+Ongoing
+NBA Evaluator — 50+ accreditation evaluations conducted of Tier-1 and Tier-2 engineering institutes
+National Board of Accreditation (NBA), AICTE
+2024
+Panel participant (as Dean, Academic Affairs, TIET)
+Education Leadership Symposium, Chandigarh
+2023
+Chairperson/Member, 7th Meeting of Faculty of Engineering & Technology
+Maharaja Ranjit Singh Punjab Technical University, Bathinda
+2021
+External Academic Council Member
+Maharaja Ranjit Singh Punjab Technical University, Bathinda
+2014
+Member, Advisory Committee, PTU-sponsored National Conference
+CGC Technical Campus, Jhanjeri
+ANNEX A — PUBLICATIONS IN IEEE REFERENCE STYLE
+Entries below are identity-verified against ORCID 0000-0001-8489-8759 and Scopus ID 56087498600, reconciled with DBLP, Scopus-linked ScienceDirect, ResearchGate and TIET public records. This annex provides the fully verifiable bibliography currently recoverable from public records.
+[1] B. Bharti et al., including M. Singh, "Artificial Intelligence Based Techniques to Detect and Classify Adventitious Respiratory Sounds: An in-Depth Review," 2025.
+[2] H. Al-Balasmeh, M. Singh, and R. Singh, "Hilbert curves-based location privacy technique for vehicular cloud networks," Cluster Computing, vol. 27, no. 3, pp. 2489–2504, 2024. [3] A. Sharma, S. Kaur, and M. Singh, "Enhancing healthcare security: Time-based authentication for privacy-preserving IoMT sensor monitoring framework leveraging blockchain technology," Concurrency and Computation: Practice and Experience, vol. 36, no. 22, 2024.
+Mohit, S. Kaur, and M. Singh, "Design and implementation of blockchain-based supply chain framework with improved traceability, privacy, and ownership," Cluster Computing, vol. 27, no. 3, pp. 2345–2363, 2024.
+Sharma, S. Kaur, and M. Singh, "A secure blockchain framework for the internet of medical things," Transactions on Emerging Telecommunications Technologies, vol. 35, no. 1, 2024.
+Al-Balasmeh, M. Singh, and R. Singh, "Framework of Geofence Service using Dummy Location Privacy Preservation in Vehicular Cloud Network," International Arab Journal of Information Technology, vol. 20, no. 1, pp. 66–77, 2023.
+Singh, M. Singh, and S. Kaur, "TI-16 DNS Labeled Dataset for Detecting Botnets," IEEE Access, vol. 11, pp. 62616–62629, 2023. [8] M. Singh, M. Singh, and S. Kaur, "Identifying bot infection using neural networks on DNS traffic," Journal of Computer Virology and Hacking Techniques, vol. 19, no. 4, pp. 549–563, 2023.
+Kumari, M. Singh, R. Singh, and H. Tewari, "A post-quantum lattice based lightweight authentication and code-based hybrid encryption scheme for IoT devices," Computer Networks, vol. 217, Art. no. 109327, 2022.
+Kumari, M. Singh, R. Singh, and H. Tewari, "Post-quantum cryptography techniques for secure communication in resource-constrained Internet of Things devices: A comprehensive survey," Software: Practice and Experience, vol. 52, no. 10, pp. 2047–2076, 2022.
+Kumari, M. Singh, R. Singh, and H. Tewari, "Signature based Merkle Hash Multiplication algorithm to secure the communication in IoT devices," Knowledge-Based Systems, vol. 253, Art. no. 109543, 2022.
+Al-Balasmeh, M. Singh, and R. Singh, "Framework of data privacy preservation and location obfuscation in vehicular cloud networks," Concurrency and Computation: Practice and Experience, vol. 34, no. 5, 2022.
+Mohit, S. Kaur, and M. Singh, "Design and implementation of transaction privacy by virtue of ownership and traceability in blockchain based supply chain," Cluster Computing, vol. 25, no. 3, pp. 2223–2240, 2022. [14] H. Al-Balasmeh, M. Singh, and R. Singh, "Data and Location Privacy of Smart Devices over Vehicular Cloud Computing," in Proc. 32nd Conf. Open Innovations Association (FRUCT), Tampere, Finland, 2022, pp. 30–37.
+Kumari, M. Singh, R. Singh, and H. Tewari, "To Secure the Communication in Powerful Internet of Things Using Innovative Post-Quantum Cryptographic Method," Arabian Journal for Science and Engineering, 2021.
+Sharma, S. Kaur, and M. Singh, "A comprehensive review on blockchain and Internet of Things in healthcare," Transactions on Emerging Telecommunications Technologies, vol. 32, no. 10, 2021. (Top Downloaded Article)
+Singh, M. Singh, S. Garg, I. Perl, O. Kalyonova, and A. Penskoi, "Multicriteria decision making based optimum virtual machine selection technique for smart cloud environment," Journal of Ambient Intelligence and Smart Environments, vol. 13, no. 3, pp. 185–199, 2021.
+Singh, M. Singh, and S. Kaur, "TI-2016 DNS dataset," IEEE DataPort, 2021.
+Nayyar, S. Arora, and M. Singh, "Recurrent Neural Network Based Intrusion Detection System," 2020.
+Arora, M. Singh, and R. K. Bhatia, "Orientation-based Ant colony algorithm for synthesizing the test scenarios in UML activity diagram," Information and Software Technology, vol. 123, Art. no. 106292, 2020.
+S. Chhabra, V. P. Singh, and M. Singh, "Cyber forensics framework for big data analytics in IoT environment using machine learning," Multimedia Tools and Applications, vol. 79, pp. 15881–15900, 2020.
+Kaur and M. Singh, "Hybrid intrusion detection and signature generation using Deep Recurrent Neural Networks," Neural Computing and Applications, vol. 32, no. 12, pp. 7859–7877, 2020.
+Mahajan, A. K. Ramotra, V. Mansotra, and M. Singh, "An Automated Framework to Uncover Malicious Traffic for University Campus Network," in Smart Innovation, 2020.
+Singh, M. Singh, and S. Kaur, "Issues and challenges in DNS based botnet detection: A survey," Computers & Security, vol. 86, pp. 28–52, 2019. [25] S. S. Gill, I. Chana, M. Singh, and R. Buyya, "RADAR: Self-configuring and self-healing in resource management for enhancing quality of cloud services," Concurrency and Computation: Practice and Experience, vol. 31, no. 1, 2019.
+[26] M. Singh, M. Singh, and S. Kaur, "Detecting bot-infected machines using DNS fingerprinting," Digital Investigation, vol. 28, pp. 14–33, 2019. [27] S. S. Gill, I. Chana, M. Singh, and R. Buyya, "CHOPPER: an intelligent QoS-aware autonomic resource management approach for cloud computing," Cluster Computing, vol. 21, no. 2, pp. 1203–1241, 2018.
+S. Chhabra, V. Singh, and M. Singh, "Hadoop-based analytic framework for cyber forensics," International Journal of Communication Systems, vol. 31, no. 15, 2018.
+Rattan, R. K. Bhatia, and M. Singh, "An empirical study of clone detection in MATLAB/Simulink models," International Journal of Information and Communication Technology, vol. 13, no. 1, pp. 20–33, 2018.
+S. Gill, R. Buyya, I. Chana, M. Singh, and A. Abraham, "BULLET: Particle Swarm Optimization Based Scheduling Technique for Provisioned Cloud Resources," Journal of Network and Systems Management, vol. 26, no. 2, pp. 361–400, 2018.
+Tekchandani, R. K. Bhatia, and M. Singh, "Semantic code clone detection for Internet of Things applications using reaching definition and liveness analysis," The Journal of Supercomputing, vol. 74, no. 9, pp. 4199–4226, 2018.
+Kumar, M. Singh, and A. R. Pais, "Fuzzy String Matching Algorithm for Spam Detection in Twitter," in Security and Privacy—ISEA-ISAP 2018, CCIS, vol. 939, pp. 289–301, Springer, 2018.
+Tekchandani, R. K. Bhatia, and M. Singh, "Code clone genealogy detection on e-health system using Hadoop," Computers & Electrical Engineering, vol. 61, pp. 15–30, 2017.
+Arora, R. K. Bhatia, and M. Singh, "Synthesizing test scenarios in UML activity diagram using a bio-inspired approach," Computer Languages, Systems & Structures, vol. 50, pp. 1–19, 2017.
+Singh, I. Chana, and M. Singh, "The Journey of QoS-Aware Autonomic Cloud Computing," IT Professional, vol. 19, no. 2, pp. 42–49, 2017.
+Singh, I. Chana, M. Singh, and R. Buyya, "SOCCER: Self-Optimization of Energy-efficient Cloud Resources," Cluster Computing, vol. 19, no. 4, pp. 1787–1800, 2016. [37] V. Arora, R. K. Bhatia, and M. Singh, "A systematic review of approaches for testing concurrent programs," Concurrency and Computation:
+Practice and Experience, vol. 28, no. 5, pp. 1572–1611, 2016.
+[38] A. K. Bhardwaj, Y. Gajpal, and M. Singh, "Fuzzy reliability analysis of integrated network traffic visualization system," Journal of Intelligent & Fuzzy Systems, vol. 31, no. 3, pp. 1941–1953, 2016. [39] A. K. Bhardwaj and M. Singh, "Data mining-based integrated network traffic visualization framework for threat detection," Neural Computing and Applications, vol. 26, no. 1, pp. 117–130, 2015. [40] A. Dhammi and M. Singh, "Behavior analysis of malware using machine learning," in Proc. 8th Int. Conf. Contemporary Computing (IC3), 2015, pp. 481–486. [41] P. Kumar and M. Singh, "Mobile applications: Analyzing private data leakage using third party connections," in Proc. ICACCI, Kochi, India, 2015, pp. 57–62.
+Kaur and M. Singh, "A Survey on Zero-Day Polymorphic Worm Detection Techniques," IEEE Communications Surveys & Tutorials, vol. 16, no. 3, pp. 1520–1549, 2014.
+Chopra and M. Singh, "SHAPE—an approach for self-healing and self-protection in complex distributed networks," The Journal of Supercomputing, vol. 67, no. 2, pp. 585–613, 2014.
+Kaur and M. Singh, "Two-Level Automated Approach for Defending Against Obfuscated Zero-Day Attacks," in CRiSIS 2014, LNCS, vol. 8924, pp. 164–179, Springer, 2014.
+Gupta, M. Singh, and V. K. Bhalla, "Pattern matching algorithms for intrusion detection and prevention system: A comparative analysis," in Proc. ICACCI, Delhi, 2014, pp. 50–54.
+Kaur and M. Singh, "Automatic Evaluation and Signature Generation Technique for Thwarting Zero-Day Attacks," in SNDS 2014, CCIS, vol. 420, pp. 298–309, Springer, 2014.
+Kaur and M. Singh, "Automatic Attack Signature Generation Systems: A Review," IEEE Security & Privacy, vol. 11, no. 6, pp. 54–61, 2013.
+Rattan, R. K. Bhatia, and M. Singh, "Software clone detection: A systematic review," Information and Software Technology, vol. 55, no. 7, pp. 1165–1199, 2013.
+K. Khalsa, R. K. Bhatia, J. K. Chhabra, and M. Singh, "A Review of Coupling and Cohesion Measurement in OO Systems Using Program Slicing," in ICISTM 2012, CCIS, vol. 285, pp. 199–210, Springer, 2012.
+Chopra and M. Singh, "SASM—An Approach towards Self-protection in Grid Computing," in ICISTM 2011, CCIS, vol. 141, pp. 149–159, Springer, 2011.
+Chopra and M. Singh, "Implementing Self-Protection in Distributed Grid Environment," Scalable Computing: Practice and Experience, vol. 11, no. 4, 2010.
+Chopra and M. Singh, "Agent based self-healing system for grid computing," in Proc. ICWET 2010, Mumbai, pp. 31–35, ACM, 2010. [53] M. Singh, "A Powerful Easy-to-Use Packet Control API for Linux," in Proc. ARTCom 2009, Kottayam, India, pp. 146–148, IEEE Computer Society, 2009.
+ANNEX B — KEYNOTE, PLENARY & DISTINGUISHED-SPEAKER ADDRESSES
+Year
+Role
+Event / Topic
+Venue
+2026
+Keynote Speaker
+3rd Int'l Conf. on Recent Advancements in
+Communication, Computing and AI (RACCAI-2026)
+CGC University, Mohali
+2026
+Keynote Speaker
+"Redesigning Education for the AI Era" — National
+Seminar, AI in Education
+BCM College of Education, Ludhiana
+2026
+Keynote/Plenary Speaker
+Int'l Conf. on Human Computer Interaction and Cognitive Computing (HCICC-2026)
+Shoolini University
+2026
+Plenary Speaker
+ICON 2026 International Conference
+LM Thapar School of
+Management
+2026
+Invited Speaker
+Young Engineers Forum 2026 — AI & Cyber Security careers
+TIET
+2014
+Keynote Speaker
+Integrating Teacher Education with Technological Advances
+Mata Sahib Kaur Khalsa Girls College, Patiala
+2014
+Session Chair & Keynote Speaker
+National Conference on Advances in Research
+Yamuna Group of Institutes, Yamunanagar
+2014
+Keynote Speaker
+Cyber Pollution: Problems and Remedies
+Khalsa College, Patiala
+2014
+Keynote Speaker
+2nd National Conf. on Emerging Principles & Practices in
+Computers & Communication Media
+SSCET, Badhani, Pathankot
+2013
+Invited Talk
+"Network Security" — delivered on-site
+Chandigarh University, Gharuan (16 Apr 2013)
+2011
+Invited Talk & Session Chair
+Int'l Conf. on High Performance Architecture and Grid Computing (HPAGC 2011)
+Chitkara University, Punjab
+2011
+Invited Talk & Session Chair
+Int'l Conf. on Advances in Computing & Artificial Intelligence (ACAI 2011)
+Chitkara University, Punjab
+2010
+Keynote Address
+"Network Security Attacks and Countermeasures" — 5th
+J&K Science Congress
+University of Jammu
+ANNEX C — INVITED TALKS & RESOURCE-PERSON ENGAGEMENTS, 1999–2014
+Year
+Talk / Session
+Venue
+1999
+Client/Server application development using Sybase/Power Builder
+TIET (27 Mar–2 Apr 1999)
+2000
+Short Term Course: "Java the Internet Language"
+CSED, TIET, under CEEP (19–30 Jun 2000)
+2001
+AICTE-ISTE sponsored STC on Internet, Web & E-Commerce
+TIET (18–29 Jun 2001)
+2001
+Dynamic Web Page development — "Web Page Designing" course
+TIET (17–21 Dec 2001)
+2002
+Technical Talk: "Troubleshooting your Network Problems"
+TIET (2 Feb 2002)
+2002
+Seminar: "Rational Unified Process"
+TIET (25 Jan 2002)
+2002
+Seminar: "Network Security Strategies"
+TIET (20 May 2002)
+2002
+Short Term Course: "Linux System Administration" (CEEP)
+TIET (1–5 Jul 2002)
+2002
+Technical session: "Integrate your Personality with Internet"
+TIET HECL (17 Jul 2002)
+2002
+Lectures on PC-Boot Process — "Workshop on PC Assembly"
+TIET (8 Oct 2002)
+2004
+Resource Person, Curriculum Development Workshop
+Dept. of CS & Applications, Panjab University, Chandigarh (20 May 2004)
+2004
+Resource Person, Brahaspati Online Teaching Web-Based Solution
+IIT Kanpur
+2004
+Invited talk: "Network Security"
+Patel Memorial National College, Rajpura (Dec 2004)
+2004
+Talk on Web-Based Education — Adoption of Technological Changes in Engineering Education
+Dept. of Mech. Engg., TIET (21 Jun–2 Jul 2004)
+2004
+E-Education Series of Seminars for TIET faculty
+TIET (30 Jul & 28 Aug 2004)
+2005
+Invited talk: Network Security — National Seminar on Information Security
+NIT Jalandhar
+2005
+Invited Lecture: Network Security
+Panjab University, Chandigarh (22–23 Feb 2005)
+2005
+Invited talk: Network Security and Its Implementation (UGC National Seminar)
+Doaba College, Jalandhar (1 Mar 2005)
+2005
+Resource Person, UGC Refresher Course: "Computer Networks: Present & Future"
+Computer Centre, TIET (5–24 Dec 2005)
+2005
+Half-day session on Network-based Computational Resources & Security
+Sant Longowal Institute (Longowal)
+2006
+Invited talk: Mobile Security
+Infosys Technologies Ltd., Mohali
+2006
+Two-day session on Software Project Management (UGC refresher course)
+School of Maths & Computer Applications, TIET (4–22 Dec 2006)
+2006
+Expert lecture: WiFi Networks (UGC refresher course)
+Dept. of ECE, TIET (4–23 Dec 2006)
+2007
+Expert talk: Network Security — IBM Technology Day
+Thapar University (30 Aug 2007)
+2008
+Expert Lecture: Computer Networks (video conference)
+Hansraj Kanya Mahavidyala, Jalandhar, via Reliance World (26 Nov 2008)
+2008
+Expert Lecture: Computer Networks
+Sant Longowal Institute of Engineering & Technology (12 Dec 2008)
+2010
+Ethical Hacking Workshop
+Chitkara Institute of Engineering & Technology, Rajpura (5–6 Feb 2010)
+2010
+Resource Person, refresher course on Network Security
+Punjabi University (25 May 2010)
+2010
+Invited Speaker: Wireless Networks & Network Security
+Sant Longowal Institute (5–6 Jul 2010)
+2010
+Invited Security Sessions I & II, Refresher Course in CS & Applications
+Academic Staff College, Punjabi University, Patiala (25 May 2010)
+2011
+Invited Talks: "How to surf Internet Securely" & "Researching your Topic Online"
+7th Orientation Course, ASC, Punjabi University
+(11 Mar 2011)
+2011
+Expert Sessions: Network Security I & II (UGC-ASC refresher course)
+UIET, Panjab University, Chandigarh (20 Jun 2011)
+2011
+Conducted 6-session Cloud Computing workshop, HPAGC 2011
+Chitkara University, Punjab (20 Jul 2011)
+2011
+Series of Expert Lectures, PTU-sponsored FDP on Cloud Computing
+Desh Bhagat Institute of Professional Studies (25–27 Jul 2011)
+2011
+Invited Talk: Smart Search using Internet and Web Identity Exposure
+Workshop for Ph.D. Students, ASC, Punjabi University (28 Jul 2011)
+2011
+Expert Talk: "How to prepare a Research Paper using LaTeX"
+ASC, Punjabi University (14 Sep 2011)
+2011
+Expert Talk: "How to write a Research Paper", 9th Orientation Course
+ASC, Punjabi University (14 Sep 2011)
+2011
+Expert Lecture & Session Chair, National Seminar on Emerging Trends in CS & IT
+Institute of Engg. & Tech., Bhaddal, Ropar (2 Nov 2011)
+2011
+Expert Sessions: Network Security I & II (UGC-ASC refresher course)
+UIET, Panjab University, Chandigarh (3 Dec 2011)
+2012
+Expert Talk: "Network Security: DNS Spoofing and Countermeasures"
+CGC, Ghauan, Mohali (16 Jan 2012)
+2012
+Invited Security Sessions I & II, 22nd Refresher Course
+Distance Education Dept., Punjabi University (3 Feb 2012)
+2012
+Expert lectures: "Secure Internet Surfing" & "Digital Identity and Certificates"
+ASC, Punjabi University (9 Feb 2012)
+2012
+Expert Talk: "Network Security", 11th Orientation Course
+ASC, Punjabi University (16 Feb 2012)
+2012
+Invited Talks: "Financial Transactions Online" & "Securing Online Assets"
+8th Orientation Course, ASC, Punjabi University
+(11 Mar 2012)
+2012
+Expert Talk: "ARP Spoofing and Countermeasures", National Conf. CYBSEC
+Gujranwala Guru Nanak Institute, Ludhiana (31 Mar 2012)
+2012
+Expert Lectures, PTU FDP: "Wireless Networks in Medical Field"
+Apeejay Institute of Management, Jalandhar (16 May 2012)
+2012
+Expert Lectures, PTU FDP on Cloud Computing
+Dept. of IT, MMIT, Malout (4–5 Jun 2012)
+2012
+Resource Person, AICTE Staff Development Programme
+Bhai Gurdas Institute of Engg. & Tech., Sangrur (14 Jun 2012)
+2012
+Expert Speaker: Network Security, PTU FDP
+Rayat Institute of Engg. & IT, Railmajra, Rupnagar (9 Jul 2012)
+2012
+Expert Speaker: Network Learning as an Educational Tool
+Gujranwala Guru Nanak Institute, Ludhiana (22 Jul 2012)
+2012
+Expert Speaker, Workshop on Network Security (4 sessions)
+Baba Ghulam Shah Badshah University, Rajouri, J&K (3 Sep 2012)
+2012
+Invited Talk: "Big Data Challenges and Crowd Outsourcing", Int'l Conf. on Quality of Higher Education
+Kanya Maha Vidyala, Jalandhar (26–27 Oct 2012)
+2012
+Invited Talk: "New Age Internet Technologies & Applications"
+GGNIMT, Ludhiana (20 Dec 2012)
+2013
+Invited Talk: "Cloud Computing Technology and its Implications"
+Ludhiana College of Engineering & Technology (4 Jan 2013)
+2013
+Invited Talk: "Network Security: ARP Spoofing and DNS Poisoning"
+UGC-ASC, University of Jammu (5 Jan 2013)
+2013
+Invited Talk: "Cyber Identity: How-to?", National Seminar on Emerging Technologies
+Dev Samaj College for Women, Ferozepur (30 Jan 2013)
+Year
+Talk / Session
+Venue
+2013
+Invited Speaker, State Education Summit Punjab
+Hometel, Chandigarh (7–8 Feb 2013)
+2013
+Expert Talk: "DNS Poisoning", National Seminar on Cyber Dynamics
+Chandigarh Group of Colleges, Landran, Mohali (18 Feb 2013)
+2013
+Invited Talk, AICTE FDP on Software Quality Engineering & Teaching-Learning Systems
+BVICAM, Paschim Vihar, New Delhi (22 Feb 2013)
+2013
+Invited Talk: "Cyber Forensics", Int'l Symposium on Emerging Paradigms in Forensic Science
+Dept. of Forensic Science, Punjabi University (8 Mar 2013)
+2013
+Invited Talk: "DNS and ARP Poisoning"
+BBSBEC, Fatehgarh Sahib (14 Mar 2013)
+2013
+Invited Talk: "Website Identity and First Line of Defense"
+SD College (Lahore), Ambala (20 Mar 2013)
+2013
+Invited Talk: "Network Security"
+Chandigarh University, Gharuan (16 Apr 2013)
+2013
+Series of Sessions, Cloud Computing & its Applications (CCAES2013)
+Rajasthan Technical University, Kota (22–25 Apr 2013)
+2013
+Series of Sessions on Network Security and Cloud Computing
+Dibrugarh University, Assam (2–5 May 2013)
+2013
+Resource Person, 34th Refresher Course in Professional Courses
+ASC, Punjabi University (13 May 2013)
+2013
+Expert Talk: "Network Security"
+Rayat Bahra College of Engineering, Mohali (17 Oct 2013)
+2013
+Expert Talk: "Cloud Resource Provisioning using CloudStack", AICTE Winter School
+NITTTR, Chandigarh (11–22 Nov 2013)
+2013
+Resource Person, 38th Refresher Courses in CS & IT
+ASC, Punjabi University (27 Nov 2013)
+2013
+Resource Person, 5-day FDP: "Recent Trends in Cloud Computing and Big Data"
+Indira Gandhi Delhi Technical University for
+Women (16–20 Dec 2013)
+2014
+Resource Person, TEQIP-II FDP: "Computational Research Methodologies in Information Security"
+Guru Nanak Dev Engineering College, Ludhiana (6–10 Jan 2014)
+2014
+Expert Talk: "Information Security", National Conf. on Emerging Horizons in Science & Technology
+Sri Guru Granth Sahib World University, Fatehgarh Sahib (17–18 Jan 2014)
+2014
+Resource Person, 19th Orientation Course
+ASC, Punjabi University (6 Mar 2014)
+2014
+Resource Person, 3-Day Workshop on Wireless Network Simulation using NS2
+IEEE/ACM Student Chapters, Thapar University (13–15 Mar 2014)
+2014
+Expert Talk: "Cyber Attacks and Countermeasures", CII/CDAC programme
+Chandigarh (19 Mar 2014)
+2014
+Expert Talk: "Unconventional Computing"
+GGNIMT, Ludhiana (22 Mar 2014)
+2014
+Expert Talk: "ARP Spoofing"
+Global Institute of Management & Emerging Technologies, Amritsar (28 Mar 2014)
+2014
+Expert Talk: "Digital Services and Applications through NGN"
+Embassy of France in India / CSI, India Habitat Centre, New Delhi (5 Apr 2014)
+2014
+Invited Talk: "Network Programming"
+Rayat Bahra College of Engineering, Mohali (8 Apr 2014)
+2014
+Expert Lecture: "Network Security Issues and Countermeasures"
+GGS College of Modern Technology, Kharar (10 Apr 2014)
+2014
+Resource Person, 20th & 21st & 22nd Orientation Courses
+ASC, Punjabi University (Apr–Jun 2014)
+2014
+Resource Person, 41st & 43rd Refresher Courses in Research Methodologies
+ASC, Punjabi University (Apr–May 2014)
+2014
+Resource Person, TEQIP-II Int'l Conf. on Emerging Technologies
+NC College, Israna, Panipat (24–26 Apr 2014)
+2014
+Resource Person, Short Term Program on Network Security & Firewalls (NITTR)
+MIMIT, Malout (27 Apr 2014)
+2014
+Resource Person, IEEE 1-Day Workshop on NS3
+MM University, Mullana, Ambala (12 May 2014)
+2014
+Resource Person, Summer School: "Relevance of Research in Sciences & Social Sciences"
+ASC, Punjabi University (23 May 2014)
+2014
+Resource Person, 5-day FDP: "Cloud Computing & its Applications"
+Chandigarh Group of Colleges, Landran (30 Jun 2014)
+2014
+Resource Person: "Cyber Security to Cyber Intelligence", TEQIP-II FDP
+Guru Nanak Dev Engineering College, Ludhiana (9 Jul 2014)
+2014
+Resource Person, FDP: "Network Security Challenges and Solutions"
+Rayat Bahra College of Engineering, Mohali (15 Jul 2014)
+2014
+Resource Person, FDP: "Relational Database Management Systems"
+Rayat Bahra College of Engineering, Mohali (25 Jul 2014)
+ANNEX D — COURSES, CONFERENCES & TRAINING ATTENDED
+Year
+Course / Event
+Venue
+1996
+Software Training Programme: VHDL Analysis & Simulation Tools
+IIT Bombay (Project IMPACT)
+1997
+Winter School on Industry-Institute Partnership (AICTE/ISTE)
+TIET
+1999
+Seminar: "Making the Network for You" (Onward Novell)
+GNE, Ludhiana
+2000–2001
+Leverage the Internet; workshops on Fluke Network Tools; Java Development (Sun); Citrix
+TIET / New Delhi
+2001
+Foresight Symposium on R&D Challenges before Indian Industry
+TIET
+2001
+IBM courses: DB2 Database; WebSphere & Web Studio
+TIET
+2001
+STQC course: Introduction to SW-CMM
+New Delhi
+2001
+Rational courses: Team Testing Fundamentals; ClearCase & UCM
+Rational, Delhi
+2002
+Advanced JAVA Programming; Visual C++ (AICTE-ISTE STCs)
+TIET
+2002
+AICTE–Sun Microsystems Academia Meet on Java Education
+AICTE
+2003
+Workshop: Intel IXA-1200 Network Processors
+IISc Bangalore
+2004
+One-week Computer Awareness Programme for TIET staff
+TIET
+2004
+Rational Test Suite intensive training
+TIET
+2005
+National Conference on Bioinformatics Computing (NCBC'05)
+TIET
+2006
+Analysis & Design workshop with University of Waterloo students
+TIET
+2006
+Half-day Workshop: Linux — Promoting the Open Source Movement
+TIET (Saturnalia)
+2008
+Sun Week: ZFS, OpenSolaris; SPOT Wireless-Sensor Technologies
+Thapar University
+2008
+CCNA Discovery and Exploration Course
+CRISP, Bhopal
+2010
+Cisco Asia Pacific Academy Meet
+Cisco Global Briefing Centre, Bengaluru
+2010
+Malware Tracking (Cisco); Cyberoam CCNSP certification
+Cisco / Solan, HP
+2013
+FDP on Machine Learning; Social Network Analysis (Coursera); CCNA Academy Program
+Thapar University
+https://msingh-info.vercel.app/
+Full profile and verified bibliography available at msingh-info.vercel.app

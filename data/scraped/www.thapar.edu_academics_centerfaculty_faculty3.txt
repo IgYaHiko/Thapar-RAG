@@ -1,0 +1,70 @@
+SOURCE: https://www.thapar.edu/academics/centerfaculty/faculty3
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Dr. Maninder Singh
+Professor and Head
+Specialization
+Network Security, Software Engineering, Parallel and Distributed Computing
+Email
+msingh@thapar.edu
+Prem Lal Sharma
+Deputy System Manager
+Specialization
+Manage network infrastructure. Implement, administer, and troubleshoot networ...
+Email
+plsharma@thapar.edu
+Ajay Kumar Verma
+Senior Instructor
+Specialization
+Repair and Maintenance of Electronic Equipment /Computer & Peripherals
+Email
+averma@thapar.edu
+Harjaspreet Singh
+Network Operations Engineer
+Specialization
+System Administration, Network Administrator
+Email
+harjaspreet@thapar.edu
+Ishmeet Singh
+Network Operations Engineer
+Specialization
+System Administration, Manage & Maintain Website, Manage network infrastructu...
+Email
+ishmeet.singh@thapar.edu
+Aeiman Preet Singh
+Sr. Associate
+Specialization
+System Administration, LMS, Web Based Applications, Updates Institute Website...
+Email
+aeiman@thapar.edu
+Karanjeet Singh
+Network Engineer
+Specialization
+Network Assistant, System Assistant
+Email
+karanjeet@thapar.edu
+Gurdeep Singh
+Jr. Associate
+Specialization
+Provides academic IT support, including WebKiosk password resets, email ID cr...
+Email
+gurdeepsingh@thapar.edu
+Ashish Kumar
+Network Technician
+Specialization
+Network Assistant, System Assistant
+Email
+ashishkumar@thapar.edu
+Atinderpal Singh
+Network Technician
+Specialization
+Network Assistant, System Assistant
+Email
+atinderpal.singh@thapar.edu
+Rajinder Singh
+Network Technician
+Specialization
+Network Assistant, System Assistant
+Email
+rajinder.singh@thapar.edu

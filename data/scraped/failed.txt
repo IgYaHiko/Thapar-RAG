@@ -1,0 +1,509 @@
+https://tslas.thapar.edu/faq	HTTP 404
+https://tslas.thapar.edu/academics	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/financial	HTTP 404
+https://lmtsm.thapar.edu/admissions/register.php	timeout
+https://lmtsm.thapar.edu/index.php/contactus	timeout
+https://www.thapar.edu/outreaches/pages	Exceeded 30 redirects.
+https://tslas.thapar.edu/aboutus	HTTP 404
+https://tslas.thapar.edu/researches	HTTP 404
+https://tslas.thapar.edu/programmes	HTTP 404
+https://tslas.thapar.edu/students	HTTP 404
+https://tslas.thapar.edu/placements	HTTP 500
+https://tslas.thapar.edu/students/parents	HTTP 404
+https://tslas.thapar.edu/pages/contactus	HTTP 404
+https://tslas.thapar.edu/misces/pages/elibrary	HTTP 404
+https://tslas.thapar.edu/misces/pages/scholarships	HTTP 404
+https://tslas.thapar.edu/misces/pages/student-forms	HTTP 404
+https://tslas.thapar.edu/misces/examinationupdates	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/history	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/vision	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/directorate	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/deans	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/organogram	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/senate	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/directory	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/university	HTTP 404
+https://tslas.thapar.edu/students/pages/hostels	HTTP 404
+https://tslas.thapar.edu/students/pages/insurance	HTTP 404
+https://tslas.thapar.edu/students/pages/webkiosk	HTTP 404
+https://tslas.thapar.edu/misces/latestpages/notices	HTTP 404
+https://www.lmtsm.thapar.edu/index.php/contactus	timeout
+https://lmtsm.thapar.edu/index.php/admission-page	timeout
+https://lmtsm.thapar.edu/index.php/contactus?id=158	timeout
+https://tslas.thapar.edu/Placements	HTTP 404
+https://tslas.thapar.edu/researches/researchupdate	HTTP 404
+https://tslas.thapar.edu/researches/project	HTTP 404
+https://tslas.thapar.edu/researches/pages/funding	HTTP 404
+https://www.ntcsf2019.thapar.edu/poster	HTTPSConnectionPool(host='www.ntcsf2019.thapar.edu', port=443): Max retries exce
+https://lmtsm.thapar.edu/admissions/apply-online.php	timeout
+https://admissions.thapar.edu/?_ga=2.45427623.2046722684.1520064571-176534119.1510131791	HTTPSConnectionPool(host='admissions.thapar.edu', port=443): Max retries exceede
+https://thapar.edu/aboutus/pages/building-and-works-committee	HTTP 404
+https://tslas.thapar.edu/students/pages/committee-on-gender-sensitization	HTTP 404
+https://lmtsm.thapar.edu/admissions/important-dates.php	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm	timeout
+https://lmtsm.thapar.edu/index.php/about-us/the-institute	timeout
+https://lmtsm.thapar.edu/index.php/about-us/directors-message	timeout
+https://lmtsm.thapar.edu/index.php/about-us/our-belief	timeout
+https://lmtsm.thapar.edu/index.php/about-us/rankings-awards	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/programme-overview	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/eligibility-criteria	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/admission-process	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/important-dates	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/scholarships	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/program-overview	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/eligibility-criteria	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/admission-procedure	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/important-dates	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/fee-scholarships	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-programme-overview	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/eligibility-other-information	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-admission-process	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-important-dates	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-financial-assistance	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-fee-structure	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-program-overview	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-eligibility-criteria	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-admission-process	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-important-dates	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-financial-assistance	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/fee-structure-executive-ph-d	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/programme-overview	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/eligibility-other-information	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/admission-process	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/important-dates	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/financial-assistance	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/fee-structure	timeout
+https://lmtsm.thapar.edu/index.php/academics/mba-program/course-structure	timeout
+https://lmtsm.thapar.edu/index.php/placements/placement-snapshot	timeout
+https://lmtsm.thapar.edu/index.php/placements/employability-team	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/centre-of-excellence	timeout
+https://lmtsm.thapar.edu/index.php/important-notices	timeout
+https://tslas.thapar.edu/faculties/category/departments/basic-engineering-sciences1	HTTP 404
+https://tslas.thapar.edu/faculties/category/departments/computer-science-engineering-dera-bassi-campus-1	HTTP 404
+https://tslas.thapar.edu/faculties/category/departments/distance-education	HTTP 404
+https://tslas.thapar.edu/faculties/category/centers/center-for-industrial-liasion-placement-cilp	HTTP 404
+https://tslas.thapar.edu/faculties/category/centers/centre-for-academic-practices-and-student-learning1	HTTP 404
+https://tslas.thapar.edu/faculties/category/centers/nava-nalanda-central-library	HTTP 404
+https://tslas.thapar.edu/misces/pages/student-consultative-committee-scc-2016-17	HTTP 404
+https://tslas.thapar.edu/misces/pages/testing-consultancy-rules	HTTP 404
+https://tslas.thapar.edu/misces/pages/international-student-cell	HTTP 404
+https://tslas.thapar.edu/misces/pages/institute-mentorship-program	HTTP 404
+https://tslas.thapar.edu/misces/pages/international-students-mentoring	HTTP 404
+https://tslas.thapar.edu/misces/pages/dean-research-sponsored-projects	HTTP 404
+https://tslas.thapar.edu/misces/pages/erasmus-programme	HTTP 404
+https://tslas.thapar.edu/misces/pages/student-notices	HTTP 404
+https://tslas.thapar.edu/academics/departments/basic-engineering-sciences1	HTTP 404
+https://tslas.thapar.edu/academics/departments/computer-science-engineering-dera-bassi-campus-1	HTTP 404
+https://tslas.thapar.edu/academics/departments/distance-education	HTTP 404
+https://tslas.thapar.edu/academics/centers/center-for-industrial-liasion-placement-cilp	HTTP 404
+https://tslas.thapar.edu/academics/centers/centre-for-academic-practices-and-student-learning1	HTTP 404
+https://tslas.thapar.edu/academics/centers/centre-for-training-development-ctd	HTTP 404
+https://tslas.thapar.edu/academics/centers/centre-of-information-and-technology-management-citm	HTTP 404
+https://tslas.thapar.edu/academics/centers/disability-resource-centre	HTTP 404
+https://tslas.thapar.edu/academics/centers/experiential-learning-centre1	HTTP 404
+https://tslas.thapar.edu/academics/centers/nava-nalanda-central-library	HTTP 404
+https://tslas.thapar.edu/academics/centers/science-technology-entrepreneurs-park-step	HTTP 404
+https://tslas.thapar.edu/academics/centers/tifac-core-in-agro-industrial-biotechnology	HTTP 404
+https://tslas.thapar.edu/academics/centers/venture-lab1	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/board-of-governors	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/deputy-director	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/controller-of-examination	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/planning-and-monitoring-board	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/finance-committee	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/staff-affairs-committee	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/building-and-works-committee	HTTP 404
+https://tslas.thapar.edu/students/pages/financial-aid	HTTP 404
+https://tslas.thapar.edu/students/pages/disciplinary	HTTP 404
+https://tslas.thapar.edu/students/pages/student-societies	HTTP 404
+https://tslas.thapar.edu/students/pages/students-achievement	HTTP 404
+https://tslas.thapar.edu/students/pages/accommodation	HTTP 404
+https://tslas.thapar.edu/students/pages/online-services	HTTP 404
+https://tslas.thapar.edu/students/pages/medical-services	HTTP 404
+https://tslas.thapar.edu/students/pages/cultural-and-sports-activities	HTTP 404
+https://tslas.thapar.edu/students/pages/canteen-and-other-facilities	HTTP 404
+https://tslas.thapar.edu/students/pages/fee-circular-and-fee-chart	HTTP 404
+https://tslas.thapar.edu/students/pages/student-consultative-committee-scc	HTTP 404
+https://tslas.thapar.edu/students/pages/dean-student-notice-board	HTTP 404
+https://tslas.thapar.edu/students/pages/dean-academics-notice-board	HTTP 404
+https://tslas.thapar.edu/students/pages/thapar-university-counseling-cell	HTTP 404
+https://tslas.thapar.edu/placements/pages/percentage-of-placements	HTTP 404
+https://tslas.thapar.edu/placements/pages/placement-council	HTTP 404
+https://tslas.thapar.edu/placements/pages/placement-data	HTTP 404
+https://tslas.thapar.edu/placements/pages/bio-data-form	HTTP 404
+https://tslas.thapar.edu/placements/pages/industrial-training	HTTP 404
+https://tslas.thapar.edu/placements/pages/facilities	HTTP 404
+https://tslas.thapar.edu/placements/cardescribe/apple	HTTP 404
+https://tslas.thapar.edu/placements/cardescribe/oracle	HTTP 404
+https://tslas.thapar.edu/placements/cardescribe/intel	HTTP 404
+https://tslas.thapar.edu/misces/latestpages/academic-circular-covid19	HTTP 404
+https://tslas.thapar.edu/misces/latestpages/pending-documents-notice	HTTP 404
+https://www.lmtsm.thapar.edu/index.php/about-us/the-institute	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/directors-message	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/our-belief	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/rankings-awards	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/programme-overview	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/eligibility-criteria	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/admission-process	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/important-dates	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/scholarships	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/program-overview	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/eligibility-criteria	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/admission-procedure	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/important-dates	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/fee-scholarships	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-programme-overview	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/eligibility-other-information	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-admission-process	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-important-dates	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-financial-assistance	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-fee-structure	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-program-overview	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-eligibility-criteria	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-admission-process	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-important-dates	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-financial-assistance	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/fee-structure-executive-ph-d	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/programme-overview	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/eligibility-other-information	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/admission-process	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/important-dates	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/financial-assistance	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/fee-structure	timeout
+https://www.lmtsm.thapar.edu/index.php/academics/mba-program/course-structure	timeout
+https://www.lmtsm.thapar.edu/index.php/placements/placement-snapshot	timeout
+https://www.lmtsm.thapar.edu/index.php/placements/employability-team	timeout
+https://www.lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm	timeout
+https://www.lmtsm.thapar.edu/index.php/faculty-and-research/centre-of-excellence	timeout
+https://www.lmtsm.thapar.edu/index.php/important-notices	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm?pid=104	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm?site=2	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/214-a-day-at-lmtsm-infinite-learning-infinite-perspectives	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/7-about-us	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/20-academic-calendar-2012-13	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/68-admission-brochure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/21-admissions	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/23-mdp/133-center-for-academic-and-corporate-leadership-cacl	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/75-contact-placement-cell	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/9-icecarousel/14-datawarehouse-data-mining-training-program	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/8-homeslider/202-prof-padmakumar-nair-director-and-dean-of-lm-thapar-school-of-management-lmtsm-met-with-the-hon-ble-president-of-malta-ms-marie-louise-colerio	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/92-director-s-message	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/19-doctoral-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/88-cat-support	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/183-fee-structure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/22-phd/160-fees-structure-executive-ph-d	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/158-how-to-reach	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/96-how-to-reach-lm-thapar-school-of-management-dera-bassi-campus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/35-infrastructure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/210-is-political-oratory-the-only-criteria	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/81-l-m-thapar-school-of-management	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/212-lmtsm-through-my-eyes	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/156-let-s-connect	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/50-list-of-publications	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/150-mba-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/82-mba-two-year-full-time-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/30-mr-lm-thapar	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/148-our-program-goals	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/93-vision-and-mission	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/182-our-motto	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/22-phd/128-phdform	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/138-phd-test-details	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/211-phenomenon-based-learning	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/27-placements	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/23-mdp/136-program-brochure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/98-programmes	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/87-prospective-students	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/22-phd/167-rat-syllabus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/24-ph-d-for-executives/174-rat-syllabus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/153-rankings-awards	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/100-student-life	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/22-phd/130-phd-syllabus-for-entrance-test	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/213-the-cursed-child	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/147-our-core-values	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/216-what-is-investment	timeout
+https://lmtsm.thapar.edu/index.php/about-us/the-institute?id=158	timeout
+https://lmtsm.thapar.edu/index.php/about-us/directors-message?id=158	timeout
+https://lmtsm.thapar.edu/index.php/about-us/our-belief?id=158	timeout
+https://lmtsm.thapar.edu/index.php/about-us/rankings-awards?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/programme-overview?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/eligibility-criteria?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/admission-process?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/important-dates?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/mba/scholarships?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/program-overview?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/eligibility-criteria?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/admission-procedure?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/important-dates?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/executive-mba-program/fee-scholarships?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-programme-overview?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/eligibility-other-information?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-admission-process?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-important-dates?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-financial-assistance?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-fee-structure?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-program-overview?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-eligibility-criteria?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-admission-process?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-important-dates?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-financial-assistance?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/phd-for-executives/fee-structure-executive-ph-d?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/programme-overview?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/eligibility-other-information?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/admission-process?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/important-dates?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/financial-assistance?id=158	timeout
+https://lmtsm.thapar.edu/index.php/admissions/m-phil/fee-structure?id=158	timeout
+https://lmtsm.thapar.edu/index.php/academics/mba-program/course-structure?id=158	timeout
+https://lmtsm.thapar.edu/index.php/placements/placement-snapshot?id=158	timeout
+https://lmtsm.thapar.edu/index.php/placements/employability-team?id=158	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/centre-of-excellence?id=158	timeout
+https://lmtsm.thapar.edu/index.php/important-notices?id=158	timeout
+https://www.thapar.edu/aboutus/pages/building-and-works-committee	HTTP 404
+https://admissions2018.thapar.edu/be-btech-computer-science-engineering.php	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/quality-policy	HTTP 404
+https://tslas.thapar.edu/admissions/pages/eligibility	HTTP 404
+https://tslas.thapar.edu/admissions/pages/scholarships	HTTP 404
+https://tslas.thapar.edu/admissions/pages/admission-prospectus	HTTP 404
+https://tslas.thapar.edu/researches/pages/centres-of-excellence	HTTP 404
+https://tslas.thapar.edu/researches/pages/consultancy	HTTP 404
+https://tslas.thapar.edu/researches/pages/language-grid	HTTP 404
+https://tslas.thapar.edu/students/pages/extra-curricular	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/make-up-test-march-2020	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/final-date-sheet-of-mst-march-2020	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/mst-datesheet	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/list-of-i-grades-19-20-odd-sem	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/notice-proforma-of-i-grade-exam-dec-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/final-date-sheet-of-est-dec-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/faculty-assigned-for-special-auxiliary-exam-oct-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/final-datesheet-of-special-auxiliary-exam-sept-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/notice-of-make-up-test-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/faculty-assigned-for-auxiliary-exam-august	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/auxiliary-exam-date-sheet-19	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/time-table-of-summer-semester-2019-20	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/summer-semester-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/minor-in-cse	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/notice-proforma-for-make-up-test-march-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/circular-performa-for-i-grade-january-2019	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/7th-semester-time-table-for-be-mba	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/notice-for-upgradation-after-1st-year	HTTP 404
+https://tslas.thapar.edu/misces/examinationpages/award-of-i-grade-list	HTTP 404
+https://tslas.thapar.edu/academics/departfaculty/faculty505	HTTP 404
+https://tslas.thapar.edu/academics/departpages/staff505	HTTP 404
+https://tslas.thapar.edu/academics/departpages/vision-and-mission496	HTTP 404
+https://tslas.thapar.edu/academics/departfaculty/faculty496	HTTP 404
+https://tslas.thapar.edu/academics/departpages/admission-2018500	HTTP 404
+https://tslas.thapar.edu/academics/departpages/syllabi-2018-batch500	HTTP 404
+https://tslas.thapar.edu/academics/departpages/staff496	HTTP 404
+https://tslas.thapar.edu/academics/departpages/anti-ragging-committee507	HTTP 404
+https://tslas.thapar.edu/academics/departpages/grievances-committee507	HTTP 404
+https://tslas.thapar.edu/academics/departpages/disciplinary-committee507	HTTP 404
+https://tslas.thapar.edu/academics/departpages/institution-industry-interaction-cell496	HTTP 404
+https://tslas.thapar.edu/academics/departpages/contact-us496	HTTP 404
+https://tslas.thapar.edu/academics/departfaculty/faculty6	HTTP 404
+https://tslas.thapar.edu/academics/departpages/programme125	HTTP 404
+https://tslas.thapar.edu/academics/departpages/fee-structure125	HTTP 404
+https://tslas.thapar.edu/academics/departpages/prog-structure125	HTTP 404
+https://tslas.thapar.edu/academics/departpages/eligibility129	HTTP 404
+https://tslas.thapar.edu/academics/departpages/entrance-syllabus129	HTTP 404
+https://tslas.thapar.edu/academics/departpages/coming-soon129	HTTP 404
+https://tslas.thapar.edu/academics/departpages/information-brochure129	HTTP 404
+https://tslas.thapar.edu/academics/departpages/library6	HTTP 404
+https://tslas.thapar.edu/academics/departpages/contact-us6	HTTP 404
+https://tslas.thapar.edu/academics/departpages/notices135	HTTP 404
+https://tslas.thapar.edu/academics/departpages/syllabus135	HTTP 404
+https://tslas.thapar.edu/academics/departpages/assignments135	HTTP 404
+https://tslas.thapar.edu/academics/departpages/sample-paper135	HTTP 404
+https://tslas.thapar.edu/academics/departpages/head-department-of-distance-education6	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty88	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/introduction5	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/placement-council37	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/percentage-of-placements37	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/placement-data37	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/bio-data-form37	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/placement-forms37	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty5	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/facilities5	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/industrial-training5	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/introduction7	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty7	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/shops7	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/facilities24	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/201696	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/201796	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/201896	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/201996	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/resources95	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/enrolled-faculty95	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/cops95	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty95	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/key-responsibility-areas8	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty-ctd-8	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/facilities8	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/activity-tracker8	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/test-division8	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/archive8	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/staff-training8	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty3	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/facilities3	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/objectives3	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/computer-hardware65	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/networking-hardware65	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/usic-repair-instruments65	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/softwares65	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/software-support65	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/timings3	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/about-the-drc9	HTTP 404
+https://tslas.thapar.edu/academics/centerfaculty/faculty93	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/2018-jan-july111	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/2018-july-dec111	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/2019-jan-june111	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/definitions-and-explanations29	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/membership29	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/book-loans29	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/discipline-security-and-privacy29	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/facilities6	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/contact-us4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/objectives4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/resource-persons-trainees4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/ongoing-and-completed-projects4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/training-and-consultancy4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/business-incubation4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/management4	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/research	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/contact-us2	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/scientific-advisory-committee-2	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/industrial-linkage-2	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/expertise2	HTTP 404
+https://tslas.thapar.edu/academics/centerspages/academics-and-hr-initiatives-2	HTTP 404
+https://tslas.thapar.edu/aboutus/pages/mandatory_disclousers	HTTP 404
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/214-a-day-at-lmtsm-infinite-learning-infinite-perspectives	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/7-about-us	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/20-academic-calendar-2012-13	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/68-admission-brochure	timeout
+https://www.lmtsm.thapar.edu/index.php/admission-page	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/21-admissions	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/23-mdp/133-center-for-academic-and-corporate-leadership-cacl	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/75-contact-placement-cell	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/9-icecarousel/14-datawarehouse-data-mining-training-program	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/8-homeslider/202-prof-padmakumar-nair-director-and-dean-of-lm-thapar-school-of-management-lmtsm-met-with-the-hon-ble-president-of-malta-ms-marie-louise-colerio	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/92-director-s-message	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/19-doctoral-programme	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/88-cat-support	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/183-fee-structure	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/22-phd/160-fees-structure-executive-ph-d	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/158-how-to-reach	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/96-how-to-reach-lm-thapar-school-of-management-dera-bassi-campus	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/35-infrastructure	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/210-is-political-oratory-the-only-criteria	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/81-l-m-thapar-school-of-management	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/212-lmtsm-through-my-eyes	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/156-let-s-connect	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/50-list-of-publications	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/150-mba-programme	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/82-mba-two-year-full-time-programme	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/30-mr-lm-thapar	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/148-our-program-goals	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/93-vision-and-mission	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/182-our-motto	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/22-phd/128-phdform	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/138-phd-test-details	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/211-phenomenon-based-learning	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/27-placements	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/23-mdp/136-program-brochure	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/2-uncategorised/98-programmes	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/87-prospective-students	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/22-phd/167-rat-syllabus	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/24-ph-d-for-executives/174-rat-syllabus	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/153-rankings-awards	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/10-content-pages/100-student-life	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/22-phd/130-phd-syllabus-for-entrance-test	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/213-the-cursed-child	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed/147-our-core-values	timeout
+https://www.lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs/216-what-is-investment	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/the-institute?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/directors-message?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/our-belief?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/about-us/rankings-awards?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/programme-overview?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/eligibility-criteria?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/admission-process?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/important-dates?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/mba/scholarships?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/program-overview?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/eligibility-criteria?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/admission-procedure?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/important-dates?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/executive-mba-program/fee-scholarships?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-programme-overview?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/eligibility-other-information?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-admission-process?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-important-dates?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-financial-assistance?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-residential/phd-fee-structure?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-program-overview?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-eligibility-criteria?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-admission-process?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-important-dates?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/phd-fullt-executives-financial-assistance?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/phd-for-executives/fee-structure-executive-ph-d?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/programme-overview?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/eligibility-other-information?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/admission-process?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/important-dates?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/financial-assistance?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/admissions/m-phil/fee-structure?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/academics/mba-program/course-structure?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/placements/placement-snapshot?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/placements/employability-team?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm?pid=104	timeout
+https://www.lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm?site=2	timeout
+https://www.lmtsm.thapar.edu/index.php/faculty-and-research/centre-of-excellence?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/contactus?id=158	timeout
+https://www.lmtsm.thapar.edu/index.php/important-notices?id=158	timeout
+https://lmtsm.thapar.edu/index.php/faculty-and-research/faculty-lmtsm?site=1	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/27-student-blogs	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/214-a-day-at-lmtsm-infinite-learning-infinite-perspectives	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/7-about-us	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/10-content-pages/20-academic-calendar-2012-13	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/10-content-pages/68-admission-brochure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/21-admissions	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/23-mdp/133-center-for-academic-and-corporate-leadership-cacl	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/10-content-pages/75-contact-placement-cell	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/9-icecarousel/14-datawarehouse-data-mining-training-program	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/8-homeslider/202-prof-padmakumar-nair-director-and-dean-of-lm-thapar-school-of-management-lmtsm-met-with-the-hon-ble-president-of-malta-ms-marie-louise-colerio	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/92-director-s-message	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/19-doctoral-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/88-cat-support	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/2-uncategorised/183-fee-structure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/22-phd/160-fees-structure-executive-ph-d	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/158-how-to-reach	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/96-how-to-reach-lm-thapar-school-of-management-dera-bassi-campus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/35-infrastructure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/210-is-political-oratory-the-only-criteria	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/81-l-m-thapar-school-of-management	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/212-lmtsm-through-my-eyes	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/156-let-s-connect	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/50-list-of-publications	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/150-mba-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/82-mba-two-year-full-time-programme	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/30-mr-lm-thapar	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/148-our-program-goals	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/93-vision-and-mission	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/182-our-motto	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/22-phd/128-phdform	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/2-uncategorised/138-phd-test-details	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/211-phenomenon-based-learning	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/27-placements	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/23-mdp/136-program-brochure	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/2-uncategorised/98-programmes	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/87-prospective-students	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/22-phd/167-rat-syllabus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/24-ph-d-for-executives/174-rat-syllabus	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/153-rankings-awards	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/10-content-pages/100-student-life	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/22-phd/130-phd-syllabus-for-entrance-test	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/213-the-cursed-child	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/17-rss-feed/147-our-core-values	timeout
+https://lmtsm.thapar.edu/index.php/a-z-index/27-student-blogs/216-what-is-investment	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/17-rss-feed	timeout
+https://lmtsm.thapar.edu/index.php/admission-page?id=158	timeout
+https://lmtsm.thapar.edu/index.php/a-z-directory/22-phd	timeout

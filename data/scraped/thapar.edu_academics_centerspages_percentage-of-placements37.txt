@@ -1,0 +1,72 @@
+SOURCE: https://thapar.edu/academics/centerspages/percentage-of-placements37
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Percentage of Placements
+YEAR
+BE
+MCA
+CGPA >6.00
+CGPA < 6.00
+Overall
+CGPA > 6.00
+CGPA < 6.00
+Overall
+2016-2017
+95.00
+54.00
+89.00
+94.00
+67.00
+91.00
+2017-2018
+95.50
+28.00
+91.00
+88.00
+50.00
+87.00
+2018-2019
+95.50
+29.00
+91.00
+72.00
+00.00
+61.00
+2019-2020
+79.00
+13.00
+78.00
+56.00
+00.00
+53.00
+2020-2021
+79.00
+40.00
+79.00
+44.00
+00.00
+43.00
+2021-2022
+96.00
+59.00
+96.00
+90.00
+67.00
+86.00
+2022-2023
+*
+82.00
+41.00
+81.00
+51.00
+0.00
+49.00
+* The %age for PG Students is 54% for CGPA > 6.00, 00% for CGPA < 6.00, year 2016-17, overall 50%
+* The %age for PG Students is 33% for CGPA > 6.00, 00% for CGPA < 6.00, year 2017-18, overall 31%
+* The %age for PG Students is 28% for CGPA > 6.00, 4% for CGPA < 6.00, year 2018-19, overall 26%
+* The %age for PG Students is 30% for CGPA > 6.00, 00% for CGPA < 6.00, year 2019-20, overall 30%
+* The %age for PG Students is 21% for CGPA > 6.00, 9% for CGPA < 6.00, year 2020-21, overall 22%
+* The %age for PG Students is 67% for CGPA > 6.00, 50% for CGPA < 6.00, year 2020-21, overall 66%
+* The %age for PG Students is 44% for CGPA > 6.00, 0% for CGPA < 6.00, year 2022-23, overall 43%
+*Till 15-07-2023

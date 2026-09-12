@@ -1,0 +1,606 @@
+SOURCE: https://eced.thapar.edu/programmes
+TITLE: ECED Offers B.E., M.E., & M.Tech in Electronics Computer and Communication Engineering
+------------------------------------------------------------
+
+Academic Programmes
+An elaborate list of our research-oriented academic programmes
+B.E. Electronics and Computer Engineering
+B.E. Electronics and Communication Engineering
+B.E. Electronics Engineering (VLSI Design and Technology)
+M.Tech VLSI Design
+About the Electronics and Computer Engineering Program
+In 2016, the Department of Electronics and Communication introduced a Bachelor of Engineering program in Electronics and Computer (ENC) Engineering. This initiative was driven by the need to offer students a comprehensive understanding of both electronic hardware design and software development within the rapidly advancing realm of Electronics and Computer.
+Crafted to maintain an equilibrium between Electronics Engineering and Computer Science Engineering, the curriculum encompasses an array of compulsory and elective courses. Students delve into electronic devices and circuits, embedded systems, IoT-based systems, Operating systems, Artificial Intelligence, Machine Learning, and Cloud computing.
+Our department's state-of-the-art laboratories are outfitted with cutting-edge electronic equipment and high-end graphical computing units, fostering an ideal setting for hands-on learning. Accredited by the National Board of Accreditation (NBA) the Bachelor of Engineering degree program in Electronics and Computer Engineering ensures quality education and industry relevance.
+Program Educational Objectives (PEOs)
+Our graduates are expected to:
+Promote excellence in electronics and computer engineering practices by applying their technical knowledge and problem-solving skills.
+Thrive in enhancement of intellectual ability, team skills and lifelong learning by pursuing higher education / professional acumen.
+Attain leadership roles in their career as an ethical and responsible professional while working innovatively and diligently for societal development.
+Student Outcomes (SOs)
+The students of undergraduate program in Electronics and Computer Engineering will have
+1.  An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+1.1    Ability to identify and formulate problems for Electronics and Computer systems.
+1.2    Apply sciences and mathematics and to obtain analytical, numerical and statistical solutions.
+1.3  Apply knowledge of fundamentals, scientific and/or engineering principles towards solving complex engineering problems using
+analytical, computational and/or experimental methods.
+2.  An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+2.1    Design process to satisfy project objective for Electronics and Computer and build prototypes, wherever necessary, that meet design specifications.
+2.2    Work with real time systems within realistic constraints
+2.3    Able to evaluate ethical issues that may occur in professional practice using professional codes of ethics ensuring protection of
+organization, human safety and wellbeing of society.
+3. An ability to communicate effectively with a range of audiences
+3.1  Prepare and present variety of documents such as project or laboratory reports and inspection reports with discipline specific
+standards.
+3.2  Able to communicate effectively with peers in well organized and logical manner using adequate technical knowledge to solve
+engineering problems
+.
+3.3  Able to interact with the people in organizations, industries and/or professional societies in a professional manner to achieve their
+goals.
+4.  An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+4.1  Recognize the impact of engineering decisions on environment.
+4.2  Analyze economic tradeoffs in engineering systems
+4.3  Aware of societal and global changes due to engineering innovations.
+5.  An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+5.1  Share responsibility and information schedule with others in team.
+5.2  Participate in the development and selection of ideas on a team whose members together provide leadership
+6.  An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions
+6.1  Identify the constraints, assumptions and models for the experiments.
+6.2  Analyze and validate experimental results using appropriate techniques.
+6.3  Able to analyze engineering problems and develop systems for engineering applications.
+7.  An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+7.1    Able to use resources to adopt new technologies not included in curriculum and identify relevant directions for continuing
+education opportunities.
+7.2    Recognize the need to embrace personal responsibility for lifelong learning.
+​​​​​
+Program Outcomes (POs)
+Engineering Graduates will be able to:
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, andan engineering specialization to the solution of complex engineering problems.
+Problem analysis: Identify, formulate, review research literature, and analyze complex engineeringproblems reaching substantiated conclusions using first principles of mathematics, natural sciences, andengineering sciences.
+Design/development of solutions: Design solutions for complex engineering problems and designsystem components or processes that meet the specified needs with appropriate consideration for thepublic health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems: Use research-based knowledge and research methodsincluding design of experiments, analysis and interpretation of data, and synthesis of the information toprovide valid conclusions.
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modernengineering and IT tools including prediction and modeling to complex engineering activities with anunderstanding of the limitations.
+The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability: Understand the impact of the professional engineering solutions insocietal and environmental contexts, and demonstrate the knowledge of, and need for sustainabledevelopment.
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and inmultidisciplinary settings.
+Communication: Communicate effectively on complex engineering activities with the engineeringcommunity and with society at large, such as, being able to comprehend and write effective reports anddesign documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance: Demonstrate knowledge and understanding of the engineering and managementprinciples and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independentand life-long learning in the broadest context of technological change.
+Program Specific Outcomes (PSOs)
+Ability to apply the fundamentals of mathematics, science, and engineering knowledge to identify,formulate, design, and investigate complex problems for system architecture, multimedia,database, networking, web design, and information security.
+Apply the appropriate engineering techniques using modern hardware and software tools in electronic and computer engineering to engage in lifelong learning, being ethical to successfully adapt to a multi-disciplinary environment.
+Program Enrolment and Degree Data
+Name of the Program: Electronics and Computer Engineering
+Academic
+Year
+Enrolment
+Year
+Total Undergrad
+Total
+Grad
+Degrees
+Awarded
+1st
+2nd
+3rd
+4th
+5th
+Associates
+Bachelors
+Masters
+Doctorates
+Current
+Year
+2023-
+24
+FT
+276
+279
+240
+180
+975
+180
+PT
+-
+-
+-
+-
+1 year prior to current year
+2022-
+23
+FT
+275
+240
+180
+180
+875
+178
+PT
+-
+-
+-
+-
+2 years prior to current year
+2021-
+22
+FT
+240
+180
+180
+178
+778
+175
+PT
+-
+-
+-
+-
+3 years prior to current year
+2020-
+21
+FT
+180
+180
+178
+176
+714
+117
+PT
+-
+-
+-
+-
+4 years prior to current year
+2019-
+20
+FT
+180
+178
+176
+119
+653
+62
+PT
+-
+-
+-
+-
+Course Structural Scheme
+Click here to download 2025 scheme and syllabus
+Click here to download 2024 scheme and syllabus
+Click here to download 2023 scheme and syllabus
+Click here to download 2022 scheme and syllabus
+Click here to download 2021 scheme and syllabus
+Click here to download 2020 scheme and syllabus
+Click here to download 2019 scheme and syllabus
+Click here for capstone project youtube channel
+Click here for placement details
+Excellent placement prospects for bright and deserving candidates details
+Alumni Bytes 1
+Alumni Bytes 2
+Alumni Bytes 3
+Alumni Bytes 4
+Alumni Bytes 5
+Alumni Bytes 6
+About Electronics and Communication Engineering Program
+The
+B.E. Electronics and Communication Engineering (ECE)
+program at Thapar Institute of Engineering & Technology is a highly acclaimed program, renowned for its rich history and future-oriented approach. Established in 1975, the program is a prestigious four-year undergraduate course that has consistently excelled in delivering outstanding academics, fostering a robust legacy of alumni, and spearheading cutting-edge research initiatives. Accredited both nationally and internationally, this program prepares graduates to thrive in a dynamic and ever-evolving global environment.
+The B.E. Electronics and Communication Engineering Program is accredited by the NBA and EAC Commission of ABET, http://www.abet.org.
+Program Educational Objectives (PEOs)
+Our graduates are expected to:
+Promote excellence in professional engineering practices by applying their technical knowledge and problem-solving skills.
+Thrive in enhancement of intellectual ability, team skills and lifelong learning by pursuing higher education / professional acumen.
+Attain leadership roles in their career as an ethical and responsible professional while working innovatively and diligently for societal development.
+Student Outcomes (SOs)
+1. An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics
+1.1 Ability to identify and formulate problems for electronics and communication systems
+1.2 Apply sciences and mathematics and to obtain analytical, numerical and statistical solutions.
+1.3 Apply knowledge of fundamentals, scientific and/or engineering principles towards solving complex engineering problems
+using analytical, computational and/or experimental methods.
+2. An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors
+2.1 Design process to satisfy project objective for electronics and communication systems and build prototypes, wherever necessary, that meet design specifications.
+2.2 Work with real time systems within realistic constraints.
+2.3 Able to evaluate ethical issues that may occur in professional practice using professional codes of ethics ensuring
+protection of organization, human safety and wellbeing of society.
+3. An ability to communicate effectively with a range of audiences
+3.1Prepare and present variety of documents such as project or laboratory reports with discipline specific standards.
+3.2 Able to communicate effectively with peers in well organized and logical manner using adequate technical knowledge to
+solve engineering problems.
+3.3 Able to interact with the people in organizations, industries in a professional manner to achieve their goals.
+4. An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts
+4.1 Recognize the impact of engineering decisions on environment.
+4.2 Analyze economic tradeoffs in engineering systems.
+4.3 Aware of societal and global changes due to engineering innovations.
+5. An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives
+5.1 Share responsibility and information schedule with others in team.
+5.2 Participate in the development and selection of ideas on a team whose members together provide leadership.
+6. An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment
+to draw conclusions
+6.1 Identify the constraints, assumptions and models for the experiments.
+6.2Analyze and validate experimental results using appropriate techniques.
+6.3 Able to analyze engineering problems and develop systems for engineering applications.
+7. An ability to acquire and apply new knowledge as needed, using appropriate learning strategies.
+7.1 Able to use resources to adopt new technologies not included in curriculum and identify directions for continuing education opportunities.
+7.2 Recognize the need to embrace personal responsibility for lifelong learning
+Program Outcomes (POs)
+Engineering knowledge: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+Design/development of solutions: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+Modern tool usage: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modeling to complex engineering activities with an understanding of the limitations.
+The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+Individual and team work: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+Life-long learning: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+Program Specific Outcomes (PSOs)
+Core Competency: Ability to apply the fundamentals of mathematics, science and engineering knowledge to identify, formulate, design and investigate complex engineering problems of analog and digital electronics circuits, signal processing, communication and computational tools.
+Practical Competency: Apply the appropriate engineering techniques using modern hardware and software tools in electronic and communication engineering to engage in life-long learning, being ethical to successfully adapt in multi-disciplinary environment.
+Course Structural Scheme
+Click Here to download 2025 scheme and syllabus
+Click Here to download 2024 scheme and syllabus
+Click Here to download 2023 scheme and syllabus
+C
+lick Here to download 2022 scheme and syllabus
+Click Here to download 2021 scheme and syllabus
+Click Here to download 2020 scheme and syllabus
+Click Here to download 2019 scheme and syllabus
+Alumni Bytes 1
+Alumni Bytes 2
+Alumni Bytes 3
+Alumni Bytes 4
+Alumni Bytes 5
+Alumni Bytes 6
+Excellent placement prospects for bright and deserving candidates details
+Alumini Success Stories
+Capstone Project Videos
+Video 1
+Video 2
+Video 3
+Video 4
+Video 5
+Video 6
+Video 7
+Video 8
+Video 9
+Video 10
+Click here for capstone project youtube channel
+About B.E. Electronics Engineering (VLSI Design and Technology)
+Embarking on a Bachelor of Engineering program in VLSI Design and Technology (B.E. Electronics Engineering (VLSI Design and Technology)) offers students a dynamic journey into the heart of cutting-edge technology. This specialized program delves deep into the intricate world of Very Large Scale Integration (VLSI) circuits, preparing students to become adept engineers in the ever-evolving field of semiconductor technology. One of the program's highlights is its hands-on approach, allowing students to engage in practical experiences that mirror real-world scenarios. From designing and simulating integrated circuits to fabricating and testing prototypes, students gain invaluable skills that are highly sought after in the industry.
+Moreover, the B.E. program in VLSI Design and Technology is designed to foster innovation and creativity. Through collaborative projects and research opportunities, students are encouraged to push the boundaries of conventional thinking and explore novel solutions to complex engineering challenges. This emphasis on innovation not only equips students with the ability to adapt to emerging technologies but also instills in them a passion for continuous learning and problem-solving.
+Furthermore, the program is backed by a faculty of accomplished professionals and researchers who are at the forefront of VLSI technology. With their guidance and mentorship, students receive personalized attention and support throughout their academic journey. Additionally, the program's interdisciplinary approach, integrating concepts from electrical engineering, computer science, and materials science, provides students with a comprehensive understanding of VLSI design principles and techniques. Overall, the B.E. program in VLSI Design and Technology promises to be a transformative experience, preparing students to thrive in a fast-paced and dynamic industry.
+Program Educational Objectives (PEOs)
+To apply technical knowledge and problem-solving skills effectively in real-world engineering challenges, promoting high standards of professional practice.
+Engage in lifelong learning and professional growth, enhancing their intellectual capabilities and teamwork skills through further education and industry experience.
+Excel in leadership roles as ethical, innovative professionals, dedicated to societal development and responsible engineering practices.
+PROGRAM OUTCOMES (PO)
+Engineering Graduates will be able to:
+1.
+Engineering knowledge
+: Apply the knowledge of mathematics, science, engineering fundamentals, and an engineering specialization to the solution of complex engineering problems.
+2.
+Problem analysis
+: Identify, formulate, review research literature, and analyse complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+3.
+Design/development of solutions
+: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+4.
+Conduct investigations of complex problems
+: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+5.
+Modern tool usage
+: Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+6.
+The engineer and society
+: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+7.
+Environment and sustainability
+: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+8.
+Ethics
+: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+9.
+Individual and team work
+: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+10.
+Communication
+: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation, make effective presentations, and give and receive clear instructions.
+11.
+Project management and finance
+: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+12.
+Life-long learning
+: Recognize the need for, and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+PROGRAM SPECIFIC OUTCOMES (PSO)
+Engineering Graduates will be able to:
+Core Competency: Apply the principles of mathematics, science, and engineering to identify, design, and analyse complex VLSI systems, covering both digital and analog design, semiconductor devices, and fabrication technologies.
+Practical Competency: Employ modern VLSI design tools, simulation software, and hardware prototyping platforms to solve real-world problems, adapt to emerging technologies, and engage in lifelong learning while maintaining ethical and professional standards.
+Course Structural Scheme
+Click here to download 2024 scheme and syllabus
+Click here to download 2023 scheme and syllabus
+About the M.Tech VLSI Design Program
+SCHOLARSHIPS
+Top-up of Rs. 5,000/- per month for GATE qualified PG students over and above of MHRD fellowship of Rs. 12,400/-
+Scholarship of Rs. 10,000/- per month for Non-GATE PG students
+1 year Industrial opportunity.
+Ongoing intership details for 2023-2025 batch
+Company
+No. of students
+Stipend  offered
+Intel
+13
+45 k
+STMicroelectronics
+8
+35 k
+Stryker
+1
+50 k
+Nokia
+2
+30 k
+Program Educational Objectives (PEOs)
+To facilitate and educate the students to equip with the state-of-the-art tools and technology for the fast changing world.
+To guide and mould the next generation of engineers to face any multidisciplinary engineering challenges ahead in academia and industry with economic, environmental and social contexts.
+To provide a well-rounded education that includes communication skills, the ability to function well on a team, an appreciation for ethical behaviour, and the ability to engage in lifelong learning.
+Program Outcomes (POs)
+An ability to independently carry out research /investigation and development work to solve practical problems.
+An ability to write and present a substantial technical report/document.
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program.
+An ability to use CAD tools to design a VLSI component, process, circuit and chip for various strategic and industrial applications.
+Students will engage in life-long learning and develop the engineering solutions as per the global, societal and ethical needs.
+Program Specific Outcomes (PSOs)
+Ability to apply the in-depth knowledge of semiconductor devices and their modelling, VLSI circuits, memory and chip design for systems, VLSI signal processing and computing techniques, EDA tools to carry out research work for developing the solutions of complex engineering problems.
+Develop their skills to solve multidisciplinary engineering problems with the awareness of the societal, environmental and ethical context.
+Course Structural Scheme
+Click Here to Download 2025 Scheme and Syllabus
+Click Here to Download 2024 Scheme and Syllabus
+Click Here to download 2023 scheme and syllabus
+Click Here to download 2022 scheme and syllabus
+Click Here to download 2021 scheme and syllabus
+Click Here to download 2020 scheme and syllabus
+Click Here to download 2019 scheme and syllabus
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

@@ -1,0 +1,26 @@
+SOURCE: https://www.thapar.edu/researches/pages/language-grid
+TITLE: Centres of Excellence | Thapar Institute of Engineering & Technology
+------------------------------------------------------------
+
+Centres Of Excellence
+1.
+Center of Excellence for Emerging Materials (CEEMS)
+2.
+Materials Characterization Facility (MCF)
+3.
+SAI Lab
+4.Centre of Excellence on Advanced Manufacturing (CAM)
+Advanced Manufacturing including 3D printing has been recognised as one of the technologies having the greatest potential of significant economic impact and disruption by 2025. A Center of Excellence in Advanced Manufacturing is being setup in the Patiala campus. This centre aspires to become a national leader in advanced manufacturing and allied research areas, and to offer customized solutions to industry. Prof. Noam Eliaz, Professor, and Dean Faculty of Engineering at Tel Aviv University, Israel is leading the center. In the first phase, a direct energy deposition (DED) based 3D metal printer capable of printing objects of dimensions better than 50 cm in controlled environment is being purchased. The detailed specifications of the printer has been finalized. Technical discussion and demonstration of printing capabilities of systems of two vendors (one in US and one in South Korea) have been completed. The order will be placed soon.
+5. Center for Excellence in Food Security (CFS)
+Key thrust areas for a Center of Excellence in Food Security
+(Aligned with UN SDG-2030)
+Sustainable Agriculture: Developing resilient, eco-friendly farming practices to enhance productivity and reduce environmental impact.
+Crop Improvement: Breeding high-yield, climate-resilient, and disease-resistant crops.
+Post-Harvest Management: Reducing losses and improving storage, processing, and distribution efficiency.
+Food Safety and Quality: Ensuring food is safe and nutritious from farm to table.
+Nutrition and Public Health: Addressing malnutrition and promoting balanced diets.
+Climate-Smart Agriculture: Adapting farming practices to mitigate climate change impacts.
+Agro-Technology Innovation: Using digital tools and precision farming to optimize production.
+Water and Soil Management: Enhancing soil health and water conservation practices.
+Policy and Governance: Influencing food security policies and regulations.
+Capacity Building and Education**: Training farmers and stakeholders in sustainable practices and food security innovations.

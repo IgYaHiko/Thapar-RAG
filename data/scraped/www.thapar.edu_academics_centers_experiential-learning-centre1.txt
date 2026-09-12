@@ -1,0 +1,13 @@
+SOURCE: https://www.thapar.edu/academics/centers/experiential-learning-centre1
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Experiential Learning Centre
+“Tell me and I forget. Teach me and I remember. Involve me and I learn”
+-Benjamin Franklin
+Philosophy
+: To introduce the students to real life engineering problems through early days' hands-on experience on the industrial grade equipment, indulgence in the real world design challenges and through small yet impactful projects involving actual applications of the fundamentals covered in courses.
+Scope:
+A one or two-day experiential learning activity to be embedded into each semester of each program. The activities are designed and tested as per expertise of the available faculty with focus on open ended problems requiring self-explored, innovative, engineered solutions to be worked upon by student in small teams to impart an impactful experience similar to real engineering job challenges.
+Motivation:
+To move from prescriptive lab based experiments and model/simulation based projects to real life engineering problems to be solved using research based, student centric, outcome based approaches to generate real solutions which are more tuned towards actual industry requirements, and to make student industry ready.

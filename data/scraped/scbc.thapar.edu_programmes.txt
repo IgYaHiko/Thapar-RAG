@@ -1,0 +1,2165 @@
+SOURCE: https://scbc.thapar.edu/programmes
+TITLE: School of Chemistry & Biochemistry  offers PG, PHD Programme | TIET
+------------------------------------------------------------
+
+Academic Programmes
+An elaborate list of our research-oriented academic programmes
+UG Courses
+B.Sc. CHEMISTRY (MAJOR & MINOR) COURSES:
+B. Sc. Chemistry (Hons) 4th Year
+MSc Chemistry (Old Scheme)
+MSc Chemistry (New Scheme)
+Ph.D
+Department offers following courses to BE / B. Tech students
+Sr.No
+Course Name
+Code
+L
+T
+P
+Credits
+Students
+Type
+1.
+CHEMISTRY
+UCB009
+3
+0
+2
+4.0
+B. E. 1
+st
+Year (All Branches)
+Compulsory
+2.
+GENERAL CHMISTRY I
+UCB028
+3
+1
+2
+4.5
+B. Tech.1
+st
+Year (BIOMEDICAL ENGG) and 2
+nd
+Year B. Sc. (Liberal Arts and Sciences)
+Compulsory
+3.
+GENRAL CHEMISTRY II
+UCB029
+3
+1
+2
+4.5
+B. Tech.1
+st
+Year (BIOMEDICAL ENGG) and 2
+nd
+Year B. Sc. (Liberal Arts and Sciences)
+Compulsory
+Scheme of B.Sc. (Chemistry) Program at Thapar School of Liberal Arts and Sciences
+Salient Features of the Program
+All Students undertake a compulsory Transdisciplinary Foundation year (1
+st
+year;
+48 Credits) before choosing their Major, or/and Minors
+School of Chemistry & Biochemistry caters to the subjects of Chemistry discipline
+Students have the option of opting for a Major along with an open Minor (from other disciplines)
+Students can opt for Chemistry Major (60 Credits) or Chemistry Minor (24 Credits)
+Scheme of Chemistry Major for B.Sc. program
+Semester III
+Sr. No.
+Course Code
+Course Name
+L
+T
+P
+Cr
+1.
+UCB028
+General Chemistry – I
+3
+1
+2
+4.5
+2.
+UCY301
+Analytical Methods in Chemistry
+3
+1
+0
+3.5
+3.
+UMA015
+Calculus – I
+4
+1
+0
+4.5
+4.
+UPH301
+Physics – I
+3
+1
+2
+4.5
+Minor(s)*
+-
+-
+-
+-
+Total
+13
+4
+4
+17.0
+Semester - IV
+Sr. No.
+Course Code
+Course Name
+L
+T
+P
+Cr
+1.
+UCB029
+General Chemistry – II
+3
+1
+2
+4.5
+2
+UCY402
+Inorganic Chemistry
+3
+0
+0
+3.0
+3.
+UCY401
+Organic Chemistry
+3
+0
+0
+3.0
+4.
+UMA016
+Calculus – II
+4
+1
+0
+4.5
+Minor(s)*
+-
+-
+-
+-
+Total
+13
+2
+2
+15.0
+* Students can opt for Minor(s) from other discipline
+Semester - V
+Sr. No.
+Course Code
+Course Name
+L
+T
+P
+Cr
+1.
+UCY501
+Sustainable Chemistry
+3
+1
+0
+3.5
+2.
+UCY502
+Physical Chemistry
+3
+1
+0
+3.5
+3.
+UCY503
+Chemical Biology
+3
+1
+0
+3.5
+4.
+UCY504
+Chemistry lab I
+0
+0
+6
+3.0
+Minor(s)*
+-
+-
+-
+-
+Total
+9
+3
+6
+13.5
+Semester - VI
+Sr. No.
+Course Code
+Course Name
+L
+T
+P
+Cr
+1.
+UCY601
+Advanced Lab techniques
+#
+-
+-
+-
+4.0
+2.
+UCY602
+Spectroscopic techniques
+3
+1
+0
+3.5
+3.
+UCY603
+Catalysis
+3
+1
+0
+3.5
+4.
+UCY604
+Computers in  Chemistry
+3
+0
+2
+4.0
+Minor(s)*
+-
+-
+-
+-
+Total
+9
+2
+2
+15.0
+#
+Undertaken in different research laboratories of SCBC
+* Students can opt for Minor(s) from other discipline
+Total Credits = 60.5
+Scheme of Chemistry Minor for B.Sc. program at TSLAS
+Semester-III
+Sr. No.
+Course Code
+Course Name
+L
+T
+P
+Cr
+1.
+UCB028
+General Chemistry – I
+3
+1
+2
+4.5
+2.
+UCY301
+Analytical Methods in Chemistry
+3
+1
+0
+3.5
+Semester-IV
+1.
+UCB029
+General Chemistry – II
+3
+1
+2
+4.5
+2.
+UCY401
+Organic Chemistry
+3
+0
+0
+3.0
+Semester-V
+1
+UCY502
+Physical Chemistry
+3
+1
+0
+3.5
+2.
+PCY111
+Chemistry lab I
+0
+0
+6
+3.0
+Semester-VI (Any one out of two)
+1.
+UCY602
+Spectroscopic techniques
+3
+1
+0
+3.5
+2.
+UCY402
+Inorganic Chemistry
+3
+0
+0
+3.0
+Total Credits = 25.0 / 25.5
+Semester-III
+UCB028: General Chemistry – I
+L      T       P      Cr
+3      1       2       4.5
+Course Objective:
+The course aims at understanding the physical and chemical properties of atoms, molecules and ions.
+Chemical Tools: Experimentation and Measurements:
+Significant figures, Rounding Numbers, Accuracy and precision, Mean and median, Average deviation, Standard deviation, Relative standard deviation, Sample mean and population mean, Q-test, F-test, T-test.
+Atoms, Molecules and Ions:
+Recapitulation of basic concepts, An introduction to atomic and molecular spectroscopy, Beer-Lambert’s Law.
+Mass Relationships in Chemical Reactions:
+Representation of chemical reactions, Balancing chemical equations: Oxidation number and ion electron methods, Stoichiometric calculations: Amounts of reactants and products.
+Reactions in Aqueous Solution:
+Recapitulation of basic concepts, Measuring the concentration in solutions: volumetric titration (acid-base, redox and complexometric), Instrument based titrations (conductometry, potentiometry and pH-metry).
+Periodicity and Electronic Structure of Atoms:
+Electromagnetic radiations, Particle like behavior, Photoelectric effect, Black-body radiation, Plank’s Postulate, Wave-particle duality, De Broglie’s hypothesis, Heisenberg uncertainty principle, Quantum mechanical model of atom, Concepts of orbital and quantum numbers, Pauli’s exclusion principle, Periodic trends: electronic configuration, Atomic radii.
+Ionic Compounds: Periodic Trends and Bonding Theory:
+Electronic configuration of ions, Periodic trends: electronegativity and Electron affinity, Ionization energy, Formation of ionic bonds, Lattice energy of solids.
+Covalent Bonding and Electron-Dot structures:
+Covalent bonding, Formation of covalent bond, Electron-dot structure, Concept of polarity and dipole moment.
+Covalent Bonding: Bonding Theories and Molecular Structure:
+VSEPR model, Valence bond theory, Concept of hybridization, Molecular Orbital Theory, MO diagrams of diatomic molecules, MO diagrams of π-bonded systems, Conjugated systems, Huckel’s rule.
+Thermochemistry:
+Changes in internal energy, Enthalpy in chemical reactions, Exothermic and endothermic reactions, Concept of heat capacity, Kirchhoff’s Equation, Hess’s Law.
+Gases: Their Properties and Behavior:
+Kinetic theory of gas, Collision and Mean free path, Maxwell-Boltzmann Distribution law of molecular velocities, Concept of ideal and real gases, Behavior of real gases: Van der Waal’s equation.
+List of Experiments:
+1. To determine the amount of NaOH and Na
+2
+CO
+3
+present in the same solution.
+2. To find the temporary and permanent hardness of water sample by complexometric titration using standard EDTA solution.
+3. To determine the copper content of a given sample solution of copper ore using 0.1 N sodium thiosulphate solution iodometrically.
+4. To estimate the available chlorine in bleaching powder.
+5. To determine the amount of Fe
++2
+and Fe
++3
+ions by permanganometry.
+6. To find out the total alkalinity and sulphate content in a water sample.
+7. To determine the strength of given sodium hydroxide solution by titration with standard hydrochloric acid conductometrically.
+8. Determine pKa value of acetic acid by pH-metric titration.
+9. Spectrophotometric determination of Fe
+2+
+with 1,10-phenanthroline.
+10. To titrate potentiometrically FAS solution against potassium permanganate and to determine the standard electrode potential of Fe
+2+
+/ Fe
+3+
+system.
+Course Learning Outcomes
+: The students will be able to reflect on:
+concepts of accuracy, precision, error analysis during experimentation and measurements; fundamentals of atomic and molecular spectroscopy.
+periodicity, electronic structure and behavior of atoms.
+mass relationships and chemical reactions in aqueous solution.
+concepts of ionic and covalent bondings, VSEPR Model, valence bond theory and molecular orbital theory.
+thermochemistry, properties of gases and their behavior.
+laboratory techniques like pH metry, potentiometry, colourimetry, conductometry and volumetry.
+Text Books:
+1.   Timberlake, K.C.; Timberlake, W.,
+Basic Chemistry
+, Pearson Education, (2019) 5
+th
+ed.
+2.   Lee, J.D.,
+Concise Inorganic Chemistry
+, ELBS, (2008) 5
+th
+ed.
+3.  Skoog, D.A., West, D.M., Holler, F.J., and Crouch, S.R.,
+Fundamentals of Analytical Chemistry
+, Brooks/Cole (2013) 9
+th
+ed.
+4.   Pavia, D.L.; Lampman, G.M.; Kriz, G.S.; Vyvyan, J.R.,
+Introduction to Spectroscopy
+, Cengage Learning India Pvt. Ltd., (2015), 5
+th
+ed.
+Reference Books:
+1.  Timberlake, K.C.,
+Chemistry: An Introduction to General, Organic and Biological Chemistry
+, Pearson Education, (2019) 13
+th
+ed.
+2.  Zumdahl, S. S.; De Coste, D. J.,
+Introductory Chemistry: A Foundation
+, Cengage Learning India Pvt. Ltd., (2019), 9
+th
+ed.
+3.  Housecroft, C.,
+Inorganic Chemistry
+, Pearson Education (2018) 5
+th
+ed.
+4.  Atkins, P.W.,
+Physical Chemistry
+, W.H. Freeman (2018) 11
+th
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments/Lab Evaluation)
+25
+40
+35
+UCBXXX: Analytical Methods in Chemistry
+L
+T
+P
+Cr
+3
+1
+0
+3.5
+Course objective:
+To introduce concepts and applications of various analytical techniques.
+Errors in Quantitative Analysis:
+Accuracy and precision of measurements, Determinate indeterminate, Systematic and random errors in chemical analysis with examples, Absolute and relative errors; Source, effect and detection of systematic errors; Distribution of random errors, Normal error curve, Standard deviations, Rounding and expressing results of chemical computations.
+Inorganic Qualitative Analysis:
+Basic principle, Common ion effect, Solubility, Solubility product, Preparation of original solution, Classification of basic radicals in groups, Separation of basic radicals, Removal of interfering anions (phosphate and borate), Detection of acid radicals.
+Analysis of Organic Compounds
+: Qualitative analysis: types of organic compounds, Characteristic tests and classifications, Reactions of different functional groups, Analysis of binary mixtures;  Quantitative analysis: estimation of C, H, (O) by combustion tube, Detection of nitrogen, sulfur, halogen and phosphorous by Lassigen’s test, Estimation of nitrogen by Dumas’s Kjeldahl’s method, Estimation of halogen, sulphur and phosphate by Carious method, Determination of empirical and molecular formula, Numerical problems.
+Optical Methods:
+Principle, applications and limitations of spectrophotometry, Beer-Lambert Law, Analysis of mixtures, Atomic Absorption Spectrometry, Flame Emission Spectroscopy.
+Separation techniques
+: Solvent extraction, classification, principle and efficiency of the technique, Basics of chromatography,
+idea of stationary and mobile phase, Classification, Retention time and retardation factor, Resolution and separation factor; General idea about adsorption, partition and column chromatography, Paper and thin layer chromatography,
+Introduction to Gas Chromatography (GC) and High Performance liquid Chromatography (HPLC) -Instrumentation, methodology and applications.
+Fundamentals of Electrochemistry:
+Electrodes and Potentiometry, Redox Titrations, Electroanalytical Techniques.
+Course Learning Outcomes
+: On the completion of the course, the students will be able to:
+1. compare various types of errors, related calculation and propagation in chemical analysis.
+2. describe the qualitative and quantitative tests for inorganic and organic compounds.
+3. comprehend and interpret optical methods like FES and AAS.
+4. classify and illustrate various chromatographic and electrochemical techniques in the analysis of various compounds.
+Text Books:
+1. Skoog, D.A. Holler F.J. & Nieman, T.A.,
+Principles of Instrumental Analysis
+, Cengage Learning India Ed., (2018) 7
+th
+ed..
+2.  Svehla, G.
+Vogel’s Qualitative Inorganic Analysis
+, Pearson Education, (2012) 7th ed.
+3. Vogel, A.I., Tatchell, A.R., Furnis, B.S., Hannaford, A.J. & Smith, P.W.G.,
+Textbook of Practical Organic Chemistry
+, Prentice-Hall, (1996) 5th ed.
+Reference books:
+1. Willard, H.H., Merritt, L.L., Dean, J. & Settoe, F.A.,
+Instrumental Methods of Analysis
+,
+Wadsworth Publishing Company Ltd., (1988) 7
+th
+ed.
+2. Barrow, G.M.,
+Physical Chemistry
+Tata McGraw‐Hill, (1992)5
+th
+ed.
+3. Castellan, G.W.,
+Physical Chemistry
+Narosa, (2004) 4
+th
+ed.
+4.  Mann, F.G. & Saunders, B.C.,
+Practical Organic Chemistry
+Orient-Longman, (2009) 4
+th
+ed.
+5. Ahluwalia, V.K. & Aggarwal, R.,
+Comprehensive Practical Organic Chemistry,
+Universities Press, (2000).
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+45
+25
+Semester-IV
+UCB029: General Chemistry – II
+L      T       P      Cr
+3      1      2       4.5
+Course Objective:
+The student will get an introduction to phase transformation, kinetics, chemical equilibrium, thermodynamics and structure-property relationship.
+Liquids, Solids and Phase Changes:
+States of matter, Phase, Component and Degree of freedom, Physical properties of liquids, Surface tension, Viscosity, Crystal, Lattice, Unit cell, Miller indices, Diffraction of X-rays, Bragg’s law.
+Solutions and their properties:
+Raoult’s law, Vapor pressure of ideal and non-ideal solutions, Colligative properties.
+Chemical Kinetics:
+Introduction, Rate laws of chemical reactions, Order and molecularity, Rate constantans and
+half-life time
+, Arrhenius equation.
+Chemical Equilibrium:
+E
+quilibrium constant, Temperature dependence of equilibrium constant:
+van't Hoff reaction isotherm, Relations between K
+p
+, K
+c
+and K
+x
+.
+Aqueous Equilibria of Acid-Base and Applications:
+Concepts of acids and bases, Dissociation of acids and bases, pH scale, Henderson-Hasselbalch equation, Buffer solutions.
+Thermodynamics:
+Laws of thermodynamics, Spontaneous and non-spontaneous process, Partial molar quantities, Chemical Potential.
+Electrochemistry:
+Specific, equivalent and molar conductivity of electrolytic solutions, Migration of ions, Electrochemical cell, Concentration cells, Liquid junction potential.
+Nuclear Chemistry:
+Nuclear Reactions, Mass defect and binding energy, Nuclear fission and fusion, Radioisotopes and its applications.
+Transition Elements and Coordination Chemistry:
+Recapitulation of basic concepts, General properties and electronic configurations of d-block elements, Crystal field theory, Crystal field splitting in octahedral, tetrahedral and square planar complexes, Spectrochemical series, Jahn-Teller distortion.
+Metals and Solid-State Materials:
+Dislocations in solids, Band theory of solids, Semiconductors and classifications.
+Main Group Elements:
+General trends in main group elements (Group IA-VIIIA).
+Organic and Biological Chemistry:
+Structural and stereo isomerism, Optical rotation, Chiralilty, R-S nomenclature, Interconversion of Fischer, Newman and Sawhorse projections, Role of metal ions in biological systems, Metalloprotein.
+Polymers:
+Classification of polymers, thermoplastics and thermosetting polymers, polymer microstructure, polymer average molecular weight, degree of polymerization, conducting polymers, biodegradable polymers, and inorganic polymers: Properties and applications
+in diversified fields.
+Nanoscience and Technology:
+Introduction to Nanoscience and technology, Synthetic methods, stabilizations, Self-Assembly, Lithography, CNTs and applications of nanomaterials.
+List of Experiments:
+1
+To determine the surface tension of a given liquid.
+2
+To determine the rate constant of oxidation of iodide with hydrogen peroxide.
+3
+To determine the relative and absolute viscosities of a given liquid.
+4
+Preparation and determination of pH values of buffer solutions.
+5
+To determine the amount of HCl and CH
+3
+COOH in a given mixture conductometrically.
+6
+To determine the pK
+in
+value of phenolphthalein indicator in aqueous solution.
+7
+To determine the solubility and solubility product of sparingly soluble salt by conductance measurement in aqueous solution.
+8
+To determination the isoelectric point of an amino acid.
+9
+To determine the optical rotation of cane sugar.
+10
+To determine the melting point of organic compounds (demonstration only).
+Course Learning Outcomes
+: The students will be able to reflect on:
+the fundamental idea of phase changes of liquids and solids, and their properties.
+rate law of kinetics, concept of chemical equilibrium, applications of acid-base equilibrium in aqueous solution
+.
+the concepts of thermodynamics, electrochemistry, nuclear chemistry and solid-state materials.
+the general trends of main group elements and concepts of crystal field theory in coordination chemistry.
+the basic idea of chirality and the role of metal ions in biological systems.
+Laboratory techniques like volumetry, conductometry, pH-metry, potentiometry, kinetics, optical rotation, viscosity and surface tension measurement.
+Text Books:
+1. Atkins, P.; Paula, J. de.; Keeler, J.,
+Physical Chemistry
+, Oxford University Press (2018), 11
+th
+ed.
+2. Huheey, J.E., Keiter, E.A. and Keiter, R.L.,
+Inorganic Chemistry: Principles of Structure and Reactivity,
+Pearson Education, (2002) 4
+th
+ed.
+3. Lee, J.D.,
+Concise Inorganic Chemistry
+Wiley, (
+2008) 5
+th
+ed.
+4. Puri, B.R.; Sharma, L.R.; Pathania, M.S.,
+Principles of Physical Chemistry
+, Vishal Publishing Co. (2016) 48
+th
+ed.
+Reference Books:
+1. Sharpe, E.,
+Inorganic Chemistry
+, Pearson Education, (2008) 3
+rd
+ed.
+2. Zumdahl, S. S.,
+Chemistry Concepts and Applications
+, Cengage Learning, (2009) 1
+st
+ed.
+3.
+Castellan
+, G. W.,
+Physical Chemistry
+,
+Addison-Wesley Publishing Company,
+(
+2004) 4
+th
+ed.
+4. Das, A.; Das, M.,
+An Introduction to Nanomaterials and Nanoscience
+, CBS Publishers & Distributers Pvt. Ltd., (2017) 1
+st
+ed.
+5. Ramesh, S.; Vairam S., Engineering
+Chemistry
+, Wiley India, (2012) 1
+st
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments/Lab Evaluation)
+25
+40
+35
+UCBXXX: Inorganic Chemistry
+L
+T
+P
+Cr
+3
+0
+0
+3.0
+Course objective:
+The application of modern theories to the elements and their inorganic compounds.
+Acid-base and donor-acceptor chemistry:
+Introduction to acid and base, Various concepts related to acidity and basicicty such as Arrhenius,
+Bronsted-Lowry, Solvent system,
+Lux-flood, Lewis and Usanovich, Frontier orbitals in acid base reactions, HSAB principle, Idea of acid and base strength, Oxyacids and superacids.
+Chemistry of d- and f-block elements:
+General group trends with special reference to electronic configuration, variable valency, colour, magnetic and catalytic properties, ability to form complexes and stability of various oxidation states (Latimer diagrams) for Mn, Fe and Cu. Lanthanoids and actinoids:electronic configurations, oxidation states, colour, magnetic properties, lanthanide contraction, separation of lanthanides (ion exchange method only).
+Symmetry elements and operations:
+Introduction and basic concepts.
+Coordination Chemistry:
+Structures and Isomers, Various Theories of Bonding in coordination complexes, Electronic spectra of metal complexes, Types of reaction in coordination complexes, Coordination complexes as medicinal compounds.
+Organometallic reactions and catalysis:
+18 electron rules, types of reaction, Carbene compounds, concept of
+π
+–acid ligand, Hydroformylation, Wacker process and Wilkinson catalyst.
+Bioinorganic and environmental chemistry:
+Introduction to bio-inorganic chemistry, Role of metal ions present in biological systems with special reference to Na
++
+, K
++
+and Mg
+2+
+ions: Na/K pump, Role of Mg
+2+
+ions in energy production and chlorophyll, iron porphyrins and oxygen transport and storage, Zn and Cu bases enzymes, Nitrogen fixation, CO
+2
+fixation by enzymes.
+Course Learning Outcomes
+: The students will be able to:
+1. illustrate the concept of acidity and basicity, and predict the strength of acid and base.
+2. understand the basic concepts of various symmetry elements and symmetry operations.
+3. analyze and compare bonding theories of coordination complexes and interpret their electronic spectra.
+4. identify the key features of catalytic cycles of coordination/organometallic compounds.
+5. comprehend and interpret various cycles involving N
+2
+and CO
+2
+fixation derived by enzymes.
+Text Books:
+1. G.L. Miessler & Donald A. Tarr:
+Inorganic Chemistry,
+Pearson Publication, (2014) 5
+th
+ed.
+2. J.D. Lee:
+A New Concise Inorganic Chemistry,
+E.L.B.S, (2008) 5
+th
+ed.
+3. F.A. Cotton & G. Wilkinson:
+Basic Inorganic Chemistry
+, John Wiley & Sons, (1995) 3
+rd
+ed.
+Reference Books:
+1. D.F. Shriver & P.W. Atkins
+Inorganic Chemistry
+, Oxford University Press, (2006) 4
+th
+ed.
+2. Wulfsberg, G.
+Inorganic Chemistry,
+Viva Books Pvt. Ltd., (1995)3
+rd
+ed.
+3. James E. Huheey, Ellen Keiter & Richard Keiter:
+Inorganic Chemistry: Principles of
+Structure and Reactivity,
+Pearson Publication, (2006) 4
+th
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+50
+20
+UCBXXX: Organic Chemistry
+L
+T
+P
+Cr
+3
+0
+0
+3.0
+Course objective:
+To provide the fundamental knowledge of organic chemistry such as aromaticity, functional groups behavior, chemical reactions and their mechanisms and stereochemistry.
+Introduction to organic Chemistry:
+Hydrocarbon frameworks and IUPAC nomenclature,
+Electronic effects: inductive effect, resonance, hyperconjugation; nucleophiles and ele
+ctrophiles, Acidity, Basicity, pKa-values and Aromaticity.
+Introduction to functional group and reactive intermediates:
+Alkenes, Alkynes, Amides, Alcohols, Carbonyls, Carboxylic acid, Ethers, Esters, Nitriles functional groups and their electronic properties; reactive intermediates: carbanions, carbocations, free-radicals and carbenes.
+Stereochemistry:
+Conventions used in stereochemistry, Specifications of absolute configuration, Conformational isomerism, Geometrical isomerism, Resolution of racemic mixture, Introduction of chemoselectivity, regioselectivity, enantioselectivity, and diastereoselectivity
+.
+Reaction mechanisms:
+Addition reactions at the carbonyl group, Nucleophilic substitution at the carbonyl group, Nucleophilic substitution reactions at saturated carbon, Elimination reaction, Addition reactions, Electrophilic aromatic substitution reactions, Nucleophilic aromatic substitutions, Reactions of enolates with carbonyl compounds: Aldol and Claisen condensation, Beckmann and Cope rearrangement.
+Photochemistry:
+Introduction to photochemical reactions with some examples.
+Heterocyclic Chemistry:
+Introduction to their nomenclature, structure, reactivity and orientation of furan, thiophene, pyrrole and pyridine.
+Course learning outcomes (CLO):
+After the completion of the course, the students will be able to:
+evaluate the fundamental principles of organic chemistry that include nomenclature, aromaticity, structural and stereo-isomerism and electronic effects.
+analyze different functional groups with their electronic properties.
+analyze
+the mechanistic aspects of addition, elimination and substitution reactions.
+adapt the photochemical properties of organic compounds in addition to the synthesis and reactivity of few common heterocycles.
+Text Books:
+Morrison, R.T. and Boyd, N.B.
+Organic Chemistry
+, PHI, (2008) 6
+th
+ed.
+Finar, I. L.,
+Organic Chemsitry: The Fundamental Principles
+, Dorling Kingsley, (2008) 6
+th
+ed.
+Wade, L G.
+Organic Chemistry
+, Upper Saddle River, N.J: Pearson Prentice Hall, (2006) 6
+th
+ed.
+Kalsi, P. S.
+Textbook of Organic Chemistry
+, New Age International (P) Ltd., (1990) 1
+st
+ed.
+Clayden, J., Greeves, N., & Warren, S.,
+Organic Chemistry
+, Oxford University Press, (2012) 2
+nd
+ed
+Reference Books:
+John A. Joule
+,
+Keith Mills
+,
+Heterocyclic Chemistry
+, John Wiley & Sons, (2010) 5
+th
+ed.
+Depuy, C.H., and Chapman, O. L.,
+Molecular Reactions and photochemistry
+, Pearson Education, Limited, (1972) 4
+th
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+50
+20
+Semester-V
+UCBXXX: Sustainable Chemistry
+L
+T
+P
+Cr
+3
+0
+0
+3
+Course Objective:
+The students should relate
+the principles of green chemistry with the molecular basis of the synthesis of materials and discuss alternative methods to support sustainable development.
+Introduction to Green Chemistry:
+What is Green Chemistry? Need for Green Chemistry, Goals of Green Chemistry, Limitations, obstacles in the pursuit of the goals of Green Chemistry
+Principles of Green Chemistry:
+Twelve principles of Green Chemistry with their explanations and emphasis on atom economy, solvents, energy and catalysis with examples of each.
+Catalysis:
+Advantages of catalysts, Photocatalysts, Biocatalyst and their advantages over chemical catalysts with examples of each, Sustainability and biocatalysis.
+Examples of Green Synthesis/ Reactions and some real world cases:
+Green Synthesis:  adipic acid, catechol, disodium iminodiacetate (alternative to Strecker synthesis), Principle of microwave assisted reactions, Hofmann elimination, methyl benzoate to benzoic acid, oxidation of toluene and alcohols; Principle of ultrasound assisted reactions,  Simmons-Smith reaction (alternative to Iodine), An efficient green synthesis of a compostable and widely applicable plastic (poly lactic acid) made from corn.
+Energy, Sources & their Alternatives:
+Fossil Fuel -
+Introduction to petrochemicals and Coal, and their applications, Carbon credits, Biofuels, Carbon dioxide emission, S
+equestration and valorisation of carbondioxide and glycerol
+, Greenhouse gasses,
+Hydrogen as a greener fuel.
+Photo switchable compounds and their applications, Solar energy conversion and solar cell.
+Course Learning Outcomes (CLO):
+On completion of this course, the students will be able to
+justify the need for green chemistry and reflect upon its essential principles.
+illustrate the importance of catalysts for a sustainable approach to chemistry.
+reflect the green synthetic approaches to the important organic compounds.
+assess the need and importance of alternative sources of energy compared to conventional ones in the light of sustainable development.
+Text Books:
+Ahluwalia, V.K. and Kidwai, M.R.,
+New Trends in Green Chemistry
+, Anamalaya publishers, (2006) 2
+nd
+edition.
+Matlack, A.S.,
+Introduction to Green Chemistry
+,
+Boca Raton
+,
+(2010) 2
+nd
+edition.
+Cann, M.C. & Connely, M.E.,
+Real-World cases in Green Chemistry
+, American chemical society, Washington, (2000).
+Reference Books:
+Anastas P.T., M.M. Kirchhoff,
+Origins, Current Status, and Future Challenges of Green Chemistry
+, Acc. Chem. Res.
+2002
+, 35, 686-693.
+Lancaster, M.
+Green Chemistry: An Introductory Text,
+RSC Publishing, (2010) 2
+nd
+ed.
+Michaelides (Stathis) E.E.,
+Alternative Energy Sources
+, Springer, (2012),1
+st
+edition
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+50
+20
+UCBXXX: Physical Chemistry
+L      T       P      Cr
+3     1      0       3.5
+Course Objective:
+The course aims at molecular level understanding of quantum chemical concept, chemical kinetics, photochemical reactions, adsorption and properties of liquids.
+Quantum Chemistry:
+A review of quantum mechanics versus classical mechanics, wave nature of electron; wave particle duality; Heisenberg’s uncertainty principle. Schrödinger equation, wave functions and probabilities, normalization and orthogonality, time-independent Schrödinger equations, operators and their algebra, linear and Hermitian operators, eigen functions, postulates of quantum mechanics. Schrödinger equation and its application to free particle and “particle-in-a-box”, quantization of energy levels, Extension to two and three dimensional boxes, separation of variables, degeneracy.
+Chemical Kinetics
+: Introduction to chemical reactions and measurement of rate of reaction, order and molecularity, Half–life of a reaction. rate constant determination for zero order, first order, second order and third order reaction, temperature dependence of rate of reactions, activation energy, Arrhenius equation.
+Photochemistry:
+Laws of photochemistry, quantum yield, actinometry, examples of low and high quantum yields, photochemical equilibrium and the differential rate of photochemical reactions, photosensitised reactions, Role of photochemical reactions in biochemical processes, photostationary states, chemiluminescence.
+Adsorption:
+Physical adsorption, chemisorption, adsorption isotherms. Nature of adsorbed state, derivation of Langmuir, Freundlich, and BET adsorption isotherms, estimation of surface area by BET equation, Types of Adsorption Isotherms, Gibb’s Adsorption isotherm.
+Electrochemistry:
+Conductivity, equivalent and molar conductivity and their variation with dilution for weak and strong electrolytes. Kohlrausch law. Transference number. Hittorf methods. Ionic mobility. determination of degree of ionization of weak electrolyte, hydrolysis constant of a salt. Conductometric titrations of different acid and bases.
+Physicochemical properties of liquid:
+Surface tension and its determination using stalagmometer. Viscosity of a liquid and determination of coefficient of viscosity using ostwald viscometer. effect of temperature on surface tension and coefficient of viscosity of a liquid.
+Course Learning Outcomes
+: On completion of this course, the students will be able to:
+comprehend the fundamental idea of various quantum chemical models and their description on molecular level.
+elucidate the importance of chemical kinetics, photochemical reactions and adsorption in physical chemistry perspective.
+reflect upon the fundamental concept of electrochemistry and physicochemical properties of liquids and solution.
+Text Books:
+Atkins, P.W.,
+Physical Chemistry
+, W.H. Freeman, (2018) 11
+th
+ed.
+Castellan, G. W.,
+Physical Chemistry
+, Narosa, (2004) 4
+th
+ed.
+Kapoor, K.L.,
+A Text Book of Physical Chemistry
+, Macmillan India, (2005) 5
+th
+ed.
+Reference books:
+Puri, B.R., Sharma, L.R., and Pathania, M.S.,
+Principles of Physical Chemistry
+, Vishal Publishing Co., (2011) 45
+th
+ed.
+Levine, N.I.,
+Quantum Chemistry
+, Prentice Hall, (2008) 5
+th
+ed.
+Depuy, C.H., and Chapman, O. L.,
+Molecular Reactions and photochemistry,
+Pearson EducationLimited, (1972).
+Chandra, A.K.,
+Introduction to Quantum Chemistry
+, Tata McGraw Hill, (2004) 4
+th
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+45
+25
+Semester-VI
+UCBXXX: Advanced Lab Techniques
+L
+T
+P
+Cr
+-
+-
+-
+4
+Objective
+: To expose and acquire the knowledge of the experimental research work, instrumental techniques, their analysis and operational procedure.
+The students will be allocated to the Research Labs with different themes on a weekly rotation basis. The students will be exposed to acquire knowledge of the practical methods, techniques, reactions and analysis used in different fields of the chemical sciences. The students (not more than two) will report to the PI of the research lab. PI will allocate an instrument / analysis / reaction / technique / or any other scientific work to the students. By end of the tenure in the lab, the student is required to submit a report to the PI who will evaluate it on the basis of work accomplished.
+In the last week of semester, students will present a poster on the techniques used/learnt in the entire semester and the same will be evaluated by a committee constituted by HSCBC.
+Evaluation Scheme:
+Lab Reports
+Seminar & Viva
+50
+50
+UCBXXX:  Spectroscopic Techniques
+L     T    P    Cr
+3      1    0     3.5
+Course objective
+: To introduce the fundamental concepts of electronic, rotation, vibration, NMR, FTIR, ESR and fluorescence spectroscopy, and their applications.
+Unifying Principles:
+Interaction of electromagnetic radiation with matter, line width, intensity of spectral lines, Born-Oppenheimer approximation, electronic, vibrational and rotational energy levels.
+Electronic Spectroscopy:
+Franck-Condon principle, electronic transitions, conjugation and solvent polarity, effect of chain length on λ
+max
+, conjugated polyenes, Woodward-Fieser rule for calculating λ
+max
+in conjugated systems.
+Vibrational Spectroscopy:
+Principles, factors influencing vibrational frequencies, classical equation of vibration, force constant, diatomic molecular vibrations, anharmonicity, Morse potential, dissociation energies, fundamental frequencies, overtones, hot bands, degrees of freedom for polyatomic molecules, modes of vibration, concept of group frequencies.
+Rotational Spectroscopy:
+Principles, selection rules, determination of bond lengths of diatomic and linear triatomic molecules, Raman spectroscopy, vibrational Raman spectra, Stokes and anti-Stokes lines, rule of mutual exclusion.
+Nuclear magnetic resonance Spectroscopy:
+Principles, Larmor precession, chemical shift, Proton NMR,
+13
+C NMR, shielding and deshielding of magnetic nuclei, chemical shift, spin-spin interactions and coupling constant 'J', applications in chemical analysis.
+Electron Spin Resonance spectroscopy:
+Principles, hyperfine structure, ESR of simple radicals, zero field splitting and Kramer's degeneracy, Factors affecting 'g' value, hyperfine coupling constants, Applications.
+Fluorescence Spectroscopy:
+Introduction to fluorescence, singlet and triplet states, Jablonski diagram and photophysical processes, radiative and non-radiative transitions, spin rephrasing and spin flip, internal conversion, intersystem crossing, delayed fluorescence, FRET mechanism, quantum yield and different photophysical parameters.
+Course Learning Outcomes
+: On completion of this course, the students will be able to:
+1. comprehend the principles and applications of electronic, vibrational and rotational spectroscopy and analyze their spectral properties.
+2. elucidate the principles of nuclear magnetic and electron spin resonance spectroscopy and apply the knowledge in characterizing the molecules.
+3. reflect upon the fundamental concept and theory of fluorescence spectroscopy in photophysical processes and their applications.
+Text Books:
+1.  Puri, B. R, Sharma, L. R., andPathania, M. S.,
+Principles of Physical Chemistry
+, Vishal Publishing Co., (2011) 45
+th
+ed.
+2.  Banwell, C. N.,
+Fundamentals of Molecular Spectroscopy
+, Tata Magraw Hill, (1994) 4
+th
+ed.
+3. Pavia, D. L., Lampman, G. M., Kriz, G. S.,
+Introduction to Spectroscopy
+, Thomson Brooks/Cole, (2000) 3
+rd
+ed.
+4. Valeur, B.,
+Molecular Fluorescence: Principles and Applications
+, Wiley-VCH Verlag GmbH, Weinheim (2002) 2
+nd
+ed.
+Reference books:
+1. Silverstein, R. M., Bassler, G. C., Morril, C.,
+Spectrometric Identification of Organic Compounds
+, John Wiley & Sons, (1991) 5
+th
+ed.
+2. Drago, R. S.
+Physical Methods for Chemists
+, Saunders College Publishing, (1992) 2
+nd
+ed.
+3. Lakowicz,  J. R.
+Principles of Fluorescence Spectroscopy
+, Springer, New York,(2006) 3
+rd
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+45
+25
+UCBXXX: Catalysis
+L
+T
+P
+Cr
+3
+1
+0
+3.5
+Course objective:
+To introduce concepts and applications of various types of catalysis and pathways of reaction mechanism elucidation.
+Basics of Catalysis:
+Reaction rate, measuring reaction rate, types of catalysis, autocatalysis, co-catalyst, activation energy and measurement, effect of temperature on activation energy and rate constant, TON, TOF, transition state, intermediate, kinetic isotope effect (primary and secondary) and its importance in reaction mechanism elucidation, Hammett equation, analytical techniques for intermediate detection.
+Homogeneous Catalysis:
+Structure, bonding and reactivity of coordination compounds and metallorganic complexes based on transition metals. MO theory and 18-electron rule. Mechanisms for ligand substitution and ligand activation and substrate binding, Types of reaction, drawing a catalytic cycle and mechanism elucidation using spectroscopic techniques, product analysis and quantification.
+Heterogeneous Catalysis:
+Concepts and Modern theories for surfaces and surface reactions, characterization, and applications, photocatalysis and its principle, photodegradation of organic pollutants.
+Biocatalysis:
+Whole cell biocatalysis, enzyme catalysis, and bioinspired molecular design of relevance for artificial photosynthesis.
+Electrocatalysis:
+Two and three electrode system, brief introduction to voltammetry, role of supporting electrolyte, various mechanism in electrocatalysis such as EECC, ECE, ECC etc., few examples such as CO
+2
+reduction, Hydrogen production, alcohol oxidation.
+Industrially relevant applications of Catalysis:
+Ammonia synthesis (Haber process), Fischer-Tropsch, Zeilgler-Natta Catalyst, Fluid catalytic cracking catalyst, hydrocracker catalyst.
+Course Learning Outcomes
+: On completion of this course, the students will be able to:
+1. reflect on various types of catalysis and related terminology.
+2. describe catalytic cycles for homogeneous and heterogeneous catalysis.
+3. illustrate electrocatalysis and biocatalysis, and their applications.
+Text Books:
+1. Viswanathan, B.,  Sivasanker, S.,  Ramaswamy, A. V.,
+Catalysis: Principles and Applications
+, Narosa Publishing House, (2002).
+2. Somorjai, G.A.; and Li, Y.
+Introduction to Surface Chemistry and Catalysis
+, John Wiley & Sons, Inc.,(2010) 2
+nd
+ed.
+3. Puri, B.R., Sharma, L.R., and Pathania, M.S.,
+Principles of Physical Chemistry
+, Vishal Publishing Co. (2011) 45
+th
+ed.
+4. Barrow, G.M.,
+Physical Chemistry,
+Tata McGraw‐Hill, (1992) 5
+th
+ed.
+Reference Books:
+1. Castellan, G.W.
+Physical Chemistry,
+Narosa, (2004) 4
+th
+ed.
+2. Stocchi, E.,
+Industrial Chemistry
+, Ellis Horwood Ltd., (1990) 1
+st
+ed..
+3. Bommarius, A.S.; and Riebel B.R.,
+Biocatalysis: Fundamentals and Applications
+, Wiley-VCH, (2004) 1
+st
+ed.
+4.
+Electrocatalysis: Computational, Experimental, and Industrial Aspects
+, Editor: Zinola, C.F. CRC Press, (2019) 1
+st
+ed.
+5. Miessler, G. L. and Tarr, D. A.
+Inorganic Chemistry,
+Pearson Publication, (2014) 5
+th
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Quizzes/Assignments)
+30
+45
+25
+UCBXXX: Computers in Chemistry
+L
+T
+P
+Cr
+3
+0
+2
+4.0
+Course objective:
+To acquire knowledge of the basics of molecular modeling in a hands-on fashion to understand and solve the problems related to chemistry.
+Introduction:
+Introduction to Quantum Mechanics in Computational Chemistry, Useful Concepts in Molecular Modelling, Potential Energy Surfaces, Molecular Graphics, Surfaces, Computer Hardware and Software, the Molecular Modelling Literature, brief discussion about the semi-empirical,
+ab initio
+and density functional theory.
+Orbitals:
+Slater-type orbitals (STO), Gaussian Type orbital, Basis-sets, Effective core potentials (ECP), Superposition error, Molecular orbitals.
+Molecular properties:
+Formal charge
+,
+relative energies,
+reactivity,
+Mulliken and Natural bond orbital analysis, Density, electrostatic potential and dipole moment.
+Application
+: Computation of geometry, electronic structure of molecules by using standard programs, Chemical properties and reactivity, potential energy surfaces, Analysis of thermochemistry and reaction mechanism of any chemical reactions.
+Force Fields:
+Introduction to non-bonded interactions, electrostatic interactions, van der Waals Interactions, Force fields, examples, Basics of classical molecular dynamics simulation.
+Laboratory Work:
+Basics of Linux operating system, programs, software.
+Molecular modelling of chemical reactions using various software packages such as Gaussian, ORCA, etc.
+Computing the electronic structure of molecules, transition states, bonding and electronic properties of molecules.
+Assignment
+: 4-5 weeks project on computational chemistry.
+Course Learning Outcomes:
+After the completion of the course, the students will be able to:
+1. execute various quantum chemical software, such as Gaussian, ORCA etc.
+2. demonstrate chemical principles using computational experiments.
+3. operate software packages to solve different (bio)chemical reactions and their mechanism.
+4. analyse the outputs of calculations to rationalize experimental outcomes.
+Text books:
+Cramer, C. J.,
+Essentials of Computational Chemistry: Theories and Models
+, Wiley, (2004) 2
+nd
+ed.
+Jensen, F.,
+Introduction to Computational Chemistry
+, John Wiley & Sons, (2016) 3
+rd
+ed
+Lewers, E. G.,
+Computational Chemistry: Introduction to the Theory and Applications of Molecular and Quantum Mechanics
+, Springer, (2016), 3
+rd
+ed
+Young, C. D.,
+Computational Chemistry: A Practical Guide for Applying Techniques to Real-World Problems
+, John Wiley & Sons, Inc., (2001).
+Reference books:
+Leach, A., N,
+Molecular Modelling: Principles and Applications
+, Pearson, (2001) 2
+nd
+ed.
+Burdett, J. K., Whangbo, M. H., Albright, T, A,
+Orbital Interaction in Chemistry
+, Wiley, (2013) 2
+nd
+ed.
+Foresman, J. B., Frisch, A.,
+Exploring Chemistry with Electronic Structure Methods
+, Gaussian, Inc.: Wallingford, CT, (2015) 3
+rd
+ed.
+Evaluation Scheme:
+MST
+EST
+Sessional (May include Project/Quizzes/Assignments/Lab Evaluation))
+20
+30
+50
+After finishing B. Sc. 3-year (Major in Chemistry) program the student can opt for B. Sc. Chemistry (Hons.) in the 4th Year. For the detailed scheme please
+click here
+Eligibility:
+Recognised Bachelors degree in Science of minimum 3 years duration with 60% (55% for SC/ST) marks in aggregate and Chemistry as one of the subject at the graduation level.
+No. of seats:
+20 (Gen - 14, SC/ST - 5, PH - 1) + (5 FN/NRI seats)
+Mode of Selection:
+Admissions to the MSc programs shall be made by combining percentage of marks obtained at 12th and graduation (aggregate marks up to second year / four semesters will be considered).Graduation must be done from a recognized University. Percentage of marks secured at the end of 2nd yr of graduation shall only be considered even if the candidate has completed the graduation. Candidates having any pending backlog in the first two years of Graduation shall not be considered for admission.
+Details of the program:
+M.Sc. (Chemistry) is a two-year course divided into four semesters without any specialization. The academic curriculum for this program is revised constantly and the subjects offered are of comparable to any international institution. A strong point of this program is that the students during final semester are allocated a faculty supervisor for their project work on the campus. This prepares our students to face the challenges of industrial R & D and academic research.
+Scheme of M.Sc. (Chemistry) - 2018 onwards
+Syllabus
+First Semester
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY101
+Analytical Chemistry
+3
+1
+0
+3.5
+2.
+PCY102
+Inorganic Chemistry
+3
+0
+0
+3.0
+3.
+PCY109
+Stereochemistry and Photochemistry
+3
+0
+0
+3.0
+4.
+PCY110
+Thermodynamics and Chemical Kinetics
+3
+1
+0
+3.5
+5.
+PCY111
+Chemistry Lab-I
+0
+0
+6
+3.0
+6.
+PCY108
+Chemical Biology (For non-medical group)
+3
+1
+0
+3.5
+PIM101
+Basic Mathematics (For medical group)
+7.
+PHU 002
+Professional Communication
+2
+1
+0
+2.5
+Total
+17
+4
+6
+22.0
+Second Semester
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY215
+Molecular Spectroscopy
+3
+1
+0
+3.5
+2.
+PCY202
+Coordination Chemistry
+3
+0
+0
+3.0
+3.
+PCY203
+Organic Reaction Mechanisms
+3
+0
+0
+3.0
+4.
+PCY104
+Quantum Chemistry
+3
+1
+0
+3.5
+5.
+PCY217
+Chemistry Lab-II
+0
+0
+8
+4.0
+6.
+PCYXXX
+Elective-I
+3
+0
+0
+3.0
+Total
+15
+2
+8
+20.0
+Third Semester
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY307
+Catalysis and Reagent
+3
+0
+0
+3.0
+2.
+PCY302
+Symmetry and Group Theory
+3
+0
+0
+3.0
+3.
+PCY304
+Interpretative Spectroscopy
+3
+1
+0
+3.5
+4.
+PCY317
+Physical and Analytical Chemistry Lab
+0
+0
+8
+4.0
+5.
+PCYXXX
+Elective – II
+3
+0
+0
+3.0
+6.
+PCY326
+Computational Chemistry
+2
+0
+2
+3.0
+PCY391
+Seminar/minor projects*
+-
+-
+-
+2.0
+Total
+14
+1
+10
+21.5
+*May be undertaken/completed in academic or industry.
+Fourth Semester
+S. No
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX
+Elective-III
+3
+1
+0
+3.5
+2.
+PBC103
+Bioinorganic and Biophysical Chemistry
+3
+0
+0
+3.0
+3.
+PCY 492
+Dissertation
+-
+-
+-
+10.0
+Total
+6
+1
+0
+16.5
+Elective – I
+S. No
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY220
+Medicinal and Pharmaceutical Chemistry
+3
+0
+0
+3.0
+2.
+PCY212
+Synthetic and Natural Polymers
+3
+0
+0
+3.5
+3.
+PCY222
+Supramolecular Chemistry
+3
+0
+0
+3.0
+4.
+PCY218
+Material Chemistry
+3
+0
+0
+3.0
+5.
+PCY 219
+Green Chemistry
+3
+0
+0
+3.0
+Elective - II
+S. No
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY321
+Rearrangements and Retrosynthesis
+3
+0
+0
+3.0
+2.
+PCY322
+Photophysical Chemistry
+3
+0
+0
+3.0
+3.
+PCY432
+Environmental Chemistry
+3
+0
+0
+3.0
+4.
+PCY327
+Organometallic Chemistry
+3
+0
+0
+3.0
+Elective - III
+S. No
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCY324
+Statistical Thermodynamics
+3
+1
+0
+3.5
+Heterocyclic Chemistry and Natural
+2.
+PCY403
+Products
+3
+1
+0
+3.5
+3.
+PCY325
+Inorganic Spectroscopy
+3
+1
+0
+3.5
+4.
+PPH423
+Characterization Techniques
+3
+1
+0
+3.5
+Total Number of Credits = 82.0
+Syllabus – M.Sc. Chemistry
+Programme Name: M.Sc. (Chemistry)
+Duration: 2 Years
+Programme Educational Objectives (PEOs)
+To produce trained manpower at post graduate level for thriving career in chemical industry, academics and research institutions of repute.
+To train students in multidisciplinary and interdisciplinary areas of chemical sciences.
+To train students who can apply their specialized and modern approach for the environmentally benign syntheses.
+Programme Outcomes (POs)
+Students shall be able to:
+Graduates of the M.Sc. Chemistry program will be prepared for careers in industry, academia, and research with expertise in emerging areas such as pharmaceuticals, nanotechnology, material science, bioinorganic and biophysical chemistry, catalysis, sensors, green chemistry, and computational chemistry for sustainable development.
+Analyse data obtained from various spectroscopic, microscopic, chromatographic, electrochemical, biochemical, and computational techniques for structure elucidation and chemical analysis.
+Design experiment, execute research projects, interpret the results and publish in scientific community.
+Download
+Syllabus – M.Sc. Chemistry
+Scheme of M.Sc. (Chemistry) – July 2026 onwards
+First Trimester (Week 1-13)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX
+Analytical Chemistry
+4
+0
+0
+4
+2.
+PCYXXX
+Transition Metal Chemistry
+4
+0
+0
+4
+3.
+PCYXXX
+Stereochemistry and Photochemistry
+4
+0
+0
+4
+4.
+PCYXXX
+Chemical Biology (For non-medical group)
+4
+0
+0
+4
+PIM101
+Basic Mathematics (For medical group)
+5.
+PCYXXX
+Analytical, Inorganic and Nanomaterial Chemistry Lab
+0
+0
+6
+3
+Total
+19
+Second trimester
+(Week 14-26)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX
+Molecular Spectroscopy
+4
+0
+0
+4
+2.
+PCYXXX
+Organic Reaction Mechanisms
+4
+0
+0
+4
+3.
+PCYXXX
+Quantum Chemistry
+4
+0
+0
+4
+4.
+PCYXXX
+Elective-I
+4
+0
+0
+4
+5.
+PCYXXX
+Organic and Physical Chemistry Lab-I
+0
+0
+6
+3
+Total
+19
+Third trimester
+(Week 27-40)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX
+Interpretative Spectroscopy
+4
+0
+0
+4
+2.
+PCYXXX
+Symmetry and Group Theory
+4
+0
+0
+4
+3.
+PCYXXX
+Elective-II
+4
+0
+0
+4
+4.
+PCYXXX
+Organic Chemistry Lab-II
+0
+0
+3
+1.5
+5.
+PHUXXX
+Professional Communication
+2
+1
+0
+2
+Total
+15.5
+Fourth trimester
+(Week 1-13)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX
+Seminar (Summer Training)
+-
+-
+-
+2.0
+2.
+PCYXXX
+Computation and AI in Chemistry
+3
+0
+2
+4.0
+3.
+PCYXXX
+Elective-III
+4
+0
+0
+4.0
+4.
+PCYXXX
+Research Methodology (NPTEL, MOOCS)
+-
+-
+-
+2.0
+Total
+12.0
+Fifth Trimester
+(Week 14-26)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX/ PCYAAA*
+Dissertation/ Industrial Project (Assessment-I)
+-
+-
+-
+6.0
+Total
+6.0
+Sixth trimester
+(Week 27-40)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Cr
+1.
+PCYXXX/PCYAAA*
+Dissertation/
+Industrial Project
+(Assessment-II)
+-
+-
+-
+10.0
+Total
+10.0
+*PCYAAA
+(For those who opted for one year industrial project)
+Elective-I (Trimester-II)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Hr
+Cr
+1.
+PCYXXX
+Bioorganic and Bioinorganic Chemistry
+4
+0
+0
+4.0
+4
+2.
+PCYXXX
+Inorganic Spectroscopy
+4
+0
+0
+4.0
+4
+3.
+PCYXXX
+Organometallic Chemistry
+4
+0
+0
+4.0
+4
+4
+PCYXXX
+Nanoscience and Material Chemistry
+4
+0
+0
+4.0
+4
+Elective-III (Trimester-IV)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Hr
+Cr
+1.
+PCYXXX
+Medicinal and Pharmaceutical Chemistry
+4
+0
+0
+4.0
+4
+2.
+PCYXXX
+Catalysis and Reagents
+4
+0
+0
+4.0
+4
+3.
+PCYXXX
+Retrosynthesis and Natural Products
+4
+0
+0
+4.0
+4
+4.
+PCY
+XXX
+Heterocyclic Chemistry
+4
+0
+0
+4.0
+4
+Elective-II (Trimester-III)
+S. No.
+Course No.
+Course Name
+L
+T
+P
+Hr
+Cr
+1.
+PCYXXX
+Supramolecular Chemistry
+4
+0
+0
+4.0
+4
+2.
+PCYXXX
+Photophysical and Biophysical Chemistry
+4
+0
+0
+4.0
+4
+3.
+PCY
+XXX
+Chemical Kinetics
+4
+0
+0
+4.0
+4
+4.
+PCYXXX
+Statistical Thermodynamics
+4
+0
+0
+4.0
+4
+Total Number of Credits = 81.5
+Department offers Ph.D (Chemistry) in following specialized areas:
+Analytical Chemistry, Organic Chemistry, Organometallic Chemistry, Environmental Chemistry, Medicinal Chemistry, Inorganic Chemistry, Nano Chemistry, Nano-Materials and Bio-physical Chemistry.
+Eligibility:
+A candidate seeking admission to the degree of Doctor of Philosophy must have obtained MSc or equivalent with minimum CGPA of 6.00 on a 10 point scale or 55% marks in aggregate where marks are awarded or NET (UGC/CSIR) qualified.
+Mode of Selection:
+Admission to Ph.D program shall be made by (i) Entrance test conducted ONLINE followed by (ii) interview.
+No. of seats:
+Admissions are made twice a year (July and January). Number of seats keeps varying as per the requirement of faculty. Information about the number of slots available in each specialization is made available on Thapar Institute of Engineering & Technology home page each time before admissions.
+Fellowship during Ph.D:
+Thapar Institute of Engineering & Technology does not provide any fellowship to research scholars. However, limited numbers of “Teaching Assistantships” are offered by Thapar Institute of Engineering & Technology (on fulfilment of Teaching Assistantships eligibility conditions) to regular Ph.D students where they are given 8-12 hours of teaching load per week. The students working in sponsored projects (by UGC, CSIR, DST, DBT, DRDO, BRNS and AICTE) are also eligible to enrol for Ph.D after fulfilment of above conditions.
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

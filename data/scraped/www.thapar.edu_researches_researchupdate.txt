@@ -1,0 +1,146 @@
+SOURCE: https://www.thapar.edu/researches/researchupdate
+TITLE: Centres of Excellence | Thapar Institute of Engineering & Technology
+------------------------------------------------------------
+
+Research Update
+Thapar Institute of Engineering and Technology (TIET) in Patiala, Punjab, India, is renowned for its diverse research initiatives across various departments. Below is an overview of the primary research themes for each department:
+Department of Computer Science and Engineering (CSED)
+Research Themes:
+Cyber Physical Systems and Information Security
+Big Data Analytics and Smart Cities
+Computational Intelligence
+Cloud and Software Systems
+Computer Animation and Gaming
+Language Technologies and Machine Learning
+Web Link:
+https://csed.thapar.edu/research
+Department of Electronics and Communication Engineering (ECED)
+Research Themes:
+VLSI System and Circuit Design-Synthesis
+Wireless Communication and 5G
+Antenna Engineering and MEMS
+Signal and Image Processing
+IoT and Embedded Systems
+Machine Learning and Artificial Intelligence
+Fiber-Optic Communication
+Computing Technologies
+Web Link:
+https://eced.thapar.edu/research
+Department of Electrical and Instrumentation Engineering (EIED)
+Research Themes:
+High Voltage Engineering
+Process Dynamics and Control
+Power System Simulation
+Industrial Instrumentation and Process Control
+Web Link:
+https://eied.thapar.edu/research
+Department of Mechanical Engineering (MED)
+Research Themes:
+Design Engineering
+Thermal Engineering
+Production Engineering
+Computer-Aided Design
+Robotics and Exoskeletons
+Structural and Aeroelastic Analysis
+Computational Mechanics
+Vehicle Dynamics
+Biomechanics
+Additive Manufacturing/3D Printing
+Materials, Polymers, and Composites
+Web Link:
+https://med.thapar.edu/research
+Department of Chemical Engineering (CHED)
+Research Themes:
+Energy and Environmental Engineering
+Water/Wastewater Treatment
+CO₂ Capture and Utilization
+Distillation Processes
+Dye-Sensitized Solar Cells
+Heat Transfer and Heat Exchangers
+Hydrogen Energy
+Nanomaterials and Polymer Composites
+Kinetics and Catalysis
+Web Link:
+https://ched.thapar.edu/research
+Department of Biotechnology (BTD)
+Research Themes:
+Industrial and Environmental Biotechnology
+Plant Molecular Biology and Genetic Engineering
+Applied Microbiology and Biotechnology
+Animal-Microbe Interaction
+Natural Product-Based Drug Discovery
+Immunology and Cancer Biology
+Computational Biology
+Genomics and Plant Biotechnology
+Food Engineering and Nano biotechnology
+Bioprocess Engineering
+Biomaterials
+Pharmaceutical Sciences
+Web Link:
+https://btd.thapar.edu/research
+School of Energy and Environment (SEE)
+Research Themes:
+Water and Wastewater Treatment
+Renewable Energy Systems
+Environmental Biotechnology
+Air Quality Management
+Solid Waste Management
+Climate Change and Sustainability
+Web Link:
+https://see.thapar.edu/research
+Department of Mathematics
+Research Themes:
+Real Analysis
+Astronomy and Astrophysics
+Mechanics, Fluid Mechanics
+Integer Programming, Optimization- Numerical , Duality Theory, Fuzzy Optimization
+Number Theory-Partition Theory
+Fourier Analysis, Functional Analysis
+Soft Computing, Artificial Neural Network
+Fixed Point Theory, Approximation Theory
+Mathematical Biology
+Mathematical Modelling- Transport, Hamiltonian systems
+Numerical Analysis (for ODE and PDE)
+Web Link:
+https://som.thapar.edu/
+Department of Physics and Material Science
+Research Themes:
+Materials science
+Condensed matter physics- experimental
+Condensed matter theory-strongly correlated system
+Thin film solar cells
+Nanomaterial’s
+Nano medicine
+Nuclear physics- experimental
+Environmental radioactivity
+Particle physics
+Nonlinear dynamics and photonics
+Computational soft condense matter physics
+Multiferroics & fuel  cell
+Web Link:
+https://spms.thapar.edu/research
+Department of Chemistry & Biochemistry
+Research Themes:
+Catalysis and Nano chemistry
+Organic Synthesis and Medicinal Chemistry
+Chemical Biology and Biophysical Chemistry
+Computational Chemistry
+Chemical Sensing and Environmental Chemistry
+Web Link:
+https://scbc.thapar.edu/research
+Department of Civil Engineering
+Research Themes:
+Structural Health Monitoring (SHM) & Retrofitting of Structures
+Cement & Cement based Materials
+Water Resource Engineering
+Transportation Engineering
+Web Link:
+https://ced.thapar.edu/research
+Department of Humanities & Social Sciences
+Research Themes:
+Corporate finance
+Higher Education
+Behavioral Psychology
+Entrepreneurship
+Web Link:
+https://smss.thapar.edu/research

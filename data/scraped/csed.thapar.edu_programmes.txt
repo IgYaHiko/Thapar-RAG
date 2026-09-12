@@ -1,0 +1,1153 @@
+SOURCE: https://csed.thapar.edu/programmes
+TITLE: CSED Offers B.E., M.E., MCA & PhD in Computer Science and Engineering Courses
+------------------------------------------------------------
+
+Academic Programmes
+An elaborate list of our research-oriented academic programmes
+B.E. (Computer Engineering)
+B.E. (Computer Science & Engineering)
+B.E. (Computer Science & Business Systems)
+B E (Artificial Intelligence & Machine Learning)
+BE (AI& DS) 2025 & 2024
+M.E. (Computer Science and Engineering)
+ME (Artificial Intelligence)
+MCA
+PhD
+BE Computer Engineering program is a special program designed to apply analytical skills and demonstrate research capabilities in the field of computer science and engineering. It enables you to work in multidisciplinary environments and get responsive to the changing needs of the society. Incorporating a detailed mix of software and hardware engineering, this program can be defined as the application of a systemic, disciplined, and quantifiable approach to development, operation and maintenance of computer-related technicalities.
+PEO
+Statement
+PEO 1
+Demonstrate technical expertise to provide solutions for challenging problems by applying computer engineering theory and principles.
+PEO 2
+Engage in life-long learning and professional development to adapt to the rapidly changing field of computer engineering.
+PEO 3
+Achieve leadership roles in their profession by inculcating professional ethics and code of professional practices.
+PO
+Outcome
+PO 1
+Engineering Knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems.
+PO 2
+Problem Analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to WK4)
+PO 3
+Design/Development of Solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. (WK5)
+PO 4
+Conduct Investigations of Complex Problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions. (WK8)
+PO 5
+Engineering Tool Usage:
+Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems. (WK2 and WK6)
+PO 6
+The Engineer and The World:
+Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment. (WK1, WK5, and WK7)
+PO 7
+Ethics:
+Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO 8
+Individual and Collaborative Team work:
+Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams.
+PO 9
+Communication:
+Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences.
+PO 10
+Project Management and Finance:
+Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments.
+PO 11
+Life-Long Learning:
+Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)
+PSO
+Outcome
+PSO 1
+Apply the fundamentals of mathematics, science and engineering to identify, formulate, design and investigate engineering problems using efficient and effective computational techniques.
+PSO 2
+Apply the appropriate engineering techniques using modern hardware and software tools in computer science and engineering to engage in lifelong learning, being ethical to successfully adapt in multi-disciplinary environment.
+Course Scheme
+Click Here to download 2025-26 Scheme
+Click Here to download 2024-25 Scheme
+BE Computer Science and Engineering program is a special program designed to apply analytical skills and demonstrate research capabilities in the field of computer science and engineering. It enables you to work in multidisciplinary environments and get responsive to the changing needs of the society. Incorporating some of the niche courses of computer science which include cognitive computing and quantum computing as part of the curriculum, this program can be defined as the application of a systemic, disciplined, and quantifiable approach to development, operation and maintenance of computer-related technicalities.
+* Students have to spend first 2 years (Year I and Year II) at Dera-Bassi campus and last two years (Year III and Year IV) at Patiala campus.
+PEO
+Statement
+PEO 1
+Demonstrate technical expertise to provide solutions for challenging problems by applying computer engineering theory and principles.
+PEO 2
+Engage in life-long learning and professional development to adapt to the rapidly changing field of computer engineering.
+PEO 3
+Achieve leadership roles in their profession by inculcating professional ethics and code of professional practices.
+PO
+Outcome
+PO 1
+Engineering Knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems.
+PO 2
+Problem Analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development. (WK1 to WK4)
+PO 3
+Design/Development of Solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required. (WK5)
+PO 4
+Conduct Investigations of Complex Problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions. (WK8)
+PO 5
+Engineering Tool Usage:
+Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems. (WK2 and WK6)
+PO 6
+The Engineer and The World:
+Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment. (WK1, WK5, and WK7)
+PO 7
+Ethics:
+Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO 8
+Individual and Collaborative Team work:
+Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams.
+PO 9
+Communication:
+Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences.
+PO 10
+Project Management and Finance:
+Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments.
+PO 11
+Life-Long Learning:
+Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change. (WK8)
+PSO
+Outcome
+PSO 1
+Apply the fundamentals of mathematics, science and engineering to identify, formulate, design and investigate engineering problems using efficient and effective computational techniques.
+PSO 2
+Apply the appropriate engineering techniques using modern hardware and software tools in computer science and engineering to engage in lifelong learning, being ethical to successfully adapt in multi-disciplinary environment.
+Course Scheme
+Click Here to download 2026 Scheme
+Click Here to download 2025 Scheme
+Click Here to download 2024 Scheme
+Click Here to download 2023 Scheme
+About the Program
+To address the growing need for engineering talent with skills in digital technology, a 4 years undergraduate program titled "Computer Science and Business Systems (CSBS)" has been designed with the participation of an IT industry leader along with leading academicians. TCS (India's largest software giant) has designed this program to enhance the relevance of the Computer Science program in India to meet the future demands of the IT industry, whose landscape is rapidly changing in the era of Business 4.0.
+The Program focuses on enhancing the following key attributes among graduating students:
+• Understanding of Current Technology
+• Knowledge of Technology Abstraction
+• Understanding of Common Business Principles
+• Business Discipline and Service Orientation
+• Innovation Ability
+• Strong Ethics and Life Values
+This course will make the students industry-ready and employable engineers. These students will be able to drive innovation and add value to the companies that they work for.
+Course Scheme
+Click Here to download 2024 Scheme
+Click Here to download 2023 Scheme
+More Details
+https://www.tcs.com/careers/
+india/computer-science-
+business-system-program
+Course Scheme
+Click Here to download 2024 Scheme
+Click here to download the scheme 2024
+Click here to download the scheme 2025
+The postgraduate program in Computer Sc. and Engineering is designed to give an in-depth knowledge of core computer courses which include advanced algorithms, advanced computer architecture, advances data structures, Machine Learning, data science foundations, etc. The students get an opportunity to specialize in the most sought after disciplines through electives namely; NLP, GPU computing, Cloud infrastructure as a service, Block Chain technologies, etc.
+To encourage the students in research based program in Computer Sc. and Engineering, the institute offers a
+stipend of INR 5000 per month in addition to AICTE scholarship to GATE qualified students and INR 10,000 per month to non-GATE students
+.
+The program offers an opportunity for one year industry internship, which helps the students to enhance research and academic skills and further provides an opportunity to get pre-placement offer.
+The placement office extends the support to invite slots for one year internship in various MNCs R&D organisations and IITs
+. In previous years, the students got the opportunity to work for their internships in Samsung, Dell, Oracle, Deloitte, Amdocs, Axtria, Infosys, Intel, Nokia, Snapdeal, etc.
+Course Scheme
+Click Here to download 2025 Scheme PDF
+Click Here to download 2022 Scheme PDF
+Click Here to download 2021 Scheme PDF
+Click Here to download 2020 Scheme PDF
+The postgraduate program in Artificial Intelligence is designed to equip students with in-depth knowledge and hands-on experience in AI technologies, including machine learning, deep learning, computer vision, natural language processing, and AI-driven systems. Students also have the flexibility to explore emerging and high-demand areas through a wide range of electives, including Autonomous Robotics & Reinforcement Learning, Conversational AI, Generative AI, Language Models and the Transformer, Neural Operators etc.
+To encourage the students in research based program in Artificial Intelligence, the institute offers a stipend of INR 5000 per month in addition to AICTE scholarship to GATE qualified students and INR 10,000 per month to non-GATE students.
+The program offers an opportunity for one year industry internship, which helps the students to enhance research and academic skills and further provides an opportunity to get pre-placement offers.
+Computer Science & Engineering Department offers a 2-Year MCA program. This programme is designed to provide an opportunity to the students who hold minimum 3 years Bachelor Degree in any discipline from a recognized University with at least 60% marks (55% for SC/ST) in aggregate with Mathematics at 10+2 or graduation level.
+The core objective of this programme is to prepare the students for productive careers in software industry and academia by providing an outstanding environment of teaching and research in both core and emerging areas of the discipline.
+The students study courses for three semesters at the Institute and do a Software Development Project in some reputed industry in the fourth semester. The programme equips students with the skill and relevant competence to meet the manpower requirement of the fast growing software industry as well as institutions of higher learning.
+Course Scheme
+Click Here to download 2025 Scheme
+Click Here to download 2022 Scheme
+The Doctor of Philosophy (Ph.D.) in Computer Science and Engineering (CSE) is a research-oriented, advanced-level degree programme that emphasizes scholarly contributions to the field of Computer Science and Engineering. Opportunities for those with a doctorate in CSE are diverse, spanning from teaching and research at Indian / Foreign Universities to working in private companies and government organizations. We have a pool of 120 dedicated faculty members in CSED.
+Students get an opportunity to work in some of the niche domains of Computer Science, which include Deep Learning and Neural Networks, Computer Vision and Image Processing, Natural Language Processing and Speech Recognition, Reinforcement Learning and Robotics, Generative Models and Adversarial Networks, Predictive Analytics and Time Series Forecasting, Explainable AI and Fairness in Machine Learning, Cryptography and Data Encryption, Intrusion Detection and Prevention, Firewall and Access Control Technologies, Malware Detection and Analysis, Wireless Network Security, Cloud Security and Secure Data Storage, etc.
+Upon completion, Ph.D. graduates in Computer Science are well-equipped to pursue careers as researchers, educators, and experts in the field. Overall, a Ph.D. in Computer Science can be a valuable investment for individuals seeking a challenging and rewarding career in the field of computing.
+Ongoing Ph.D.s
+74
+S. No.
+Name of the Student
+Title of Ph.D. Proposal
+Name of Supervisor(s)
+1
+Shruti Arora
+An Efficient Approach for Transformation and Analysis of Streaming Data
+Dr. Rinkle Rani, Dr. Nitin Saxena
+2
+Jasleen Kaur
+Framework for Securing and Querying Healthcare Data using Blockchain
+Dr. Rinkle Rani, Dr. Nidhi Kalra
+3
+Palak Goyal
+Development of Efficient Algorithm(s) for Prediction of Neurodegenerative Diseases
+Dr. Rinkle Rani, Dr. Karamjeet Singh
+4
+Shikha Sharma Sarkar
+An Efficient Framework for Analysis of Genomic Characterization of SARS-CoV-2
+Dr. Rinkle Rani, Dr. Nidhi Kalra
+5
+Prabhjot Kaur
+An Efficient Technique for Security of Mobile Agents
+Dr. Shalini Batra, Dr. Prashant Singh Rana
+6
+Ravneet Kaur
+Improved Extreme Learning Machine (ELM) based Approach(es) for Data Analysis
+Dr. Shalini Batra, Dr. Rajendra Kumar Roul
+7
+Sunita Rani
+Deep Learning Based Image Retrieval Technique(s)
+Dr. Shalini Batra, Dr. Geeta Kasana
+8
+Rajanpreet Kaur Chahal
+A Framework for Trust Management in Social Internet of Things Environment
+Dr. Neeraj Kumar, Dr. Shalini Batra
+9
+Kudratdeep Aulakh
+Smart Education System for Improving Student Engagement using Advanced Machine Learning
+Dr. Rajendra Kumar Roul, Dr. Manisha Kaushal
+10
+Deepali Bhagat
+Reversible Hiding of Clinical Information in Medical Images
+Dr. Rupali Bhardwaj
+11
+Jyoti Rani
+A Hybrid Strategy to Secure Medical Signals in E-Healthcare
+Dr. Shivendra Shivani, Dr. Rupali Bhardwaj
+12
+Pragya Mishra
+Explainable AI for Scene Understanding in Unconstrained Environment
+Dr. Jhilik Bhattacharya, Dr. R. K. Sharma
+13
+Amardeep Singh
+Efficient Discovery of Transcription Factor Binding Sites in DNA Sequences
+Dr. R. K. Sharma, Dr. Atul Kumar Upadhyay
+14
+Ritu Gothwal
+Efficient Reconstruction and Secure Transmission of Medical Images for Telemedicine Applications
+Dr. Shailendra Tiwari, Dr. Shivendra Shivani
+15
+Avantika Saklani
+Multimodal Machine Learning for an Efficient Information Retrieval: Step into Next-Generation Computing
+Dr. Husanbir Singh Pannu, Dr. Shailendra Tiwari
+16
+Karambir Kaur
+Integrated Computational Model based on Cognitive Aspects in Software Maintenance
+Dr. Ashutosh Mishra, Dr. Palika Chopra
+17
+Natasha Singh
+An Improved Construction of Büchi Automata for Scientific Applications
+Dr. Ajay Kumar
+18
+Bhavya
+Design of Formal Grammar and Model for Composition of Indian Music
+Dr. Ajay Kumar, Dr. Sunita Garhwal
+19
+Karuna Kadian
+Design and Development of Techniques for Quantum Walk on Graphs
+Dr. Sunita Garhwal, Dr. Ajay Kumar
+20
+Govind Ram Chimpa
+Design of Robust and Real-Time Eye-Gaze Communication Technique
+Dr. Ajay Kumar, Dr. Sunita Garhwal, Dr. Dhiraj Sangwan
+21
+Simarjit Kaur
+An Intelligent Energy Aware Approach(es) for Smart Appliance
+Dr. Anju Bala, Dr. Anshu Parashar
+22
+Reaya Grewal
+Towards Efficient Segmentation of Hyperspectral Images
+Dr. Singara Singh Kasana, Dr. Geeta Kasana
+23
+Sheetal Garg
+An Optimum Compute Resources Consolidation Framework for Cloud Data Center
+Dr. Raman Singh, Dr. Rohit Ahuja, Dr. Ivan Perl
+24
+Rajesh Kumar Chaudhary
+An Efficient Algorithm for Clustered Federated Learning using Nature-Inspired Optimization Technique
+Dr. Nitin Saxena, Dr. Ravinder Kumar
+25
+Niyaz Ahmad Wani
+An Efficient Explainable AI-Based Model for Assisting Medical Practitioners in Cancer Detection
+Dr. Ravinder Kumar, Dr. Mamta Dabra
+26
+Himanshu Sharma
+Energy-Efficient Secure Transmission Techniques for 5G-Enabled HetNet
+Dr. Neeraj Kumar, Dr. Rajkumar Tekchandani
+27
+Arzoo Miglani
+Content Centric Networking based Secure Decentralized Data Management in V2G Environment
+Dr. Neeraj Kumar
+28
+Deepika
+Deep Learning based Techniques for Traffic Sign and Pedestrian Detection in Intelligent Transportation System
+Dr. Neeraj Kumar, Dr. Prashant Singh Rana
+29
+Krishan Kumar
+Detection of Landmines using Computational Intelligence Techniques
+Dr. Neeraj Kumar, Dr. Sushma Jain, Dr. Deepshikha Tiwari
+30
+Nisha Thakur
+Path Planning for Autonomous Vehicles using Computational Intelligence Techniques
+Dr. Neeraj Kumar, Dr. Smita Agarwal
+31
+Harcharan Jit Singh
+Scalable Metadata Storage and Retrieval Techniques for Very Large Storage System
+Dr. Seema Bawa
+32
+Sukhandeep Kaur
+Domain based Bilingual Handwritten Recognition System for Gurmukhi-English Script
+Dr. Ravinder Kumar, Dr. Seema Bawa
+33
+Sandeep Saharan
+Dynamic Pricing based Efficient Model for Smart Parking System
+Dr. Seema Bawa, Dr. Neeraj Kumar
+34
+Venus Singla
+Deep Learning based Framework for Indian Sign Language Recognition to Punjabi Text and Speech
+Dr. Seema Bawa, Dr. Jasmeet Singh
+35
+Sonal Saxena
+Blockchain-based Smart Contract for Specific Applications
+Dr. Seema Bawa, Dr. Rajiv Kumar
+36
+Atul Malhotra
+Quality of Service Aware Routing Protocol for Flying Ad-hoc Networks
+Dr. Sanmeet Kaur
+37
+Aashima Sharma
+Blockchain-based Secure Framework for Efficient Management of IoT Generated Healthcare Data
+Dr. Maninder Singh, Dr. Sanmeet Kaur
+38
+Bharti
+Predicting Pulmonary Health Status from Lung Auscultations through Intervention of Artificial Intelligence
+Dr. Maninder Singh, Dr. Vinay Arora
+39
+Sanjeev Rao
+Framework for Efficient Spam Detection in Online Social Network
+Dr. Anil Kumar Verma, Dr. Tarunpreet Bhatia
+40
+Vivek Gupta
+Smart Healthcare Systems Assisted with Fog Computing and Data Analytics Methodology
+Dr. Tarunpreet Bhatia, Dr. Anil Kumar Verma
+41
+Vidyotma
+Blockchain-Based Secure Framework for e-Healthcare
+Dr. Anil Kumar Verma, Dr. Surjit Singh
+42
+Kashish Goyal
+Artificial Intelligence Based Food Quality Detection System
+Dr. Parteek Kumar, Dr. Karun Verma
+43
+Swadha Gupta
+Cognitive Analysis Based System for Effective Online Learning
+Dr. Parteek Kumar, Dr. Rajkumar Tekchandani
+44
+Sugandhi
+Generation of Indian Sign Language based on ISL Grammar
+Dr. Parteek Kumar, Dr. Sanmeet Kaur
+45
+Rupali
+Automatic Text Summarization and Question-Answer Generation using Deep Learning Techniques
+Dr. Parteek Kumar, Dr. V. P. Singh
+46
+Parminder Kaur
+Development of an Efficient Framework based on Deep Learning for Wildlife Surveillance using Robot
+Dr. V. P. Singh, Dr. Sachin Kansal
+47
+Mohit
+Blockchain-Based Framework for Anti-Counterfeits in the Supply Chain
+Dr. Maninder Singh, Dr. Sanmeet Kaur
+48
+Upasna Joshi
+Energy Efficient Routing Protocol for Heterogeneous Wireless Sensor Networks
+Dr. Rajiv Kumar
+49
+Garima Kadian
+Design and Development of Haze Detection Techniques
+Dr. Rajiv Kumar
+50
+Anupinder Singh
+Cardiac Health Status Prediction using Machine Learning Model and Heart Sound Signal
+Dr. Vinay Arora, Dr. M. D. Singh
+51
+Swati Sharma
+Detection Framework for Sarcasm in Online Social Networks
+Dr. Maninder Kaur
+52
+Navneet Kaur
+Clothes Recognition and Annotation from Clothing Image Dataset
+Dr. Shreelekha Pandey
+53
+Gurinderjeet Kaur
+Survival Prediction of Glioblastoma Patients using Pre-Operative Brain MRI Scans
+Dr. Prashant Singh Rana, Dr. Vinay Arora
+54
+Kriti Taneja
+Decision Support System for Early Detection of Cardiac Health Status
+Dr. Vinay Arora, Dr. Karun Verma
+55
+Komal Singh Gill
+A Game Theoretic Model for Security in Cloud Environment
+Dr. Sharad Saxena, Dr. Anju Sharma
+56
+Akashdeep Kaur
+Efficient Task Scheduling and Resource Allocation using Osmotic Computing
+Dr. Rajesh Kumar, Dr. Sharad Saxena
+57
+Anushka
+Wireless Communication Optimization using LiFi Network
+Dr. Rajesh Kumar, Dr. Sharad Saxena
+58
+Abhishek Jain
+Power-Efficient Framework for Resource Utilization in Fog Computing
+Dr. Amit Kumar Bhardwaj
+59
+Shveta Verma
+An Auto-Scaling Approach using Load Prediction for IoT-based Cloud Application
+Dr. Anju Bala
+60
+Gaganpreet Kaur
+A Hybrid Technique for Smooth Handover in Wireless Networks
+Dr. Raman Kumar Goyal, Dr. Rajesh Kumar Mehta
+61
+Paluck
+Design and Analysis of Robust Image Registration Schemes using Machine Learning Algorithms
+Dr. Rajesh Mehta, Dr. Rohit Ahuja
+62
+Maggi Bansal
+IoT and Cloud Service Centric Framework for Enablement of Smart Cities
+Dr. Inderveer Chana, Dr. Siobhan Clarke (Trinity College, Dublin)
+63
+Ravneet Kaur
+Distributed Data Deduplication Techniques for Efficient Cloud Storage System
+Dr. Inderveer Chana, Dr. Jhilik Bhattacharya
+64
+Parampreet Kaur
+Intelligent Framework for Omics Data Analysis using Machine Learning
+Dr. Ashima Singh, Dr. Inderveer Chana
+65
+Shruti Arora
+Machine Learning Model to Predict Cardiovascular Risk
+Dr. Sushma Jain, Dr. Inderveer Chana
+66
+Jasmine Kaur
+Enhancing Performance and Energy Optimization in Serverless Computing
+Dr. Anshu Parashar, Dr. Inderveer Chana
+67
+Arwinder Dhillon
+Computational Intelligent Framework for Biomarker Identification in Multi-Omics Data
+Dr. Ashima Singh, Dr. Vinod Kumar Bhalla
+68
+Archana Kumari
+An Integrated Scheme for Risk Assessment in Cyber Physical System to Visualize the Impact on System Assets
+Dr. Vinod Kumar Bhalla, Dr. Manju
+69
+Shabnam Bawa
+An Optimized Approach for Energy Consumption of Smart Devices in Fog Computing using Computational Intelligence Techniques
+Dr. Prashant Singh Rana, Dr. Rajkumar Tekchandani
+70
+Rakesh Singh
+Design and Development of a Novel Framework for the Identification of Roundabouts in a Given Map
+Dr. Prashant Singh Rana, Dr. Neeru Jindal
+71
+Arun Kumar
+Design and Development of Computationally Intelligent Framework for Protein Allergen Classification
+Dr. Prashant Singh Rana
+72
+Ruhi Saxena
+Information Cascade Prediction in Online Social Network
+Dr. Sushma Jain, Dr. Prashant Singh Rana
+73
+Suman Saurabh Sarkar
+A Framework for Smart Irrigation Based upon Climate Analogue
+Dr. Mamta Dabra, Dr. Sushma Jain
+74
+Hunish Kumar Bansal
+Muscle Force Prediction for Human Body Activities using Computational Intelligence Approaches
+Dr. Neeraj Kumar, Dr. Prashant Singh Rana
+Awarded Ph.D.s
+87
+S. No.
+Name
+Year of Award
+Supervisor(s)
+Title
+1
+Amritpal Singh
+2018
+Dr. Shalini Batra
+A Novel Technique for Efficient Storage and Retrieval of Massive Data Sets
+2
+Anish Jindal
+2018
+Dr. Neeraj Kumar, Dr. Mukesh Singh
+Data Analytics of Smart Grid Environment for Efficient Management of Demand Response
+3
+Bhawna
+2018
+Dr. Anil Kumar Verma, Dr. L. R. Raheja
+Design and Development of an Efficient Secure AODV Routing Protocol
+4
+Gagangeet Singh Aujla
+2018
+Dr. Neeraj Kumar
+Renewable Energy based Efficient Framework for Sustainability of Data Centres
+5
+Khushneet Jindal
+2018
+Dr. Rajiv Kumar
+Optical Character Recognition of Machine Printed Dogri Language Documents
+6
+Kuldeep Singh
+2018
+Dr. Anil Kumar Verma
+A Secure Framework for Flying Ad-hoc Networks
+7
+Kuljeet Kaur
+2018
+Dr. Neeraj Kumar, Dr. Mukesh Singh
+Efficient Control Mechanism using Data Centers and Electric Vehicles for Grid Frequency Support
+8
+Megha
+2018
+Dr. Shivani Goel, Dr. Ajay Kumar
+A Generic Framework for Improving Software Product Line using an Ontological Rule Based Approach
+9
+Pardeep Kumar Arora
+2018
+Dr. Rajesh Bhatia
+Regression Test Case Generation Technique using Mobile Agents
+10
+Raj Kumar Tekchandani
+2018
+Dr. Maninder Singh, Dr. Rajesh Bhatia
+Development of an Efficient Semantic Code Clone Detection Technique
+11
+Ranjeeta
+2018
+Dr. Sanjay Sharma
+An Efficient Algorithm for Embedding Digital Watermark in Curvelet Domain
+12
+Sahil Garg
+2018
+Dr. Shalini Batra
+Anomaly Detection and Analysis in Big Data
+13
+Sukhchandan Randhawa
+2018
+Dr. Sushma Jain
+Efficient Load Balancing and Data Aggregation for Multipath Routing in Wireless Sensor Networks
+14
+Sushil Kumar
+2018
+Dr. Anil Kumar Verma
+An Efficient Routing Protocol for VANET
+15
+Tarunpreet Bhatia
+2018
+Dr. Anil Kumar Verma
+An Efficient Framework for Data Security in Mobile Cloud Computing Paradigm
+16
+Vaishali Mehta
+2018
+Dr. Deepak Garg
+Improved Approximation Algorithms for Facility Location Problems
+17
+Vandana Bhatia
+2018
+Dr. Rinkle Rani
+Efficient Pattern Mining of Big Data using Graphs
+18
+Aman Sharma
+2019
+Dr. Rinkle Rani
+Machine Learning Based Framework for Drug Prediction of Cancerous Genomic Profiles
+19
+Ashish Girdhar
+2019
+—
+Development of Efficient Image Steganography System for 3D Image Models
+20
+Bharti Saneja
+2019
+Dr. Rinkle Rani
+An Efficient Approach for Outlier Detection in Big Data
+21
+Dilbag Singh
+2019
+Dr. Vijay Kumar
+Design and Development of Visibility Restoration Techniques for Weather Degraded Images
+22
+Gurpal Singh Chhabra
+2019
+Dr. V. P. Singh, Dr. Maninder Singh
+Design and Implementation of Computer and Network Forensics Framework
+23
+Harjeet Singh
+2019
+Dr. R. K. Sharma, Dr. V. P. Singh
+Language Model Based Online Handwritten Recognition System for Punjabi Language
+24
+Himanshu Jindal
+2019
+Dr. Sharad Saxena, Dr. Singara Singh Kasana
+Procreation of Energy Efficient Topologies for Data Transmission in Underwater Wireless Sensor Network
+25
+Jayashri Vitthalrao Bagade
+2019
+Dr. Kulbir Singh, Dr. Yogesh Dandawate
+Optimal Framework Design for No Reference Image Quality Assessment Based on Genetic Statistical Modeling
+26
+Kalpna
+2019
+Dr. Anil Kumar Verma
+An Enhanced Routing Technique for Wireless Sensor Networks
+27
+Manjit Kaur
+2019
+Dr. Singara Singh Kasana
+Development of Efficient Color Image Encryption Techniques using Evolutionary Approaches
+28
+Manmeet Singh
+2019
+Dr. Sanmeet Bhatia, Dr. Maninder Singh
+Anomaly Based Botnet Detection using DNS Traffic Analysis
+29
+Monika
+2019
+Dr. Deepak Garg
+Efficient Geometric Algorithms for Resource Location Models
+30
+Nishtha Hooda
+2019
+Dr. Seema Bawa, Dr. Prashant Singh Rana
+Ensemble Machine Learning Framework for Big Data Analytics
+31
+Sunita
+2019
+Dr. Deepak Garg
+Improved Data Structures for Dynamic and Massive Data
+32
+Tarandeep Kaur
+2019
+Dr. Inderveer Chana
+Energy-Efficient Resource Scheduling Technique for Cloud Computing
+33
+Vaibhav Agarwal
+2019
+Dr. Parteek Bhatia
+Universal Networking Language Based Question Answering System for Information Retrieval of Punjabi Language
+34
+Aisha Makkar
+2020
+Dr. Neeraj Kumar
+An Efficient Spammer Classification for Ranking of Web Pages
+35
+Ajay Kumar
+2020
+Dr. Seema Bawa
+Dynamic and Scalable Data Access and Integration Services in Cloud Computing Environment
+36
+Amandeep Singh Bhatia
+2020
+Dr. Ajay Kumar
+On Some Aspects of Quantum Computational Models
+37
+Baljit Kaur
+2020
+Dr. Jhilik Bhattacharya
+Augmented Map Based Intelligent Navigation System
+38
+Deepak Gupta
+2020
+Dr. Rinkle Rani
+A Novel Framework for Analysis of Big Data
+39
+Divya Khanna
+2020
+Dr. Prashant Singh Rana
+Ensemble Approach for Antigenic Epitopes Prediction using Physicochemical Properties
+40
+Gagandeep Kaur
+2020
+Dr. Singara Singh Kasana, Dr. Mahesh Kumar Sharma
+Efficient Watermarking for High Efficiency Video Coding
+41
+Gurleen Kaur
+2020
+Dr. Anju Bala
+Efficient Resource Prediction and Scheduling Approach for Scientific Applications in Cloud Environment
+42
+Harmanjeet Kaur
+2020
+Dr. Shalini Batra, Dr. Neeraj Kumar
+An Efficient Framework for Privacy Preservation of Big Data Analytics
+43
+Harpreet Singh
+2020
+Dr. Prashant Singh Rana, Dr. Urvinder Singh
+Drug Synergy for Cancer using Computational Intelligence Techniques
+44
+Isha Kansal
+2020
+Dr. Singara Singh Kasana
+Development of Efficient Techniques for Fog Removal from Digital Images
+45
+Jasminder Kaur
+2020
+Dr. Prashant Singh Rana, Dr. A. K. Verma
+Dependability Evaluation of Wireless Sensor Networks
+46
+Monika Bharti
+2020
+Dr. Rajesh Kumar, Dr. Sharad Saxena
+Resource Inquisition and Optimal Calibration on Internet-of-Things
+47
+Sachendra Singh Chauhan
+2020
+Dr. Shalini Batra
+Efficient Similarity Search Techniques for Textual and Non-Textual Datasets
+48
+Sahil Vashist
+2020
+Dr. Sushma Jain
+Efficient Location Aware Protocol for Multi-UAV Networks
+49
+Shubham Goel
+2020
+Dr. Ravinder Kumar
+Personalization of Web Search using Social Information
+50
+Simar Preet Singh
+2020
+Dr. Rajesh Kumar, Dr. Anju Sharma
+Energy-Efficient Load Balancing Algorithms in Fog Computing
+51
+Simranjit Singh
+2020
+Dr. Singara Singh Kasana
+Efficient Classification and Soil Quantification using Hyperspectral Data
+52
+Sukhvir Kaur
+2020
+Dr. Shreelekha Pandey, Dr. Shivani Goel
+Developing an eAgriculture Application for Identification of Fungal Disease in Plants through Leaf Images
+53
+Sumedha Arora
+2020
+Dr. Anju Bala
+An Intelligent Energy Aware Approach for Big Data Storage in Cloud Data Centers
+54
+Vishan Kumar Gupta
+2020
+Dr. Prashant Singh Rana
+Toxic Prediction of Pre-Clinical Trial Drugs using Physicochemical Properties and Computational Intelligence Approaches
+55
+Amandeep Kaur
+2021
+Dr. Shivani Goel, Dr. Sushma Jain
+Designing and Developing a Machine Learning based Code Smell Detection Technique
+56
+Amanpreet Singh
+2021
+Dr. Maninder Kaur
+Detection Framework for Content Based Cybercrime in Online Social Networks
+57
+Deepak Mehta
+2021
+Dr. Sharad Saxena
+Procreation of Energy Efficient Hierarchical Routing Protocols for Wireless Sensor Networks
+58
+Gaurav Sharma
+2021
+Dr. Seema Bawa, Dr. Prashant Singh Rana
+Efficient Machine Learning Techniques for Big Data Analytics
+59
+Hemant Petwal
+2021
+Dr. Rinkle Rani
+A Framework for Scheduling and Optimization of Healthcare Resources
+60
+Ishan Budhiraja
+2021
+Dr. Neeraj Kumar, Dr. Sudhanshu Tyagi
+Towards Energy Harvesting and Interference Mitigation for D2D Communication in 5G
+61
+Kanu Goel
+2021
+Dr. Shalini Batra
+Novel Technique(s) for Concept Drift Detection and Handling
+62
+Lovleen Kaur
+2021
+Dr. Ashutosh Mishra
+Selection of Change-prone Software Components using the Expertise of Semantic Web and Intelligent Computing Methods
+63
+Mandeep Kaur Saggi
+2021
+Dr. Sushma Jain
+Decision Support System for On-Farm Crop Water Irrigation Scheduling using Machine Learning Approaches
+64
+Mohd. Abuzar Sayeed
+2021
+Dr. Rajesh Kumar
+An Efficient Framework for Data Dissemination in Multi-UAV Ad hoc Networks
+65
+Muskaan Singh
+2021
+Dr. Ravinder Kumar, Dr. Inderveer Chana
+Cloud based Sanskrit to Hindi Machine Translation System
+66
+Nitin Arvind Shelke
+2021
+Dr. Singara Singh Kasana
+Development of Multiple Forgery Detection and Localization Techniques for Digital Video
+67
+Rajat Chaudhary
+2021
+Dr. Neeraj Kumar
+Software-Defined Networking based Control Flow Optimization for Multi-Cloud Environment
+68
+Ravneet Kaur Sidhu
+2021
+Dr. Ravinder Kumar, Dr. Prashant Singh Rana
+Efficient Forecasting of Crop Water Demand
+69
+Rupinderdeep Kaur
+2021
+Dr. R. K. Sharma, Dr. Parteek Bhatia
+Prosody based Phonetic Engine and Speaker Classification for Punjabi Language
+70
+Sahil Sharma
+2021
+Dr. Vijay Kumar
+Metaheuristic Approaches for Occlusion Invariant 3D Face Recognition Technique
+71
+Sawinder Kaur
+2021
+Dr. Parteek Kumar, Dr. Ponnurangam Kumaraguru
+Fake Content Detection System for Multimodal Signals over Social Media
+72
+Shatrughan Modi
+2021
+Dr. Jhilik Bhattacharya, Dr. Prasenjit Basak (EIED)
+Energy Consumption Estimation of Electric Vehicles using Different Navigational Parameters
+73
+Sitender
+2021
+Dr. Seema Bawa
+Sanskrit Language Enconversion to Universal Networking Language (UNL)
+74
+Sonal Kukreja
+2021
+Dr. Singara Singh Kasana, Dr. Geeta Kasana
+Development of Copyright Protection and Authentication Schemes with Extended Visual Cryptography
+75
+Sujata Rani
+2021
+Dr. Parteek Bhatia
+Sentiment Analysis of Social Media for Hindi Language
+76
+Vivek Mehta
+2021
+Dr. Seema Bawa, Dr. Jasmeet Singh
+Efficient Text Clustering Techniques for Big Datasets
+77
+Vivek Dabra
+2022
+Dr. Anju Bala, Dr. Saru Kumari
+An Efficient Cryptographic Technique using Post-Quantum Cryptography
+78
+Varinder Pal Singh
+2022
+Dr. Parteek Bhatia
+Word Sense Disambiguation for Punjabi Language
+79
+Balkar Singh
+2022
+Dr. Mahesh Sharma
+Development of Efficient Watermarking Techniques for Document Images
+80
+Anika
+2022
+Dr. Parteek Bhatia, Dr. Deepak Garg
+Adaptive Learning System with Educational Data Mining and Learning Analytics
+81
+Prabhjot Kaur
+2022
+Dr. Shreelekha Pandey
+A Framework for Efficient Detection of Brain Tumor
+82
+Diksha Hooda
+2022
+Dr. Rinkle Rani
+An Ontology-based Framework for Querying Heterogeneous Sensor Data
+83
+Shaify Kansal
+2022
+Dr. Jhilik Bhattacharya, Dr. Vishal Srivastava
+Development of an Algorithm(s) for Human Tissues Characterization
+84
+Vijay Prakash
+2022
+Dr. Seema Bawa
+QoS-aware Resource Utilization and Allocation in Cloud Computing
+85
+Swati
+2022
+Dr. Raman Singh, Dr. Maninder Singh, Dr. Hitesh Tiwari
+Post-Quantum Cryptography based Improved Security Mechanism for Resource-Constrained IoT Devices
+86
+Sanju Kumari
+2022
+Dr. Neeraj Kumar, Dr. Prashant Singh Rana
+Big Data Analytics for Demand Response in Smart Grid
+87
+Ashwani Kumar
+2022
+Dr. Ashutosh Aggarwal, Dr. Ravinder Kumar
+Energy Efficient Framework to Find Optimized Route for EVs Movement
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

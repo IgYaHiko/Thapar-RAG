@@ -1,0 +1,1591 @@
+SOURCE: https://eced.thapar.edu/research
+TITLE: Department of Electronics and Communication Engineering - Major Research Area
+------------------------------------------------------------
+
+Research-Intensive Training
+Delivering excellence via varied research avenues, trained faculty and innovation
+Major Research Areas
+VLSI System and Circuit Design-Synthesis
+Wireless Communication and 5-G
+Antenna Engineering and MEMS
+Signal Processing and Image Processing
+IOT and Embedded System
+Machine Learning and Artificial Intelligence
+Fibre-Optic Communication
+Computing Technologies
+Research Projects
+Details of research projects (last 5-years)
+Name of of the PI/ Co-PI/Name of the person holding the Chair
+Title of the research project, endowments, Research Chairs
+Name of the funding agency
+Duration
+(in years)
+Year of award or sanction
+amount sanctioned (in Lacs)
+Dr. Surbhi sharma , Dr. Rajesh khanna
+Cyber Physical System Lab
+I Hub AWADH
+5
+2024
+30
+Dr. Rajesh Khanna, Dr. Surbhi Sharma, Dr. Hemdutt Joshi, Dr. Amit Mishra, Dr. Ashutosh Kumar Singh Dr. Jaswinder Kaur
+5G LAN
+Ministry of Communication
+5
+2024
+70
+Dr. Amanpreet Kaur-I (PI)/Dr. Arnab Pattanayak, Dr. Diptiman Choudhury (Co-PIs)
+Design and development of microwave based imaging and hyperthermia system for diagnosis and treatment of skin cancer resp, and testing the prototype in 2D and 3D
+ICMR
+3
+2023
+59.44
+Debabrata Ghosh
+Development of an ultrasound-based medical imaging methodology with adaptive image processing algorithms for noninvasive early diagnosis of cancer: an in vitro study
+MoE
+2
+2023
+34
+Dr. Hari Shankar Singh
+Health Care System
+SERB
+3
+2023
+52
+Dr. Ravi Kumar
+An Autonomous Drone Swarm Framework for Real Time Air Quality Monitoring and Pollutant Quantification in NCR hotspots"
+CAQM
+2
+2023
+34.28
+Dr. Jaswinder Kaur (PI), Dr Rajesh Khanna (Co-PI), Dr, Surbhi Sharma (Co-PI) & Dr. Karun Verma (Co-PI)
+NFC-RFID sensor based smart bandage for real-time monitoring of wound health
+TIET-VT (CEEMS)
+2
+2023
+9
+Dr. Geetika Dua
+Automatic defect detection and estimation of sub-surface defect parameters using thermal wave imaging for characterization of fibre reinforced polymer materials (6.7 Lacs)
+TIET
+2
+2022
+6.7
+Dr. Gaganpreet Kaur
+Design and FPGA implementation of interconnected PUFs for Device level authentication /communication in IoT Networks
+TIET
+2
+2022
+5.4
+Dr. Amanpreet Kaur-1
+Design and Development of a Machine Learning Based Wearable Metasurface Device for Personal Health monitoring
+TIET-CEEMS
+3
+2022
+11.5
+Dr. Jaswinder Kaur (PI) & Dr Rajesh Khanna (Co-PI)
+Food Quality Monitoring Using Novel Graphene Based Microstrip Antenna Sensor
+TIET-VT (CEEMS)
+2
+2022
+7.4
+Dr. Subiman Chatterjee
+An adaptive and efficient transform architecture design for future video CODECs by exploiting the trade off between accuracy and hardware complexity
+TIET
+2
+2022
+6.7
+Dr. Debayani Ghosh
+Semantics - Aware design of intelligent transportation systems and safety guarantees
+TIET
+2
+2022
+5.2
+Dr. Arun Kumar
+Compact modelling and quantum transport simulation of negative capacitance nanoshield field effect transistors (NC-NSFETs) for next generation circuit applications
+TIET
+2
+2022
+3.9
+Dr. Robin Singla
+Modify properties of two dimensional nano materials via functionalization and doping
+TIET
+2
+2022
+6.5
+Rana Pratap Yadav
+Design and Development of Anti-UAV(Unmanned Aerial Vehicle) system
+SERB
+1
+2021
+48
+Rajesh Khanna & Mayank Rai
+Development of Focused Compact Microwave Hyperthermia Applicator for Small Cancerous Tumors
+MEITY
+3
+2021
+88.76
+Dr. Jaswinder Kaur (PI) & Dr Rajesh Khanna (Co-PI)
+Food quality monitoring using novel low-cost antenna based sensor
+TIET-VT(CEEMS)
+1
+2021
+1
+Dr. Jaswinder Kaur (PI) & Dr Rajesh Khanna (Co-PI)
+Miniaturized Bio-Implantable MICS and ISM Band Antennas for Biomedical Devices
+TIET-VT(CEEMS)
+1
+2021
+15.1
+Dr. Neeru Jindal (Co-PI) & Team
+Development of an Intelligent blood Extraction Device
+ICMR
+3
+2021
+19.76
+Dr. Karmjit Singh Sandha (PI)/ Dr. Amit Dhir (Co- PI)
+IoT based Systems
+MeitY
+3
+2021
+4
+Dr. Ashima Singh (PI) (CSED)/ Dr. Harpreet Vohra (Co-PI)
+INVESTOR Sahayak: Language Independent Filling, Tracking, and Identification of Prospective Investors using Machine Learning for New Investors in Punjab
+DIC, Ludhiana
+5
+2021
+3
+Dr. Rajesh Khanna (PI)/ Dr. Hari Shankar/ Dr. Mayank Agarwal/Prof. Rakesh Sharda(PAU) (Co-PI)
+Minimization of agricultural waste and maintenance of product quality
+TIET-TAU Center of Excellence for Food security-T2CEFS
+1
+2021
+8
+Dr. Hari Shankar Singh and Dr. Mayank Agarwal
+Development of Integrated Smart RF Device Using Metamaterial for IoT Applications
+DST NIDHI PRAYAS
+1
+2020
+10
+Dr. Amit Mishra/Dr. Karun Verma
+Digital Village: A Data-driven Approach to Precision Agriculture in Small Farms Project.
+TIET-TAU Center of Excellence for Food security-T2CEFS
+1
+2020
+26.57
+Dr. Poonam Verma
+Developing a IEEE802.11P Channel Access Coordination Scheme for V2V Safety Message Broadcast in Vehicular Network
+TIET (Seed Money)
+2
+2020
+2.5
+Dr. Rajesh Khanna/Dr. Amanpreet Kaur-I/Dr. Hari Shankar/Dr. Mayank Agarwal
+Design and Development of Graphene-based (Lens/Double Spiral) Antenna for RF Hyperthermia Treatment
+VT-TIET/ CEEMS
+1
+2020
+15
+Dr. Gitanjali Chandwani
+Hierarchical software defined network for internet of things based health care system
+TIET
+2
+2020
+3.15
+Dr. Mayank Agarwal
+Design and development of reconfigurable MIMO antenna array with high port isolation
+TIET
+2
+2020
+6
+Dr. Karmjit Singh Sandha (PI)/ Dr. Mandeep Singh,
+Dr. Mooninder Singh (Co-PIs)
+Development of low-cost and highly conductive carbon Nanotube/graphene sensors based Physiological Recording system
+TIET-TAU
+Center of Excellence for Food Security- T2CEFS
+3
+2020
+11.1
+Dr. Rana Pratap Yadav
+Design and Development of Graphene-based microwave devices for stealth applications
+VT-TIET/ CEEMS
+3
+2020
+30.2
+Dr. Rana Pratap Yadav
+ThapSAT
+TIET, Patiala (Thapar Student Satellite Project (ThapSat))
+2019
+350
+Hadas Mammane (PI, Israel) and Prof. Amit Dhir (PI, India)/ Dr. Karamjeet Sandha ,Ofir Menashe, Dror Avisar, Prof Adi Avni, Shammi Kapoor, Sandeep Sharma, Sanjay Satpute, Urmila Phutela
+Enhanced treatment of wastewater using a synergy of microalgae and microorganisms without energy investment and biofuel production
+TIET-TAU
+Center of Excellence for Food Security- T2CEFS
+5
+2020
+21.5
+PI- Aarti Bansal (PhD Student), Guide: Dr Rajesh Khanna, Dr Surbhi
+Investigations on passive RFID tag antenna for UHF band applications
+DST
+3
+2019
+22.95
+Mayank Kumar Rai
+Development and realization of accurate temperature dependent equivalent circuit models for multilayer Graphene nano ribbon based VLSI interconnects at deep submicron technology nodes.
+CSIR
+3
+2019
+29.46
+Rana Pratap Yadav
+Design and development of load resilient mock-up ICRH system of tokamark with variable load
+DAE-BRNS
+3
+2019
+34.35
+Alpana Agarwal
+Research Start-Up Grant
+DeitY
+3
+2019
+65.42
+Rajesh Khanna & V. P. Singh
+Study of Antenna parameters.
+DRDO-CARS
+2
+2019
+32.98
+Rana Pratap Yadav
+Design and development of the Reconfigurable plasma Antenna.
+DST-SERB
+3
+2019
+25.47
+Sanjay Kumar
+Low-complexity power efficient reconfigurable implementation of fractional order filters for weak ECG Nonstationary biomedical signal processing applications
+DST-SERB
+3
+2019
+53.95
+HEAD ECED/Rajesh Khanna
+UGC-BSR to improve basic scientific research in University.
+UGC
+2
+2019
+20.00
+R.S. Kaler
+Development of photonic crystal biosensor of detection of foodborne pathogens.
+DST
+3
+2019
+30.89
+NATIONAL AND INTERNATIONAL RESEARCH COLLABORATIONS
+•Tel Aviv University, Israel
+• University of Toledo, USA
+• Virginia Tech, USA
+• Leeds University, UK
+• UMC / Austria Microsystems through Europractice
+• Indian Institute of Technology (IIT), Kharagpur
+• Indian Institute of Technology (IIT), Roorkee
+• Indian Institute of Technology (IIT), Jodhpur
+• Institute Plasma Research (IPR-DAE)
+• CSIR-CEERI Pilani, CSIR-CSIO Chandigarh, CSIR-NPL New Delhi
+• NIT Kurukshetra, IIITM Gwalior, Delhi University
+JOINT RESEARCH ACTIVITIES
+TIET-VT Center of excellence in Emerging Materials with Virginia Tech, USA
+TIET-TAU Center of Excellence for Food Security with Tel Aviv University, Israel
+Thapar Student Satellite Project (ThapSat) with industry partner Data Pattern
+Research Facilities
+WORLD-CLASS RESEARCH LAB FACILITIES
+Antenna Research Laboratory
+Biomedical Imaging and Artificial Intelligence research Laboratory
+Drone & Intelligent Sensors Laboratory
+MEMS Research Laboratory
+Optical Fibre Communication Research Laboratory
+Smart Autonomous Electric Veichle Laboratory
+SMDP C2SD Research Laboratory
+Thapsat Research Laboratory
+List of Major Equipment (Department of ECE)
+Lab-1: Capstone Project
+Lab
+S.
+No
+Name of
+Equipment
+1
+Dell Workstations OptiPlex 7450 Processor: Intel i7 7700 RAM 8 GB
+OS windows 10 64 bit
+Software:
+Eagle Design
+XCTU
+Arduino
+IDE
+2
+Siglent
+DSO
+3
+Siron Soldering
+Stations
+4
+Unity Digital
+multimeter
+Lab-2: Communication
+Lab
+S.
+No
+Name of
+Equipment
+1
+ST
+2801
+(PAM, PPM,
+PWM)
+2
+ST
+2802
+(PCM,
+DPCM,CVSD
+Modulation
+3
+ST
+2803
+(Delta, Adaptive Delta, Sigma Delta
+4
+ST 2804
+(4- Channel TDM-PCM Transmitter & Receiver)
+5
+Multimeter 8x (Analog)
+6
+LCRQ meter auto compute
+7
+DD satellite
+8
+ST 2203
+Frequency Modulation & Demodulation
+9
+ST 2201,2202
+Amplitude Modulation & Demodulation
+10
+ST 2110
+Pulse Modulation & Demodulation
+11
+ST 2106,2107
+Frequency Shift Keying Modulation/Demodulation
+12
+Pulse Code Modulation Trainer Kit
+13
+Pulse Code Demodulation Trainer Kit
+14
+Delta modulation & Demodulation
+15
+Time division Multiplexing & Demultiplexing
+16
+Phase shift Loop Demodulation
+17
+Frequency Modulation & Demodulation
+18
+Amplitude Modulator & Demodulator
+19
+PAM, PPM, PWM
+Modulation & Demodulation
+20
+Pulse Code Modulation & Demodulation
+21
+Delta modulation & Demodulation
+22
+Time division Multiplexing & Demodulation
+23
+Data Condition & Recording
+24
+2 MHz function generator
+25
+Module T10L/EV
+26
+Module T20A/EV
+27
+Module T20B/EV
+28
+Module T20C/EV
+29
+Module T20D/EV
+30
+Module T20E/EV
+31
+Module T20F/EV
+32
+Module MCM3/EV
+33
+Module T10A/EV
+34
+Module T10B/EV
+35
+Module T10C/EV
+36
+Module T10D/EV
+37
+Module MCM/40EV
+38
+Digital Multimeter (Philips2525)
+39
+CTV Samsung
+40
+5 Channel Oscilloscope
+(COS 6150)
+41
+1MHz Function Generator
+42
+ST 2805
+(Digital Computing A. Law and U Law)
+43
+ST 2807 (ASK,FSK,BPSK,DBPSK
+Modulation &Demodulation)
+44
+ST 2808 (QPSK,UQPSK,DQPSK
+Modulation Demodulation)
+45
+ST 40615
+(10 MHz Function Generator)
+46
+NV 207C17
+(70MHz Bandwidth 2 Channel DSO
+Lab-3: DSP
+Lab
+S.
+No
+Name of
+Equipment
+1
+Desktop Dell OptiPlex 7440 All- in-One
+2
+Workstation
+3
+UP 6000 university programs for T16000 DSP
+LAB
+4
+Video image kit
+(SMT8039)
+5
+Projection Screen& Plus- DLP Projection system
+Lab-4: Digital Electronics
+Lab
+S.
+No
+Name of
+Equipment
+1
+Analog and
+Digital
+Trainer
+kits
+2
+Digital
+Multimeter
+(Scientech
+3
+Mixed Signal
+Oscilloscope (Scientech
+TechnologiesPvt.
+Ltd.)
+4
+Digital
+Storage
+Oscilloscope
+5
+PC based logic
+analyzer
+(Scientech)
+6
+Power
+supply
+7
+Power supply PS-
+V
+8
+Power supply (FPS-
+844)
+9
+Universal IC tester
+(Scientech
+Technologies Pvt.
+Ltd.)
+10
+Function
+generator
+11
+Pulse
+generator
+12
+Computers
+(DELL)
+Lab-5: Electronics
+Lab
+S.
+No
+Name of
+Equipment
+1
+Function Generator 60 MHz Arbitrary
+2
+1MHz -
+10MHz
+Synthesized Function
+Pulse
+- Modulation Generator with 40 MHz
+Frequency
+3
+Power Supply 0-
+30
+(Scientech)
+4
+Digital
+Multimeter
+(Scientech)
+5
+RC Phase Shift
+Oscillator
+(using
+trainer)
+6
+Astable
+Multivibrator
+(trainer
+based)
+7
+MonostableMultivibrator
+(trainer
+based)
+8
+Bistable
+Multivibrator
+9
+Hartley & Colpitts
+Circuits
+10
+Schmitt Trigger
+(trainer
+based)
+11
+Pushpull amplifier (trainer
+based)
+12
+Amplifier (trainer
+based)
+13
+Wein Bridge
+Oscillator
+(trainer
+based)
+14
+Zener diode
+trainer
+15
+Series voltage regulator
+&
+filter
+16
+RC coupled amplifier 2
+stage
+17
+SCR
+(Rectifier)
+18
+Circuit’s series
+feedback amplifier
+19
+Tuned Voltage amplifier
+20
+MOSFET Kit
+21
+UJT
+22
+CROS Dual channels 30
+MHz & 60 MHz, 4CH
+23
+Power Supply Multi Output (0-30V/1A) 0 - 5V/2A± 3 to 15V/2A
+24
+Function Generator 2MHz
+25
+Power Output Meter
+26
+Vacuum Coating Unit
+27
+FET kit
+28
+Clipper and Clamper
+Lab-6: Fiber Optical Communication
+Lab
+S.
+No
+Name of
+Equipment
+1
+TDS2002B Digital
+Storage
+Oscilloscope
+2
+MTS-
+8000
+Spectrum
+Analyzer
+3
+ED-
+WDM
+Kit
+with
+accessories
+4
+Physics of fiber Optic
+Kit
+with
+accessories
+5
+PDA200C Photodiode Amp &MBT612D Single Mode fiber Launch
+6
+ALT-1315B Mini
+OTDR
+7
+AvaSpec-ULS2048L
+Versatile
+Fiber
+optic
+spectrometer
+8
+COMSOL
+software
+9
+Physics of fiber optic kit with optical breadboard
+&
+10
+Advance Optical Fibre
+System
+OFT (6
+sets)
+OFS IV (1
+set)
+3.
+OFS WDM -CD
+(1sets)
+4.
+BCK & BSK (2
+sets)
+11
+DELL precision tower 3620 DELL OptiPlex 5250 AIO
+Processor:
+Intel
+®
+Core™ i5-7500 CPU @ 3.4GHz,
+RAM - 8 GB,
+Display – 21.5” HDD - 1 TB
+12
+VPI transmission software, ARTIFEX 4.4 Software, SD 6 Position filter Wheel Including other filters
+Lab-7: FPGA
+Lab
+S.
+No
+Name of
+Equipment
+1
+Desktop Dell OptiPlex 7440 All- in-One
+2
+Cannon Full HD
+Camera
+3
+Kintex-7 (KC-
+705)
+4
+Kintex-7 FPGA DSP
+Hardware
+with high-speed
+Analog
+5
+Testbed for Cognitive
+Radio
+set
+6
+Digital Storage Oscilloscope (Siglent – SDS 1052DL)
+Lab-8: Linear Integrated Circuits & Applications Lab (LICA)
+Lab
+S.
+No
+Name of
+Equipment
+1
+Programmable Power
+Supply
+Make:
+Rigol
+Model No: Rigol
+DP831
+2
+Digital Storage
+Oscilloscope
+Make: Tektronix
+Model
+No:
+TBS1102B-
+EDU
+3
+Function generator Make: Tektronix Model No: AFG 1022
+4
+Digital Storage
+Oscilloscope Make:Siglent
+Model No:
+SDS1052DL
+Lab-9: Manufacturing Techniques
+Lab
+S.
+No
+Name of
+Equipment
+1
+Parameter Analyzer Keithley
+4200A-SCS
+2
+Sputtering cum Thermal coating system unit with
+accessories
+Make:
+TAS
+Model No: TAS2020-
+21
+3
+Argon gas
+Cylinder
+4
+Ultrasonicator
+Lab-10: Microcontroller and Embedded
+System
+S.
+No
+Name of
+Equipment
+1
+ARM Microcontroller Based Embedded System Kit
+Model: 1035_VRO4 (Advance Tech.)
+2
+Dell Optiplex 7450 All in one PC
+Dell intel core i7, 8GB, 1TB, ODD, WiFi, BT,
+KB, Mouse, OS,
+”23.8”,
+3Y
+3
+Red Pitaya Enclosure
+800-7403(E113765) V1.1(N13019)
+4
+Raspberry Pi
+B+
+MODEL B+ 8.11-
+1284
+5
+8051 Student
+Practice
+Board (NANO 51) Advanced Technology Advance Technology
+Chd.
+6
+8085 Microprocessor Kitwith (Modules) Electro system
+Association Pvt. LTD. Bangalore, India
+Lab-11: Microwave and Antenna
+Lab
+S.
+No
+Name of
+Equipment
+1.
+Standard Diode sensor 10 MHz to18GHz Model MA
+2472D
+2.
+Dual ridge horn
+DRH20,Dipole Antenna
+3.
+Power Supply amplifier for VNA Model 83006A
+4.
+Antenna Fabrication
+(EP2006H)
+5.
+Data
+Projector
+6.
+Anritsu power meter (SciTech Pvt. Ltd)
+7.
+2GHz-10GHz signal
+Gen.
+8.
+RF Power meter 10MHz-
+26.5GHz
+9.
+Anechoic chamber
+supply
+10.
+9KHz to 8.5GHz
+ENAN/W
+Analyzer
+11.
+Motorized Antenna
+Trainer
+12.
+Spectrum Analyzer 150KHz to 500MHz
+13.
+Digital
+Multimeter
+14.
+CRO
+20MHz
+15.
+BNC
+cables
+16.
+Pin
+Modulator
+17.
+Isolator
+18.
+Three Port Ferrite
+circulars
+19.
+Slotted
+Line
+20.
+Tunable Probe
+21.
+VariableAttenuator
+22.
+Fixed Attenuator 3dB, 6dB, 10dB
+23.
+Frequency Meter (Micrometer)
+24.
+Sliding Termination
+25.
+Moveable Short
+26.
+Matched Termination
+27.
+Directional coupler
+28.
+Magic Tee
+29.
+E Plane Tee
+30.
+H Plane Tee
+31.
+SS tuner
+32.
+EH Tuner
+33.
+Detector Mount
+34.
+Gunn Power supply
+35.
+Waveguide Stand sets
+36.
+VSWR Meter
+37.
+NM2NM cables
+38.
+M/C Patch Antenna
+39.
+Waveguide filter (13section)
+40.
+Crystal Diode INC.23c
+41.
+Klystron Tube
+42.
+Klystron Mount.
+43.
+Frequency Meter Direct
+44.
+Precision Sliding Termination
+45.
+Klystron Power
+supply
+46.
+Liquid Dielectric
+cell
+47.
+Solid Dielectric
+cell
+48.
+Waveguide switch X-
+Band
+49.
+Waveguide switch K-
+Band
+50.
+Spectrum
+Analyzer
+51.
+Microwave
+components
+52.
+Network
+Analyzer
+53.
+Antenna System
+Trainer
+54.
+Microwave
+Trainer
+55.
+Microwave
+Components
+56.
+Basic Trainer Microwave Technology (Radar)
+57.
+Phase Shifter
+Micrometer
+58.
+Detector Mount (X-
+Band)
+59.
+Antenna Demonstration set
+50(512)
+60.
+Microwave
+Bench
+61.
+Dielectric Cell
+(Liquid/Solid)
+62.
+Multimeter
+(Phillips)
+63.
+Cooling
+Fan
+64.
+Slide Screw Tuner
+with
+Micrometer
+65.
+SlideTerminatortypex328
+66.
+Direct Reading Frequency
+Meter
+67.
+X Band Tunable Cryst. Detector Type x318
+68.
+Gunn/Klystron Power
+Supply
+69.
+Gunn Oscillator type x 480B
+70.
+PIN Modulator type x 480c
+71.
+Variable Attenuator type x321
+72.
+Circulator/ Isolatortypex-727
+73.
+Directional Coupler 3DY type 510
+74.
+Directional Coupler 10DV type 512
+75.
+Directional Coupler 20DB type514
+76.
+H-PlaneTee
+77.
+EH Plane Tee
+78.
+MagicTee
+79.
+Microwave Compact Kit (Klystron)
+80.
+Waveguide Stand type x890
+81.
+Horn Antenna typex320, E- Plane
+82.
+EH Plane Tee
+Lab-12: Project
+Lab
+S.
+No
+Name of
+Equipment
+1
+Dell Workstations OptiPlex 7010
+·
+Processor:
+Intel
+®
+Core™ i5-3470 CPU @ 3.20GHz.
+RAM: 8
+GB
+Monitor:
+18”
+HDD: 500
+GB
+2
+Siglent
+DSO
+3
+ARD (Arduino based
+Robocar)
+4
+ARM
+(ARM
+Based Robocar)
+Lab-13: SMDP VLSI Design
+Lab
+S.
+No
+Name of
+Equipment
+1
+HP Workstation 2015 and Z420
+Processor: Intel
+Xeon
+RAM - 8
+GB
+Monitor–
+21.5”
+HDD - 1 TB Software
+Installed
+Centos
+Xilinx
+·
+Mentor Graphics Tools
+·
+Synposys Tools
+Cadence Tools
+Cogenda
+MATLAB
+2
+Dell OptiPlex AIO 7450, 2018
+3
+Software Installed: Centos, Xilinx, Mentor Graphics
+Tools: Synopsys, Mentor Graphics, Cogenda, Cadence Tool, Matlab
+4
+Data Projector
+5
+Parametric Analyser
+6
+Spartan 6 FPGA SP605
+Evaluation Kit
+7
+Atlys Spartan 6 Series
+Board (Digilent Make)
+Lab-14: Wireless and Mobile Communication (WMC)
+Lab
+S.
+No
+Name of
+Equipment
+1
+GSM Trainer Kit (Scientech
+ST2133)
+2
+GSM Trainer with Application Module, NV2133
+3
+CDMA DASS TRAINER MODEL
+ST2131
+4
+Spectrum Analyser Maker – AGILENT Model No: -E4411B
+5
+Dell
+Desktop
+6
+Lenovo
+Desktop
+Lab-15: Advanced Wireless Communication
+Lab
+S.
+No
+Name of
+Equipment
+1
+GSM BTS
+1
+2
+CDMA BTS
+1
+3
+Wireless Digital Radio-
+SDR
+4
+Dell
+Desktop
+Lab-16: Antenna Research
+Lab
+S.
+No
+Name of
+Equipment
+1
+VNA
+2
+RF
+Generator
+3
+RF Power
+meter
+4
+VSG
+5
+Antenna Pattern
+Measurement
+Lab-17 Experiential Learning Centre
+Lab
+S.
+No
+Name of
+Equipment
+1
+Weller Soldering
+Station
+WSD
+71
+2
+Fluke Digital
+Multimeter
+15B+
+3
+Rheostat
+50-ohm 1.5
+Amp
+4
+Rheostat
+10-ohm 5
+Amp
+5
+Rheostat
+200-ohm 3
+Amp
+6
+Stanley Heat
+gun
+STXH2000
+7
+Rohde &
+Schwarz
+Spectrum Analyzer with Isotropic Antenna
+8
+Keysight Precision
+LCR
+Meter
+9
+Keysight Hand held
+LCR
+Meter
+10
+Keysight
+DSO
+EDUX
+1002A
+11
+Canon
+Printer
+6030w
+12
+INDUS PCB
+Prototyping
+Machine
+3030
+13
+PCB Drilling
+Machine
+14
+UV Exposure
+Machine
+15
+PCB Etching
+Machine
+16
+PCB Curing Oven
+17
+Photoresist DIP Coating
+Machine
+18
+Film Making Unit
+Lab-18: MEMS Research
+Lab
+S.
+No
+Name of
+Equipment
+1
+Spin
+Coater
+2.
+UV
+Exposure
+3.
+Hot
+Plate
+4.
+Di Water
+Plant
+5.
+Printer
+6.
+Desktop Dell OptiPlex 7440 All- in-One
+Lab-19: Optical Fiber Communication Research Lab
+Name of Lab
+:
+S.
+No
+Name of
+Equipment
+1
+Artifex 4.4
+software
+2
+VPI
+Transmission
+Software
+3
+SD 6 position
+Filter
+Wheel Including Other
+Filter
+4
+COMSOL
+Software
+5
+DELL precision tower 3620 with 21.5” LED
+display
+6.
+DELL OptiPlex 5250 AIO Intel core
+i5,8GB,21.5”
+Display
+Lab-20: SMDP-Chip to Systems Design
+Lab
+S.
+No
+Name of
+Equipment
+1
+HP Z440 workstations + Z24i monitors + K2200 Graphics
+cards
+2
+DELL All-in-one
+Workstation
+3
+BASYS3
+Boards
+4
+ZYBO boards +
+Accessories
+5
+Dual Output Power
+Supply
+(APLAB)
+Softwares
+S.
+No
+Name of
+Equipment
+1
+Mentor
+Graphics
+EDA Tool
+2
+Cadence University
+Tool
+3
+Synopsis
+Asia
+PacSocTools
+4
+Xilinx
+Vivado
+System
+Design
+Set
+5
+Red Hat
+Enterprises
+Linux
+Systems
+6
+XilinxSDSoC
+Development
+Set
+Lab-21: ThapSat Research
+Lab
+S.
+No
+Name of
+Equipment
+Photodetector
+Bandpass
+filter
+Power
+Supply
+1.
+Slotted
+lens
+Mirror
+mount
+Al Bench
+Board
+IR
+Emitter
+2.
+Adlam Pluto Antenna (Ant the monsmat)
+3.
+Laser
+Printer
+4.
+LED
+Projector
+5.
+3D
+printer
+6.
+IR
+Detector
+·
+InGaAs Fixed
+Gain
+Ampl.
+Detector
+·
+Achromatic Doublet6 Hole Filter Wheel withBase Assembly
+·
+IR band pass filter
+(FB3500-500)
+·
+IR band pass filter
+(FB4250-500)
+IR band Pass Filter
+(FB3750-500)
+7.
+8.
+Workstation
+13
+Computer
+(Lenovo
+M720+Monitor)
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

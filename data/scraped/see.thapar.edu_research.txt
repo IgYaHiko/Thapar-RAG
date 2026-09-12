@@ -1,0 +1,761 @@
+SOURCE: https://see.thapar.edu/research
+TITLE: School of Energy and Environment - Major Research Area
+------------------------------------------------------------
+
+Research-Intensive Training
+Delivering excellence via varied research avenues, trained faculty and innovation
+Areas of Expertise
+Name
+Qualification
+Designation
+Specialization
+Email ID
+Anoop Kumar
+Ph.D.
+Professor & Head
+Wastewater Treatment, Sustainability and Solid Waste Management
+anoop.kumar@thapar.edu
+Amit Dhir
+Ph.D.
+Professor
+Bioenergy; AOP; Air Quality
+amit.dhir@thapar.edu
+N.Tejo Prakash
+Ph.D.
+Professor
+Metal Biotransformations
+hsee@thapar.edu
+K.S.Babu
+M.Tech
+Assistant Professor
+Environmental Engineering
+ksbabu@thapar.edu
+Dr. Shilpi Verma
+Ph.D
+Assistant Professor
+Advanced Oxidation Processes, Wastewater Treatment
+shilpi.verma@thapar.edu
+Dr. Gaurav Goel
+Ph.D
+Assistant Professor
+Environmental Engg.; Waste Management
+goel.gaurav@thapar.edu
+Dr. Ashutosh Kumar
+Ph.D
+Assistant Professor
+Advanced Oxidation Processes, Waste Management, Air Quality Dispersion Modelling
+ashu.kumar@thapar.edu
+Dr. Dhamodharan. K
+Ph.D
+Assistant Professor
+Solid and Hazardous Waste Management, Bioenergy, Waste to Energy, Resource Recovery
+dhamodharan@thapar.edu
+Dr. Nishu Joshi
+Ph.D
+Assistant Professor
+Environment Biotechnology, Nano-formulation, Nutraceuticals, Nano-conjugation
+nishu.joshi@thapar.edu
+Research Projects
+Name of the Investigator
+Title of the project and duration
+Amount sanctioned (lac)
+Funding Agency
+Anoop Verma & Dhamodharan. K
+Sustainable Approach to Utilize Sewage Treatment Plant Sludge for Paver Blocks/ Tiles Production
+8.00
+Khilari Infrastructure Pvt. Ltd.
+Shilpi Verma
+Development of upconversion photocatalytic materials for efficient degradation of poly- and per-fluoroalkyl substances (PFAS) from water using solar activation
+33.00
+Indo-German Science and Technology Centre: Women Involvement in Science and Engineering Research
+Amit Dhir
+An Autonomous Drone Swarm Framework for Real Time Air Quality Monitoring and Pollutant Quantification in NCR hotspots
+34. 5
+Commission for Air Quality Management, New Delhi (CAQM)
+Anoop Verma
+Pilot-scale studies for the removal of color from the tertiary treated trade effluent using Advanced Oxidation Processes (AOPs)
+10.5
+Trident, Barnala
+Anoop Verma & Dhamodharan. K
+Utilization of secondary sludge of leather industry for bricks/ paver blocks formation
+6.0
+Leather Industry Complex, Jalandhar
+Anoop Verma
+Applications of novel composites for the removal of color from tertiary treated effluent.
+5.00
+Shreyans, Ahmedgarh
+N.Tejo Prakash
+Production of Microbial Exopolymeric Substance (EPS) Stabilized Biogenic S
+elenium Nanoparticles (BioSeNPs) and their (EPS-SeNPs) application as Bioactive Matrices
+14.8
+DST-JSPS
+Amit Dhir
+Reforming of Biogas for Hydrogen Production and its Utilization in CI engine under dual fuel mode
+39.8
+MNRE
+A.Rajor
+Utilization of cement kiln dust in concrete after removal of alkalinity and metal toxicity with microbes
+27.0
+DST
+Amit Dhir
+Applications of ionizing radiation in AOP based degradation of persistent pollutants from aqueous streams
+24.83
+DAE
+N.Tejo Prakash
+Neuroprotective properties of selenoergothioneine sourced from selenium-rich mushrooms against oxidative stress and nitrosative damage in neuronal cells
+23.7
+DBT
+N.Tejo Prakash
+Biofortification  of selenium  in Edible Mushrooms  from se-rich crop Residues"
+24.3
+DBT
+N.Tejo Prakash
+Neuroprotective properties of selenoergothioneine sourced from selenium-rich mushrooms against oxidative stress and nitrosative damage in cells
+18.9
+DBT
+N.Tejo Prakash
+Studies on anti-inflammatory responses as function of bioavailable selenium from selenium-rich cereal grains
+18.0
+CSIR
+N.Tejo Prakash
+Biofortification of selenium from edible mushrooms for Se-rich crop residues
+19.9
+DBT
+A.Rajor
+Influence of bacteria on compressive strength and permeability of fly ash concrete
+7.6
+UGC
+N.Tejo Prakash
+Molecular aspects of selenium tolerance by aerobic baiteria and development of bioreactor for selenate/selenit  bioremediation
+4.02
+JSPS
+Anoop Verma
+Sonophotocatalytic treatment of pesticides over TiO
+2
+photocatalyst using immersion well reactor
+4.0
+DRDO
+K.S.Babu
+National Env. Awareness campaign,2012-13
+0.15
+PSCST
+Bilateral/International Projects
+S.No
+Project Title
+Research Group
+Funding Agency
+PI
+1.
+Studies on in vitro anti-inflammatory activity of dietary sources of Selenium
+Dr. S. Prabhu, Pennsylvania State University, USA
+Indo-US
+Dr. N.Tejo Prakash
+2.
+Molecular mechanism of selenium reduction by microorganisms and its application to development of selenium recovery systems
+Dr. H. Mihara, Ritsumeikan University, Japan
+Indo-Japan
+Dr. N.Tejo Prakash
+3.
+Integrated photocatalytic and biological processes for the degradation of pharmaceuticals
+Dr. A.K.Ray, University of Western Ontario, Canada
+Indo-Canada Joint Research Exchange
+Dr. Amit Dhir
+4.
+Pesticide degradation using photocatalytic approach.
+Ms. Darshini Nadira,Asst. Director, Sri Lanka
+INSA-CICS Exchange Program
+Dr. Anoop Kumar
+5.
+Selenium quantification and localization in Se rich cereal grains
+Dr. Anatoly Skalny, Yaroslav Univ., Russia
+Indo-Russian
+Dr. N.Tejo Prakash
+6.
+Production of biodiesel from algae collected from wastewater treatment ponds
+Dr. Banu Ormeci, Carleton University, Ottawa, Canada
+Indo-Canada Joint Research Exchange
+Dr. Amit Dhir
+7.
+Water disinfection studies using hybrid process of  photocatalysis and photo fenton in fix mode
+Dr. Banu Ormeci, Carleton University, Ottawa, Canada
+Indo-Canada Joint Research Exchange
+Dr. Anoop Verma
+8.
+Synergy of algae and encapsulated bacteria for the treatment of domestic wastewater in rural ponds
+Dr. Hadas Mamane Steindel
+Professor, Env. Engg.
+Tel Aviv University, Israel
+TIET-TAU Food Security Centre
+Dr. Amit Dhir
+9.
+Production of Microbial Exopolymeric Substance (EPS) Stabilized Biogenic Selenium Nanoparticles (BioSeNPs) and their (EPS-SeNPs) application as Bioactive Matrices
+Dr. Hisaaki Mihara
+, Department of Biotechnology, Ritsumeikan University,
+Japan
+DST-JSPS
+Dr. N. Tejo Prakash
+Consultancy Projects
+Name of the consultant
+Name of consultancy project
+Consulting Sponsoring agency with contact details
+Year
+Anoop Verma
+Environment Audit of the industry (Air, Water and Solid)
+M/s Punjab chemicals and crops protection Limited, Dera Bassi, Mohali.
+2023
+Anoop Verma
+Detailed Environment Audit w.r.t to Air, Water and Solid, ETP Adequacy
+ALM Food Products, Dera Bassi, Mohali.
+2023
+Anoop Verma & Dhamodharan. K
+Audit of Ash Handling
+M/S Nahar Industrial Enetrprise Ltd., Lalru
+2023
+Anoop Verma
+Detailed Environment Audit w.r.t to Air, Water and Solid, ETP Adequacy
+M/s Punjab chemicals and crops protection Limited, Lalru, Mohali
+2022
+Anoop Verma
+Air Audit
+M/s Punjab chemicals and crops protection Limited, Lalru, Mohali.
+2022
+Anoop Verma
+Water Audit
+IOAL, Barnala
+2022
+Anoop Verma
+Feasibility Reports
+Rice Mills of the Region
+2021-22
+Anoop Verma
+Water Audit
+M/s Saurav Chemicals Ltd, Dera Bassi, Mohali.
+2021
+Dr. Amit Dhir
+Vetting of design and Layout for village ponds in various blocks of Distt. Kaithal
+Executive Engineer, Panchayati Raj, Kaithal
+2020
+Dr. Amit Dhir
+Assessing the feasability of PAC as a coagulant in wastewater treatment
+VivaChem Intermediates Pvt Ltd, Raikot
+2020
+Dr. Amit Dhir &
+Dr. B.R. Yadav
+Standardization of treatment plant in villages of Punjab
+S.E. MGNREGA, Mohali
+2019
+Dr. Amit Dhir
+Air Quality Modeling & EIA
+Eco Chem sales & Service, Surat
+2019
+Dr. Amit Dhir
+EIA for proposed expansion from 300 to 600 TPD
+Satia Industries Ltd., Muktsar
+2019
+Dr. Amit Dhir
+Air Quality Modeling
+Eco Laboratories & Consultants Pvt Ltd., Mohali
+2019
+Amit Dhir
+ETP Adequacy Report-1
+Vishal PaperTech (India) Ltd. Derabassi (Mohali)
+2018
+Amit Dhir
+ETP Adequacy Report-2
+Vishal PaperTech (India) Ltd.Derabassi (Mohali)
+2018
+Amit Dhir
+Air Quality Modeling
+CPTL, Mohali
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Vardhman Special Steels Ltd.
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Tisha Impex, Amritsar
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Absolute Water (P) Ltd. New Delhi
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Mr. Sumit Khanna c o R.K. Overseas, Amritsar
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+R.K. Overseas, Amritsar
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Kay Cee Processors
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Alliance Industries
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Shree Ganpati Synthetics
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Shri Tirupati Finishers
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Amritsar Textile Processors
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Amritsar Textile Processors
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Amritsar Textile Processors
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Amritsar Textile Processors
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+R.K. Overseas, Amritsar
+2016
+A.S. Reddy
+Performance Evaluation of ETP STP
+Omkar Processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Bajay Processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Vaaho Agencies Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Natraj Wooltex
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sidhur Sharol Ind.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Paras Industries
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Kochar Sung-up Acrylic Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sudsons Woolens Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Gillanders Arbuthot
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Gurdeep Singh & Sons
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Kailash Printing
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Royal Processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Raghav processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Leela Dye House
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Himalaya Processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Cosmos Sanjay Weaving Mills
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Woollen Processors Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Shivam Textile Processor
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Apollo Processors Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Avichal Textile Mills Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Brij Lal Mehra & Sons
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Guru Shankar processors
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+J.P. Processors Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sehgal Processors Pvt. Ltd.
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Aay Bee International
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Chandu Pur Renewal Power Co. Ltd.
+2015
+Amit Dhir
+EIA consultancy
+Eco Chem sales & Service, Surat
+2015
+Amit Dhir
+EIA for proposed change of waste paper to agro residue based R.M.
+Satia Industries Ltd., Muktsar
+2015
+A.S. Reddy
+Performance Evaluation of ETP STP
+Kaytex Fabrics Pvt. Ltd.
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Vaaho Agencies Pvt. Ltd.
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Cosmos Sanjay Weaving
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Gurdeep Singh & Sons
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Himalaya Processes
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sehgal Processors Pvt. Ltd.
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Gillanders Arbuthnot
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sudsons Woolens
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Saya Ram Processors
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Shankar Printing
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+S.C. Processors
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Paras Industries
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Bhawani Textiles
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+J.P. Processors
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Sangam Wooltex
+2014
+A.S. Reddy
+Performance Evaluation of ETP STP
+Hero Cycles
+2014
+Amit Dhir
+EIA Consultant
+CPTL Envirotech. Ltd., Chandigarh
+2014
+Amit Dhir
+EIA Consultancy
+Satia Industries Ltd., Muktsar
+2014
+Amit Dhir
+Air Quality Modeling
+Satia Industries Ltd., Muktsar
+2014
+Amit Dhir
+ETP Adequacy
+Satia Industries Ltd., Muktsar
+2014
+Amit Dhir
+EIA Consultancy
+Eco Labs, Chandigarh
+2014
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

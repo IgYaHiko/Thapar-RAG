@@ -1,0 +1,71 @@
+SOURCE: https://www.thapar.edu/academics/centerspages/networking-hardware65
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Networking Hardware
+Sr. No
+Item
+Description
+1
+Firewall
+i.Fortigate 2200E,
+ii.FortiAnalyzer-300F,
+iii.FortiAuthenticator 2000E
+2
+Router
+i. Cisco Router 3800 -01
+ii. Cisco Router 1700 -01
+iii. Cisco Router 1841-01
+3
+Zone Director (Wireless Controller)
+i.Smart Zone 100 -01
+ii.Zone Director Ruckus ZD 3000-03
+iii.Zone Director Ruckus ZD 1000-01
+iv.Zone Director Ruckus SZ 100-01
+4
+Core Switch
+i. Brocade ICX 6650 - 01
+ii. Brocade ICX 6610 (Stack 4) - 01
+iii. Core Network Switch BD 8806- 01
+iv. Cisco Core Switch 4500 -01
+5
+L3 Switch
+i. Brocade ICX 7250 P - 27
+ii. Brocade ICX 6450 P - 10
+iii. Extreme Summit X-350 24(T)-05
+iv. NETGARE FSM 7326 24+2 FAST
+ETHERNET L3 MANAGE SWITCH WITH POE (24Ports) 08
+v. CISCO SYSTEM CATALYST 2950 SEREIS- 06
+vi. CATALYST SWITCH 3560 G-02
+vii. Extreme Summit X-440 L3 -04
+6
+L2 Switch
+i. Brocade ICX 6430 P - 60
+ii. Extreme Summit X-150 24(P) -08
+iii. Extreme Summit X-150 24(T)-15
+iv. D – LINK DES 3550 (48 Ports)-6
+v. D- LINK 3526 (24 Ports)-15
+vi. 3 COM SUPER SWITCH-03
+vii. SMART STACK ELS 100/24 F.E.S (24 Ports)-6
+viii.CATALYST 500 SWITCH ( 24 Ports)-18
+ix. Extreme Summit ES100 L2 -06
+7
+Access Points/Network Switches
+Rukus-1041/Brocade-95
+8
+Ruckus Media Flex
+i. Ruckus Media Flex 7211 Access Gateway (N Series) Indoor - 30
+ii. Ruckus Media Flex MM2211 Access Gateway-90
+iii. Ruckus Media Flex 7211 Access Gateway (N Series) Outdoor – 25
+9
+KVM Switch
+i. KVM Switch -01
+10
+IP Phone
+i. IP Phone Dlink-85
+11
+Central Storage
+i. Central Storage-01
+12
+Server Rack
+i. Server Rack -08

@@ -1,0 +1,26 @@
+SOURCE: https://www.thapar.edu/academics/centerspages/software-support65
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Software Support
+Software
+FORTIGATE FIREWALL
+Fortigate 2200E
+FortiAnalyzer-300F
+FortiAuthenticator 2000E
+SPSS Statistics
+SPSS Statistics is a software package used for statistical analysis.It is a comprehensive, easy-to-use set of data and predictive analytics tools for business users, analysts and statistical programmers.
+Download software
+On a login window enter username: spss password: newemail
+Download the required software
+Installation Procedure
+SPSS AMOS
+IBM SPSS Amos enables you to specify, estimate, assess and present models to show hypothesized relationships among variables. The software lets you build models more accurately than with standard multivariate statistics techniques. Users can choose either the graphical user interface or non-graphical, programmatic interface. SPSS Amos allows you to build attitudinal and behavioral models that reflect complex relationships.
+Download software
+On a login window enter username: spss password: newemail
+Download the required software
+Installation Procedure
+MATLAB
+MATLAB is a high-level language and interactive environment for numerical computation, visualization, and programming. Using MATLAB, you can analyze data, develop algorithms, and create models and applications. The language, tools, and built-in math functions enable you to explore multiple approaches and reach a solution faster than with spreadsheets or traditional programming languages.
+Manual to Get and Activate MATLAB
+Click here to Download the Matlab Setup

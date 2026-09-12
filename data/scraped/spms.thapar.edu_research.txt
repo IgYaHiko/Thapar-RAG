@@ -1,0 +1,445 @@
+SOURCE: https://spms.thapar.edu/research
+TITLE: School of Physics & Materials Science - Major Research Area
+------------------------------------------------------------
+
+Research-Intensive Training
+Delivering excellence via varied research avenues, trained faculty and innovation
+Research Areas
+AREA OF SPECIALIZATION
+MATERIALS SCIENCE
+CONDENSED MATTER PHYSICS- EXPERIMENTAL
+CONDENSED MATTER THEORY-STRONGLY CORRELATED SYSTEM
+THIN FILM SOLAR CELLS
+NANOMATERIALS
+NANOMEDICINE
+NUCLEAR PHYSICS- EXPERIMENTAL
+ENVIRONMENTAL RADIOACTIVITY
+PARTICLE PHYSICS
+NONLINEAR DYNAMICS AND PHOTONICS
+COMPUTATIONAL SOFT CONDENSE MATTER PHYSICS
+MULTIFERROICS & FUEL  CELL
+SPONSORED PROJECTS [2019-2024]
+Name of of the PI/ Co-PI/Name of the person holding the Chair
+Title of the research project, endowments, Research Chairs
+Name of the funding agaency
+Duration
+Year of award or sanction
+Amount in INR. (Lakhs)
+Dr. Bhaskar Chandra Mohanty/ Dr. O.P. pandey
+Investigation of bulk photovoltaic charge transport in chalcogenide perovskite thin films
+SERB-DST India
+3
+2024
+35.89
+Dr. Sunil Devi
+Reaction dynamics and channel coupling effects of multinucleon transfer reactions in interactions of 28 SI with 78GE and 30SI with 74 GE
+CSIR
+2
+2023
+21.00
+Dr. Bhaskar Chandra Mohanty
+Growth and characterizations of CaZrS3 based chalcogenide perovskite thin films for photovoltaic applications
+DAE-CSR
+1
+2023
+0.45
+Dr Poonam Uniyal
+Development Of Structurally Engineered KNN -PVDF Nanocomposites For Energy Storage Applications
+DSR-SERB-POWER
+3
+2022
+28.00
+Dr. K. Singh (Navneet Kaur Mattu)
+Study of calcium silicate glasses and glass ceramics derived from agro-food wastes and minerals for biomedical applications
+UGC
+5
+2022
+20.00
+Dr. Manoj K. Sharma
+Decay dynamics of various nuclei via binary and ternary processes within the collective clusterization approach
+DST-SERB
+5
+2022
+28.61
+Dr. O.P. pandey
+MXene/activated charcoal heterostructures for electrocatalysts and photocatalysis
+CEEMS-TIET-VT
+5
+2022
+14.00
+Dr. Raj Kumar
+Theoretical investigation of nuclear structure effects on the heavy ion reactions
+CRG, SERB, DST, Govt of India
+3
+2022
+20.42
+Dr. Sourav Marik
+Toward Future Superconducting Materials: Exploring and Understanding the Superconductivity in Newly Discovered High Entropy Alloy Superconductors
+DST - SERB
+3
+2022
+27.03
+Dr. Dheeraj Kumar Singh
+Topological states in the iron-based superconductors
+DST-SERB
+3
+2021
+16.42
+Dr. Dheeraj Kumar Singh
+To develop an accelerating scheme for the numerical simulations of multi-orbital spin-fermion models
+DST-NSM
+3
+2021
+12.30
+Dr. Sunil Devi
+Development of particle identification set-up for multi-nucleon transfer reactions
+DST-SERB
+3
+2021
+35.15
+Shivani Jain
+SRF-Direct
+CSIR
+1
+2021
+7.2
+Dr. Alka Upadhayay
+Spectroscopic analysis of heavy hadrons observed at LHCb, BaBar, and CDF accelerators using effective theories
+DST-SERB
+3
+2020
+25.48
+Dr. O.P. pandey
+Utilization of non-biodegradable waste for development of Carbon and Carbon supported nano/2D structures for sustainable energy
+CEEMS-TIET-VT
+3
+2020
+14.00
+Dr. Soumendu jana
+All-Optical Cryptography Using Localization and Dynamics of Photon in Semiconductor Microresonators
+DST-SERB
+4
+2020
+22.00
+Dr. Raj Kumar
+Nuclear structure and reaction dynamics of exotic nuclei within effective field theory motivated relativistic mean-field approach
+FOSTECH, VIETNAM
+3
+2020
+30.00
+Dr. Loveleen Kaur Brar (Kaveri Ajravat)
+Advanced ternary MOx@N-doped graphene oxide composites for high performance supercapacitor electrodes
+DST INSPIRE fellowship
+5
+2020
+23.00
+Dr. D. P. Singh
+Development of Graphene - polypyrole based nanocomposites for Electromagnetic shielding application of microwave devices in X- band
+SSPL, DRDO
+4
+2019
+10.56
+Dr. D. P. Singh
+Investigation of microwave absorbing behavior of polypyrrole -ferrite-CaCu3Ti4O12 nanocomposites for aerospace applications
+ARDB, DRDO
+4
+2019
+12.42
+Dr. K. Singh
+Transition metals doped strontium zirconate and strontium manganite pervoskite for solid oxide fuel cell applications
+DST
+3
+2019
+52.00
+Dr. K. Singh (Dr. Shivani Punj)
+Bioactive properties of glasses and glass ceramics synthesized using Agro-food wastes
+DST-Women Scientist Scheme A
+3
+2019
+24.00
+Dr. Manoj K. Sharma
+Fission and competing nuclear dynamics governed via compound and non-compound nuclear dynamics
+UGC-DAE-CSR
+3
+2019
+15.00
+Dr. Raj Kumar
+Effect of nuclear density approximation and shell closure in the dynamics of heavy-ion induced reactions
+DAE-BRNS, Govt. of India
+3
+2019
+17.84
+Facilities
+X-ray Diffractometer (Philips)
+Scanning Electron Microscope (JEOL)
+Scanning Force Microscope (ND-MDT)
+Differential Thermal Analyzer (Perkin Elmer)
+Differential Scanning Calorimeter (LINSEIS L63)
+Dilatometer (DIL 402 PC Netzsch)
+Polarizing microscope (Olympus)
+Temperature controller (Linkam, TP 94 THMS600)
+LCR meter (Fluke)
+LCR meter (Agilent 4284A )
+Differential Scanning Calorimeter (LINSEIS L63)
+Fourier Transform Infrared Spectroscope (FTIR)
+Electrometer (Keithly)
+P-E Loop tracer
+Lock in amplifier
+Spin coater
+Abbe’s Refractometer
+Wear Testing Machine
+Ultrasonic Flow Detector
+Milli-Q water systems
+Argon Ion Laser System
+Creep Measurement Setup
+Gamma-ray Spectrometer
+Fatigue Testing Machine
+Inverted Metallurgical Microscope with Image Analyzer
+Polarizing Microscope
+Microhardness Tester
+Rockwell Hardness Tester
+Universal Testing Machine
+High Temperature Furnaces
+High Energy Ball Mills
+Solar Simulator
+Electro-optic & Thermo-optic Measurement Setup
+Corrosion Resistance Measurement Setup
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

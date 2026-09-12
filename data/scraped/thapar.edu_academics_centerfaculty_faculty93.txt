@@ -1,0 +1,70 @@
+SOURCE: https://thapar.edu/academics/centerfaculty/faculty93
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Prof. Ajay Batish
+Pro Vice-Chancellor
+Specialization
+Industrial Engineering, Quality Assurance ISO 9000
+Email
+abatish@thapar.edu
+R. K. Duvedi (Dr.)
+Associate Dean ELC
+Specialization
+CAD CAM Robotics, Multi-axis CNC Machining
+Email
+rduvedi@thapar.edu
+Dr. Sharad Saxena
+Coordinator
+Specialization
+Wireless sensor networks, IOT, Ad-hoc networks
+Email
+sharad.saxena@thapar.edu
+Dr. V. P. Singh
+Associate Professor
+Specialization
+Computing, Computer Networks, Computer Forensics and Cyber Law
+Email
+vpsingh@thapar.edu
+Dr. Anil Arora
+Assistant Professor
+Specialization
+Micro-Electro-Mechanical Systems (MEMS) Design and Fabrication
+Email
+anil.arora@thapar.edu
+Dr. Bikramjit Sharma
+Assistant Professor
+Specialization
+Nanocomposites, CAD CAM and Robotics
+Email
+bikramjit@thapar.edu
+Dr. Himanshu Chawla
+Assistant Professor
+Specialization
+Structural engineering
+Email
+himashu.chawla@thapar.edu
+Dr. Nirbhow Jap Singh
+Assistant Professor
+Specialization
+System Optimisation
+Email
+nirbhow@gmail.com
+Dr. Raman Kumar Goyal
+Assistant Professor
+Specialization
+Wireless Networks
+Email
+ramankumar.goyal@thapar.edu
+Dr. Vikas Handa
+Assistant Professor
+Specialization
+Genetic and Epigenetic Gene Regulation
+Email
+vikas.handa@thapar.edu
+Dr. Vivek Sethi
+Assistant Professor
+Specialization
+Vehicular ad-hoc Networks, Internet of Things
+Email
+vivek.sethi@thapar.edu

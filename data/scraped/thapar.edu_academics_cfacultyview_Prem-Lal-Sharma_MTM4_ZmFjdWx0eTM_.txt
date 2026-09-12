@@ -1,0 +1,29 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Prem-Lal-Sharma/MTM4/ZmFjdWx0eTM=
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Prem Lal Sharma
+Deputy System Manager
+Designation:
+Deputy System Manager
+Specialization:
+Manage network infrastructure. Implement, administer, and troubleshoot network devices including firewall, Wi-Fi controllers, routers, switches, Access Points
+Email:
+plsharma@thapar.edu
+Job Profile
+Implementing Enterprise level Routing, Switching, Firewall and Security, configuration and deployment of UTM, Core Switching network with CISCO, Brocade, Extreme, Ruckus.
+Manage and monitor performance of ISP WAN Links, IT infrastructure planning.
+Configuration and management of Lifesize Clearsea Video Conferencing System with Icon 600/Icon 800 and desktop clients for various meetings and interviews.
+Configuration, control and management of IP camera surveillance throughout campus.
+System monitoring/health check-ups verifying the integrity and availability, reviewing system and application logs, maintain up time, regular backups of configurations and patch management.
+Manage team of six persons to make the network/internet available round the clock.
+Expereince in TIET
+26 September, 2013 – Till Date
+Qualification
+M. Tech. (ALCCS) IETE New Delhi
+B. Tech (AMIE) Institution of Engineers(India)
+Professional Certification
+Cisco Certified Network Associate (CCNA).
+Professional Memberships
+Associate Member of Institute of Engineers(India)
+Member of Institute of Electronics and Telecommunication Engineers - Delhi

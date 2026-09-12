@@ -1,0 +1,81 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Dr.-Loveleen-Kaur-Brar/NTE=/ZmFjdWx0eTk1
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Dr. Loveleen Kaur Brar
+Assistant Professor
+Designation:
+Assistant Professor
+Specialization:
+Langmuir-Blodgett films, Scanning Force Microscopy, Functional nanomaterials.
+Email:
+brarloveleen@thapar.edu
+Education
+PhD: 2017, Thapar Institute of Engineering & Technology
+Thesis Title: Role of sub-stoichiometric carbon content on the structural, thermal and electrochemical properties of TaCx
+Research Fellow: 2000-2008, Department of Physics, IISc, Bangalore.
+MSc (Hons.): 1998-2000, Punjab University, Chandigarh.
+BSc (Hons.): 1995-1998, Punjab University, Chandigarh.
+Experience
+Research: 2000-Present
+Teaching: 2008-Present
+Research Interests
+Langmuir Blodgett films
+Scanning Force Microscopy
+Functional nanomaterials
+Carbon quamtum dots and nano spheres
+Teaching Interests
+Materials Science
+Nanoscience and Nanomaterials
+Condensed Matter physics
+Digital circuits and microprocessors
+Semiconductor Physics
+Electroceramics
+Experimental Techniques in Physics
+Publications
+The role of carbon in structural evolution during single step synthesis of nano tantalum carbide. Loveleen K. Brar, Gourav Singla and O. P. Pandey, RSC Advances, 6, 109174-109184, 2016
+Evolution of structural and thermal properties of carbon-coated TaC nanopowder synthesized by single step reduction of Ta-ethoxide. Loveleen K. Brar, Gourav Singla, and O. P. Pandey.RSC Advances, 5, 1406–1416, 2015
+Thermal stability and structural properties of Ta nanopowder synthesized via simultaneous reduction of Ta2O5 by hydrogen and carbon. Loveleen K. Brar, Gourav Singla, Navjot Kaur and O. P. Pandey. Journal of Thermal Analysis and Calorimetry, 119, 175-182, 2015
+Distinct levels in the nanoscale organization of DNA-histone complex revealed by its mechanical unfolding. G. V. Soni, Loveleen Brar, Feroz M. Hameed, A. K. Raychaudhuri, and G. V. Shivashankar Appl. Phys. Lett., 90, 163904, 2007
+Novel approach towards visualization of a specific DNA-protein complex. Loveleen K. Brar, Priya Rajdev, A. K. Raychaudhuri and Dipankar Chatterji. Langmuir, 21, 10671 2005
+Electronic transport in nanostructured films of La0.67Sr0.33MnO3. Barnali Ghosh,, Sohini Kar, Loveleen K. Brar and A.K. Raychaudhuri. Journal of Applied Physics, 98, 094302, 2005
+Formation of a DNA layer on Langmuir-Blodgett films and its enzymatic digestion. Anusarka Bahumik, Madhugiri Ramakanth, Loveleen Kaur Brar, A. K Raychaudhuri, Francis Rondelez, and Dipankar Chatterji Langmuir, 20, 5891-5896, 2004.
+Growth of Oriented films of La0.67Ca0.33MnO3 and La0.67Sr0.33MnO3 on SrTiO3 using chemical solution deposition. Barnali Ghosh, Loveleen K. Brar, Himanshu Jain, J. Mitra, A. K. Raychaudhuri. J.Phys D: Appl. Phys, 37, 1548-1553, 2004
+Design and development of Scanning Force Microscope for imaging and force measurement with sub-nanonewton resolution. L.K.Brar, Mandar A. Paranjapae, A.Guha, A. K. Raychaudhuri. Current Science, 83, 1197-1199, 2002
+List of Master Thesis Guided
+Ravneet Kaur, 2009, Characterization of Horse-Spleen Ferritin as a Magnetic core-shell Nanoparticle.
+Charu Kamal, 2010, Preparation of TiO2 nanoparticles via the glycolate route and effect of addition of alcohol on particle morphology
+Kashika Goyal, 2010, Characterization of Selenium nanostructures synthesized by aerobic microbial route
+Rajni Sharma, 2016, Synthesis of ZrO2 thin films by using Langmuir-Blodgett deposition technique
+Palvi, 2016, Synthesis of Nickel Oxide thin films using Langmuir-Blodgett technique
+Shaifali Mehta, 2016, Time of Flight (TOF) Positron Emission Tomography (PET) imaging using 5gap Glass Multigap Resistive Plate Chambers (MRPCs)
+Amandeep Kaur, 2017, Effect of pH on the Langmuir monolayers of Nickel stearate and the synthesised Nickel oxide thin films.
+Raveena Chaudhry, 2017, Effect of pH on the Langmuir monolayers of Zirconyl Stearate and the synthesized Zirconium Oxide thin films
+Rajpal Kour, 2017, Low temperature synthesis and characterization of carbon nanospheres from saccharides
+List of Conference Proceedings/Oral and Poster Presentations
+Effect of natural grain boundary on the non-linear transport properties of nanostructured manganite films.
+Barnali Ghosh, Loveleen K. Brar and A. K. Raychaudhuri
+Ref: 46th Department of Atomic Energy, Solid State Physics Symposium, December 2003. Oral Presentaion.
+A novel surface for immobilizing biomolecules and imaging with Atomic Force Microscope
+Loveleen Kaur Brar, Priya Rajdev, A.K.RAychaudhuri, Dipankar Chatterji.
+Ref: Seeing at the Nanoscale III, UCSB, California, USA., August, 2005. Poster Presentaion.
+Gold Nanowire Fabrication by Dip Pen Nanolithography Loveleen K. Brar, A. K. Raychaudhuri.
+Ref: 2004 AFOSR Dip-Pen Nanolithography Workshop, Florida, USA. Poster Presentaion
+A study of correlation between the microstructure of the substrate and the Dip Pen Nanolithography pattern quality Loveleen K. Brar, Achyut Bora, A.K.Raychaudhuri.
+Ref: International conference on nanoscience and technology (ICONSAT) 2003. Poster Presentaion
+Design and calibration of the Scanning Force Microscope.
+L. K. Brar, M.A. Paranjape and A.K. Raychaudhuri Ref: 45th Department of Atomic Energy, Solid State Physics Symposium, December 2002. Poster Presentaion.
+A study of force distance curves of metal thin films taken by Atomic Force Microscope L. K. Brar, M. A. Paranjape and A.K.Raychaudhuri
+Ref: 44th Department of Atomic Energy, Solid State Physics Symposium, December, 2001. Poster Presentaion.
+Enhanced low field magnetoresistance in nanostructured films of La0.67Sr0.33MnO3 (LSMO) and La0.67Ca0.33MnO3 (LCMO) Barnali Ghosh, L. K. Brar and A. K. Raychaudhuri
+Ref: International conference on nanoscience and technology (ICONSAT) 2003. Poster Presentaion.
+Mapping of local electronic properties and spatially resolved Magnetoresistance of nanostucttured CMR Thin films by Scanning Tunneling Microscope.
+Sohini Kar, Barnali Ghosh, Loveleen K. Brar, mandar A. Paranjape, and A.K.Raychaudhuri.
+Ref: 2004 MRS fall meeting, Boston USA, Poster Presentation. Won the best poster award
+Summer Schools Attended
+Topics in Biomaterials, Summer School by ICMR, UCSB, California, USA, August, 2005.
+Achievement, Awards and Recognitions
+Recipient of Junior Research Fellowship (JRF) offered by University Grants Commission (UGC), Govt. of India.
+Recipient of Senior Research Fellowship (SRF) offered by University Grants Commission (UGC), Govt. of India.
+Message to Students & Community
+Hard work beats talent when talent doesn’t work hard.

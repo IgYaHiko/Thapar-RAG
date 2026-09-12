@@ -1,0 +1,75 @@
+SOURCE: https://thapar.edu/aboutus/pages/directory
+TITLE: About Us | Thapar Institute of Engineering & Technology, Patiala
+------------------------------------------------------------
+
+Directory
+SNo.
+Name
+Designation
+Contact No.
+Email
+1
+Dr.Gurbinder Singh
+Registrar
+0175-2393021
+registrar@thapar.edu
+2
+Mr.Pankaj Sinha
+Finance Officer
+0175-2393871
+financeofficer@thapar.edu
+3
+Mr.N.P. Singh
+Head, Commercial
+0175-2393906
+npsingh@thapar.edu
+4
+Mr. Lav Sharma
+Chief Human Resources Officer
+0175-2393849
+lav.sharma@thapar.edu
+5
+Mr.Sanjeev Jain
+Deputy Registrar (Finance & Admin)
+0175-2393024
+dr_finance@thapar.edu
+6
+Mr.Satpal Singh Bhatia
+Chief Commercial Officer
+0175-2393926
+satpalsbhatia@thapar.edu
+7
+Mr.Sanjeev Kumar
+Deputy Registrar (Audit)
+0175-2393140
+sanjeev.ca@thapar.edu
+8
+Mr.Hunish Bansal
+Deputy Registrar (Academic)
+0175-2393819
+dr_a@thapar.edu
+9
+Mr. Sanjeev Kumar Verma
+Assistant Registrar (Meetings)
+0175
+meetings@thapar.edu
+10
+Mr.Amanpreet Singh
+Law Officer
+0175-2393847
+legal@thapar.edu
+11
+Mr.Ashish Mehra
+Senior Manager (Internal Audits)
+0175-2393905
+ashish.mehra@thapar.edu
+12
+Mr.P.S. Jolly
+Deputy General Manager - (S&P)
+0175-2393860
+psjolly@thapar.edu
+13
+Mr.Vineet Arora
+Senior Manager  (Finance & Accounts)
+0175-2393846
+vineet.arora@thapar.edu

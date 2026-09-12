@@ -1,0 +1,45 @@
+SOURCE: https://www.thapar.edu/aboutus/pages/deans
+TITLE: About Us | Thapar Institute of Engineering & Technology, Patiala
+------------------------------------------------------------
+
+Deans
+SNo.
+Name
+Designation
+Phone/ Email
+1
+Dr. Shruti Sharma
+Dean of Academic Affairs
+3022/
+doaa@thapar.edu
+2
+Dr. Meenakshi Rana
+Dean of Student Affairs
+3039/
+dosa@thapar.edu
+3
+Dr. Shalini Batra
+Dean of Faculty Affairs
+3914/
+dean.faculty@thapar.edu
+4
+Dr. Ajay Batish
+Dean of Partnerships and Accreditations
+dopa@thapar.edu
+5
+Dr. Seema Bawa
+Dean of Outreach
+dean.outreach@thapar.edu
+6
+Dr. Rafat Siddique
+Dean of Sustainability
+dean.sustainability@thapar.edu
+7
+Prof. R. S. Kaler
+Dean of Research and Development Cell (DoRDC)
+3038/
+dorsp@thapar.edu
+8
+Dr. Neeraj Kumar
+Dean of Digital Contents Transformation
+ddct@thapar.edu

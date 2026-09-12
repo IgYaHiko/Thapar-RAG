@@ -1,0 +1,20 @@
+SOURCE: https://thapar.edu/aboutus/pages/directorate
+TITLE: About Us | Thapar Institute of Engineering & Technology, Patiala
+------------------------------------------------------------
+
+Vice Chancellor
+SNo.
+Name
+Designation
+Phone
+Email
+1.
+Prof. Padmakumar Nair
+Vice Chancellor
+0175-2393001, 2363007
+director@thapar.edu
+2.
+Ms. Ruchi Gupta
+Assistant Registrar
+0175-2393001,2393050,2363007
+ruchi@thapar.edu

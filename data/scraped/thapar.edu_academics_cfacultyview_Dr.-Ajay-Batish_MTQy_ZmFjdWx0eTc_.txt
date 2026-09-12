@@ -1,0 +1,219 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Dr.-Ajay-Batish/MTQy/ZmFjdWx0eTc=
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Prof. Ajay Batish
+Pro Vice-Chancellor
+Designation:
+Professor, Dean Partnerships and Accreditation, and Pro VC
+Specialization:
+Industrial Engineering, Quality Assurance ISO 9000
+Email:
+abatish@thapar.edu
+Education
+PhD
+Experience
+August 1999 - to date: Mechanical Engineering Department, Thapar Institute of Engineering & Technology, Patiala, India
+June 1990 – August 1999: Quality Manager, Gabriel India Limited
+Teaching Interests
+Manufacturing Engineering
+Quality Engineering
+Industrial System Design
+Research Interest:
+Advanced Manufacturing
+Process Optimization
+Ergonomics
+Publications
+Journal International:
+2016
+Duvedi, R.K.,Bedi, S.,Batish, A.,Mann , The Edge--Torus Tangency Problem in Multipoint Machining of Triangulated Surface Models, 2016, The International Journal of Advanced Manufacturing Technology, 82(9), 1959-1972
+Sidhu, S.S., Batish, A., Kumar, S, Metal Matrix Composites for Thermal Management: A Review, 2016, Critical Reviews in Solid State and Materials Sciences, 41(2), 132-157
+Ashu, Bhattacharya, A., Batish, A., Surface Finish and Dimensional Accuracy of FDM Parts after Cold Vapor Treatment, 2016, Materials and Manufacturing Processes, 31(4), 522-529
+Kumar, S.,Batish, A.,Singh, R.,Singh, T.P., Machining Performance of Cryogenically Treated Ti-5Al-2.5Sn Titanium Alloy in Electric Discharge Machining: A Comparative Study, 2016, Proceedings of the Institution of Mechanical Engineers, Part C: Journal of Mechanical Engineering Science doi 0954406215628030
+Kumar, S.,Batish, A.,Singh, R.,Singh, T.P., Modeling the tool wear rate in powder mixed electro-discharge machining process using dimensional analysis of cryogenically treated electrodes, 2015, Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering doi 0954408915593875
+2015
+Bhatt, G., Batish, A., Bhattacharya, A., Material Transfer Mechanism during Magnetic Field Assisted Electric Discharge Machining of AISI D2, D3 and H13 Die Steel, 2015, J Engineering Manufacture, 229(1) 62–74
+Ashu, Bhattacharya, A., Batish, A., Failure investigation of fused deposition modelling parts fabricated at different raster angles under tensile and flexural loading, 2015, Proc IMechE Part B: J Engineering Manufacture, 1–9
+Sidhu, S.S., Batish, A., Kumar, S, Analysis of residual stresses in particulate reinforced aluminium matrix composite after EDM, 2015, Materials Science and Technology, 31(15), 1850-1859 Duvedi, R.K.,Bedi, S.,Batish, A.,Mann, S, Numeric implementation of drop and tilt method of 5-axis tool positioning for machining of triangulated surfaces, 2015, The International Journal of Advanced Manufacturing Technology, 78(9) , Issue 9, 1677-1690
+Bhatt, G., Batish, A., Bhattacharya, A., Experimental Investigation of Magnetic field assisted EDM with Powders Mixed in Dielectric Medium, 2015, Particulate Science and Technology: An International Journal 33(3), 246-256
+Batish, A., Bhattacharya, A., Powder Mixed Dielectric: An Approach for Improved Process Performance in EDM, 2015, Particulate Science and Technology: An International Journal, 33(2), 150-158
+2014
+Duvedi, R.K.,Bedi, S.,Batish, A.,Mann, S., A multipoint method for 5-axis machining of triangulated surface models, 2014, CAD Computer Aided Design, 52, 17–26
+Kumar, S.,Batish, A.,Singh, R.,Singh, T.P., A Mathematical Model to predict Material Removal Rate during Electric Discharge Machining of Cryogenically Treated Titanium Alloys, (2014), Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture, 229(2) 214–228
+Sidhu, S.S.,Batish, A.,Kumar, S, Study of surface properties in particulate-reinforced metal matrix composites (MMCs) using powder-mixed electrical discharge machining (EDM) , 2014, Materials and Manufacturing Processes, 29: 46–52
+Kumar, S.,Batish, A.,Singh, R.,Singh, T.P., A hybrid Taguchi-artificial neural network approach to predict surface roughness during electric discharge machining of titanium alloys , 2014, Journal of Mechanical Science and Technology, 28, (7), 2831-2844.
+Singh, H.,Bhattacharya, A.,Batish, A., Finite element modeling and analysis of powder mixed electric discharge machining process for temperature distribution and volume removal considering multiple craters , 2014, International Journal of Modeling, Simulation, and Scientific Computing, 05, (3), 1450009
+Gupta, A.,Ramagopal, S.V.,Batish, A.,Bhattacharya,, A Surface roughness and profile error in precision diamond turning of C18000 , 2014, Materials and Manufacturing Processes, 29, (5), 606-613
+Singh, R. P., Batish, A., Singh, T.P., An Experimental Study to Evaluate the Effect of Ambient Temperature during Manual Lifting and Design of Optimal Task Parameters, 2014, Human Factors and Ergonomics in Manufacturing and Service Industries, 24(1), 56-70
+Batish, A.,Bhattacharya, A.,Kaur, M.,Cheema, M.S, Hard turning: Parametric optimization using genetic algorithm for rough/finish machining and study of surface morphology, 2014, Journal of Mechanical Science and Technology 28, (5),1629-1640
+Singh, R. P., Batish, A., Singh, T.P., Determination of safe limits of significant task parameters during manual lifting, 2014, Workplace Health & Safety, 62(4):150-60
+2013
+Sidhu, S.S.,Batish, A.,Kumar, S., Neural network-based modeling to predict residual stresses during electric discharge machining of Al/SiC metal matrix composites, 2013, Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture 227(11) 1679–1692
+Sidhu, S.S.,Batish, A.,Kumar, S., Fabrication and electrical discharge machining of metal-matrix composites: A review , 2013, Journal of Reinforced Plastics and Composites, 32: 1310-1320
+Sidhu, S.S.,Batish, A.,Kumar, S., EDM of metal matrix composite for parameter design using lexicographic goal, 2013, Materials and Manufacturing Processes, 28, 495-500
+Bhattacharya, A.,Batish, A.,Kumar, N., Surface characterization and material migration during surface modification of die steels with silicon, graphite and tungsten powder in EDM process, 2013, Journal of Mechanical Science and Technology, 27 (1) 133-140
+Bhattacharya, A.,Batish, A, Predictor equations for estimating crater dimensions in PMEDM process using fem simulation and experimental validation, 2013, Materials Science Forum, 751, 45-60 2012
+Bhattacharya, A.,Batish, A.,Singh, M, Experimental studies to validate simulated results for nozzle effectiveness using multi-response optimisation during cylindrical grinding process , 2012, International Journal of Materials Engineering Innovation 3 (3/4), 165 – 189
+Bhattacharya, A.,Batish, A.,Singh, G.,Singla, V.K, Optimal parameter settings for rough and finish machining of die steels in powder mixed EDM, International Journal of Advanced Manufacturing Technology 61, (5-8), 537-548
+Bhattacharya, A.,Batish, A., Effect of process variables on microhardness, grain size and strain during machining of various die steels with powder-mixed electric-discharge machining using dummy treated experimental design , 2012, Proceedings of the Institution of Mechanical Engineers, Part B: Journal of Engineering Manufacture, 226, (7). 1192-1204.
+Bhattacharya, A.,Batish, A.,Singh, K, FE simulation and experimental validation of powder mixed EDM process for estimating the temperature distribution and volume removed in single crater , 2012, International Journal of Modeling, Simulation, and Scientific Computing, Volume: 3, (2)
+Batish, A.,Bhattacharya, A.,Singla, V.K.,Singh, G., Study of material transfer mechanism in die steels using powder mixed electric discharge machining, 2012, Materials and Manufacturing Processes, 27, 449-456
+2011
+Kumar, P., Batish, A., Bhattacharya, A., Duvedi, R.K., Effect of Process Parameters on Microhardness and Microstructure of Heat Affected Zone in Submerged Arc Welding, 2011, Proceedings of the Institution of Mechanical Engineers, Part B, Journal of Engineering Manufacture 225(5), 771-721
+Batish, A., Bhattacharya, A., Singh, B., Multi-Response optimization and Empirical Modeling of Cardiopulmonary Responses during Manual Lifting Tasks, 2011, Human Factors and Ergonomics in Manufacturing, 21(1), 29-43
+Sponsored Projects
+Title
+Project cost (Indian Rupees)
+Funding Agency
+Duration
+Ornamental Wood Working System using 3-D modeling and computerized tool path
+97.5 LAC
+Ministry of Textiles
+3 years (2008-2011)
+Analysis of Asymmetrical Manual Lifting Tasks to determine maximum recommended weight limit by Indian Male workers
+22.5 LAC
+SERC - DST
+3 years (2007-2010)
+Experimentation for improvement in surface  properties of die and tool steels by EDM process
+23.0 LAC
+SERC - DST
+3 years (2007-2010)
+Special Assistance Project (SAP-DRS) in Mechanical Engineering
+44.5 LAC
+UGC
+5 years (2009-14)
+Manufacturing Engineering - Entrepreneurship Development
+8.00 LAC
+AICTE
+2 years (2007-10)
+Ergonomic Analysis of Manual Lifting Tasks for calculating the maximum recommended weight limit
+8.00 LAC
+RPS Scheme - AICTE
+3 years (2007-2010)
+Drive Chain Weight Reductio
+11.08
+Rockman Industries
+1 year
+Metallurgical behavior of high strength low alloy (HSLA) steel during Submerged Arc Welding (SAW) with different flux compositions, weld parameters with pre and post thermal treatment
+14.65
+DRDO
+2 years
+Optimization and Modeling of process parameters for improvement in material characteristics in abrasive blasting process using fuzzy logic methodology
+9.77
+AICTE
+2 years
+Experimental investigation of EDM machined surface of Al-SiC and Al-SiC-B4C metal matrix composites –
+10.90
+UGC
+2 years
+Multi response optimization of process parameters for the improved part accuracy in FDP process
+9.75
+AICTE
+3 YEARS
+FIST
+86.00
+DST
+5 years
+Consultancy Projects
+Title
+Funding Agency
+Study of Paint Shop
+Polypalstics, Yamunanager
+Productivity Studies at Polypalstics, Yamunanager
+Polypalstics, Yamunanager
+Ergonomic Studies of Bournvita Line
+Cadbury Baddi
+Six Sigma Deployment at for Single Window and Housing Finance operations
+SBOP, Patiala
+Manpower Productivity studies for officers
+Cadbury, Gwalior
+Industrial Engineering studies for various production lines
+ISO 9000 implementation
+Milkfood, Patiala
+Time and Motion Studies
+Cadbury, Gwalior
+ISO 9001 implementation
+R R Electronics
+Research guidance
+Title of the thesis
+Level M.E./ Ph.D.
+Tool Positioning Algorithms for Improved Machining of Triangulated Surfaces
+PhD
+Study of Surface properties and residual stresses of Aluminum matrix composites after electric discharge machining
+PhD
+Analysis of Asymmetrical Manual Lifting Tasks to Modify the Lifting Equation using Factorial Experimental Methods for Indian Male Workers
+PhD
+Development of a Model for Fostering Innovation Culture in Small Scale Auto Parts Manufacturing Industries of Punjab
+PhD
+Investigating the effect of Cryo Treatment on machining characteristics of Titanium Alloys with EDM (Submitted)
+PhD
+Development of computer aided integrated model for production of close tolerances
+ME
+Ergonomic Analysis of Lifting and Carrying Tasks
+ME
+Strategy Development for Lean Manufacturing Implementation
+ME
+Machinery and Equipment Underutilization
+ME
+Modification of Surface Properties of Die Steel in an EDM Process
+ME
+Master Production Schedule through Simulation
+ME
+Maintenance Planning through Computer Simulation
+ME
+Material Requirement Planning through Simulation
+ME
+Effect of different multipliers and their interactions during manual Lifting operations
+ME
+Analysis of Lifting and Carrying Tasks using the Lifting Equation The student is registered at BITS, Pilani for his M.S. through Distance Mode
+M.S.
+Effect of powder mixed dielectric on MRR, TWR and surface properties in EDM
+ME
+Fractional factorial analysis and empirical modeling of cardiopulmonary responses during lifting operations
+ME
+Empirical modeling for a submerged arc welding process for predicting the weld bead geometry and microstructure
+ME
+Generalized tool path generation algorithm for sculptured pseudo symmetric surface machining
+ME
+Customization of cad modeling software using parametric macros for design of machinable artistic surface patterns
+ME
+Tool path planning for 3-axis NC-milling lathe and 3-axis NC-vertical milling for sculptured surfaces machining using triangular mesh offset
+ME
+An Experimental Validation of Simulated Coolant Nozzles and Their Orientation in a Grinding Process
+ME
+Multi-response Optimization of Process Parameters in Cold Chamber Pressure Die Casting
+ME
+Experimentation for Improvement in Surface Properties and Process Optimization of Die Steels using Powder Mixed Dielectric in EDM Process
+ME
+Investigation on Improvement of Material Properties and Parametric Optimization of MRR, TWR and Roughness using Powder Mixed Dielectric in EDM
+ME
+Improvement in Surface Properties of die steels during Hard facing on CNC milling
+ME
+Investigating the effect of tool and work material in Ultrasonic machining of Titanium alloys
+ME
+Multi-response optimization of Wire EDM with AHP
+ME
+Plant Capability Assessment using OEE and TEEP with Gauge R&R
+ME
+Process Redesign for Chain Weight Reduction
+ME
+Process Optimization of 428 power Transmission Chain for achieveing weight reduction
+ME
+Design and Fabrication of the setup for resin sand reclamation and investigate the effects of different parameters on the performance of the reclamation process
+ME
+Production of High strength and durable concrete using industrial by-products
+ME
+Exploration of surface roughness and profile error in SPDT of mold insert material - copper alloy C18000
+ME
+Parametric Approach to optimize SAW process for HSLA steel
+ME
+Experimental Investigation of magnetic field assisted EDM Process
+ME
+Study of Fusion Zone and Heat Affected Zone of Submerged Arc Welded HSLA Steel
+ME
+A Comparative Study of Various Artefacts used in CMM Calibration
+ME
+Synthetic Double Sampling Variable Sampling Interval Xbar Control Chart
+ME
+Measurement and Evaluation of Cam Chain Noise and Vibration of Motorcycle Engine
+ME

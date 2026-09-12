@@ -1,0 +1,919 @@
+SOURCE: https://eied.thapar.edu/programmes
+TITLE: EIED Offers Electrical & Instrumentation Engineering in B.Tech. & B.E.
+------------------------------------------------------------
+
+Academic Programmes
+An elaborate list of our research-oriented academic programmes
+Integrating and Evaluating Outcome-Based Education
+B.E Electrical Engineering
+B.E. Electronics (Instrumentation & Control) Engineering
+B.Tech. Biomedical Engineering
+B.E. Electrical and Computer Engineering
+M.E. Electric Vehicle Technology
+About the Electrical Engineering Program
+The
+Electrical Engineering
+of Thapar Institute of Engineering & Technology is a future enriched widely recognized BE program, known for its long and prolific history. The program is excelling since 1956 due to continuously contributing to outstanding academics, a rich legacy of alumni and cutting edge research initiatives. It is nationally and internationally accredited program where the graduates are prepared for a challenging and ever changing global environment.
+By joining
+BE (Electrical Engineering)
+, you will become part of an outstanding legacy and an enriching graduate program that will specialize you in highly sought after specialisations such as
+Data Analytics, Real Time Systems and Smart Electrical Networks
+. The wide range of courses are offered in the respective field of interest to enable you to explore and help build capacity and expertise in a phased manner. The courses on Machine Learning, Smart Grid and Electric Vehicles are integral to these disciplines. There are ongoing research projects of about Rs. 6.0 crores in these areas. The outcome based education with desirable outcomes in terms of knowledge, technical and soft skills, adopted for student centered learning, is well supported by state-of-art laboratories, field interactions, industrial internships, capstone projects, skill-development training and experiential learning.
+The distinguished faculty, entrepreneurial ventures and start-ups incubated by Alumni shall be guiding the journey of graduates for the success. The Centre for Industrial Liaison and Placement invites the choicest companies to place the students at the forefront of the professional world. We are attracting about 85% placement with median salary of about 7.5 lakh in core and IT sector. Today, our graduates are leading various units in many prominent organizations such as
+Amazon, Apple, Google, Reliance Industries, EIL India, Samsung Engineering, Texas Instruments, ST Microelectronics, JP Morgan and Chase, Havells, Schneider Electric, SIEMENS, ABB, Philips, Indian Oil Corporation, Larson & Toubro (L&T), Procter & Gamble, Deloitte, Tata Motors, Maruti Suzuki Motors, Cap Gemini, Accenture, IBM, Infosys, TCS and many more premier industries
+.
+State-of-art Laboratories
+Power Electronics
+Electric Drives
+Power System Protection
+Renewable Energy Systems
+Real time systems
+Program Educational Objectives (PEOs)
+PEO1:
+Demonstrate a high level of technical expertise in the Electrical Engineering profession with effective communication and management skills.
+PEO2:
+Continue their intellectual development for lifelong learning and be resilient even in unprecedented circumstances.
+PEO3:
+Achieve leadership roles by serving society as ethical and responsible professionals.
+Program Specific Outcomes (PSOs)
+PSO1:
+To design, analyse, and implement electrical systems by applying principles of mathematics, science, and engineering for industrial and societal solutions.
+PSO2:
+To apply modern tools and techniques to address challenges in electrical engineering, while actively engaging in lifelong learning with consideration of safety standards and sustainability goals.
+Program Outcomes (POs)
+PO1: Engineering knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems
+PO2: Problem analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development (WK1 to WK4)
+PO3: Design/development of solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required (WK5)
+PO4: Conduct investigations of complex problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions (WK8)
+PO5:
+Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems (WK2 and WK6)
+PO6:
+The Engineer and The World: Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment (WK1, WK5, and WK7)
+PO7:
+Ethics: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8:
+Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams
+PO9:
+Communication: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10:
+Project Management and Finance: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments
+PO11:
+Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK8)
+SDG Initiatives of DEIE
+Jan-May 2026
+2025 Year
+List of Faculty in DEIE
+Click here to view the file
+Course Structural Scheme
+Course scheme of the year 2025-26
+Course scheme of the year 2024-25
+ELC Activity
+List of ELC activities
+(2025-26)
+S. No
+Activity
+1
+1st Sem – Arduino-based Embedded Systems
+2
+2nd Sem – IoT-based Home Automation System
+3
+3rd Sem – DC Motor Rewinding and Testing
+4
+4th Sem – Robotic ARM Control
+5
+5th Sem – Switch-mode Power Amplifier / Single-phase Inverter Prototype
+Sponsored Project
+Click here to  view the data
+List of Activity (Workshops/Conferences)
+Sr. No.
+Name of Event
+Date
+Keynote / Speaker(s) / Guests
+1
+The Future Leader: Why Emotional Intelligence is the New Hard Skill
+– College to Corporate Lecture Series
+21 Nov 2025
+Mr. Vishal Kumar
+, Founder & CEO, MiVirtue Eduhub Pvt. Ltd.;
+Mr. Pankaj Garg
+, Advisor Technology
+2
+AICTE-ATAL Sponsored FDP – “Operation & Control of Power Systems in India”
+13–18 Oct 2025
+International experts:
+Prof. Bikash Pal
+, Imperial College London;
+Prof. Anurag Srivastava
+, West Virginia University
+3
+TIET Alumni Mentorship Program 2026 – Career/Big Tech Guidance Session
+18 April  2026
+Lira C.
+, CSED Batch 2022, Software Engineer at Google, USA
+4
+Mechatronics Developments in Automobiles
+27 Feb 2026
+Prof. Tomy Sebastian
+, Fellow IEEE; Director of Motor Drive Systems, HL Mechatronics, Auburn, Michigan, USA; Past President, IEEE IAS
+5
+How to Take Care of Your Vascular Health and Biomedical Standards?
+19 Feb 2026
+Dr. Piyush Chaudhary
+, Consultant, Fortis Hospital Mohali;
+Dr. Anterpreet Kaur Bedi
+, Assistant Professor, DEIE
+6
+System-Level Design and Protection of Traction Power Supply
+13 Feb 2026
+Mr. Suranjan Pal
+, Senior Expert, Alstom
+7
+Power Energy Generation, Utilization and Conservation
+30 Jan 2026
+Mr. Sharad Sharma
+, Punjab Energy Development Agency (PEDA);
+Dr. Souvik Ganguli
+, Associate Professor, DEIE
+8
+AICTE-IBIP Brainstorming and Review Meeting
+Jan 2026
+Led by
+Prof. Sunil Kumar Singla
+,
+Dr. Sambhav Jain
+,
+Dr. Sahaj Saxena
+,
+Dr. Gagandeep Kaur
+9
+Grooming by Immediate Seniors
+12 Jan 2026
+Currently placed final-year students; organized by
+Dr. Anterpreet Kaur Bedi
+10
+Campus to Corporate Lecture Series – Session with Ms. Muskan, GrowthJockey
+Nov 2025
+Ms. Muskan
+, Biomedical Engineering alumna, Batch 2019–2023; HR professional at GrowthJockey
+11
+Grooming by Immediate Seniors
+Jan 2026
+Barnika Sen
+– Honeywell Intern, Deloitte FTE;
+Diya Chugh
+– Carrier Intern, Sigmoid FTE;
+Sushant Rai
+– ZS Intern & FTE
+12
+Pre-Placement Initiative – Batish Sir Addresses Students
+6 May 2026
+Prof. Ajay Batish
+13
+Grooming by Immediate Seniors
+3 Dec 2025
+Ganguli Sir
+; alumni/placed students:
+Kartika Aggarwal – Coca-Cola; Divyanshu – Maruti; Shveshth Bansal – Maruti; Yashi Jain – TVS Motor
+14
+First ExCom Meeting
+January 30, 2026
+Dr. Rajesh M. Pindoriya and Dr. Manoj Badoni
+15
+Mechatronics Developments in  Automobiles
+February 27, 2026
+Prof. Tomy
+Sebastian,  Fellow  IEEE
+16
+Orientation of Newly Recurited IEEE Volunteers
+March 24, 2026
+Dr. Rajesh M. Pindoriya and Dr. Manoj Badoni
+17
+Industry-Academia Interaction: Labs Visit and Technical Mentorship Session
+March 26, 2026
+Dr. Ramesh Singh
+18
+Energy Conversion for Sustainable Future
+April 10, 2026
+Prof. Ayman M. El-Refaie, (Fellow, IEEE), IAS President (2025–2026)
+19
+Accelerating Your Technical Career
+April 15, 2026
+Jill I. Gostin (Fellow, IEEE), President elect, IEEE 2026
+20
+Hardware Hackathon
+April 18, 2026
+Dr. Rajesh M. Pindoriya and Dr. Manoj Badoni
+21
+Concept to Consequence - Engineering for Sustainability
+April 19, 2026
+Mr. Avinash Singh
+22
+Youth United La Fiesta
+April 24, 2026
+Dr. Rajesh M. Pindoriya and Dr. Manoj Badoni
+23
+IEEE PES DL: Stability Modelling and Analysis of Converter Driven Power System
+April 27, 2026
+Prof. Bikash Pal (Fellow, IEEE), President, IEEE PES
+Laboratory Videos
+Power System Simulation Laboratory-
+Click here to view
+Thapar Freescale Systems Laboratory-
+Click here to view
+Instrumentation System Design Laboratory-
+Click here to view
+Analog & Digital Electronics Laboratory-
+Click here to view
+Process Dynamic and Control Laboratory-
+Click here to view
+Bio-Medical Instrumentation Laboratory-
+Click here to view
+Virtual Instrumentation Laboratory-
+Click here to view
+High Voltage Laboratory (I & II) -
+Click here to view
+Power Electronics Laboratory-
+Click here to view
+Electrical Engineering (I & II) Laboratory-
+Click here to view
+Renewable Energy Laboratory-
+Click here to view
+Instrumentation & Control Laboratory-
+Click here to view
+Electrical Machines & Drives Laboratory-
+Click here to view
+Power System Protection Laboratory-
+Click here to view
+Real Time Laboratory-
+Click here to view
+Industrial Instrumentation Laboratory-
+Click here to view
+Network Laboratory-
+Click here to view
+Departmental Library-
+Click here to view
+Capstone Project Videos
+Capstone 1-
+Click here to view
+Capstone 2-
+Click here to view
+Capstone 3-
+Click here to view
+Capstone 4-
+Click here to view
+Capstone 5-
+Click here to view
+Capstone 6-
+Click here to view
+Capstone 7-
+Click here to view
+Capstone 8-
+Click here to view
+Capstone 9-
+Click here to view
+Capstone 10-
+Click here to view
+Capstone 11-
+Click here to view
+Capstone 12-
+Click here to view
+Capstone 13  (2024-25) -
+Click here to view
+Capstone 14 (2024-25) -
+Click here to view
+Capstone 15 (2024-25) -
+Click here to view
+Capstone 16 (2014-25) -
+Click here to view
+Student societies
+S.N.
+Name of the Professional Societies/Bodies, Chapters, Clubs
+1
+IEEE IAS-PES Student Branch Chapter TIET, Patiala
+2
+IEEE PELS Student Branch Chapter TIET, Patiala
+(https://www.instagram.com/ieee_sbc_tiet?igsi=NTBsZ2EycXRmOGk1)
+3
+IET Thapar Student Chapter
+4
+OORJA
+5
+NSS (National Service Scheme)
+6
+Youth United Society
+7
+Pratigya Society
+8
+IEI
+About the Electronics (Instrumentation and Control) Engineering Program
+Programme emphasis is on creating highly competent engineers who would be able to contribute in designing, developing, installing, managing and maintaining instruments for measurement, control and automation. The core subjects are industrial instrumentation, process control, bio-medical instrumentation and signal processing.
+After completion of semester V (3rd year) of the programme, you have a choice to choose one out of the three specialization in the programme by choosing the courses in electives offered and get certification for the same. Focus areas (specializations in programme) include.
+Industrial Automation
+Biomedical Instrumentation
+Smart Systems
+Updated curriculum in line with industry needs and outcome based education. The curriculum and pedagogy include
+Experiential learning through capstone project and other activities which engages students in critical thinking, problem solving and decision making in contexts that are relevant to engineering.
+6 months internship focused on carrying out projects and problem solving.
+Placements in prestigious companies.
+Program Educational Objectives (PEOs)
+To demonstrate a high degree of technical expertise in Electronics (Instrumentation and Control) Engineering profession with effective communication and management skills.
+To pursue higher education to continue their intellectual development for life-long learning.
+To achieve leadership roles in multidisciplinary teams, thereby serving the society as ethical and conscientious professionals.
+Program Outcomes (POs)
+PO1: Engineering knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems
+PO2: Problem analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development (WK1 to WK4)
+PO3: Design/development of solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required (WK5)
+PO4: Conduct investigations of complex problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions (WK8)
+PO5:
+Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems (WK2 and WK6)
+PO6:
+The Engineer and The World: Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment (WK1, WK5, and WK7)
+PO7:
+Ethics: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8:
+Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams
+PO9:
+Communication: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10:
+Project Management and Finance: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments
+PO11:
+Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK8)
+Program Specific Outcomes (PSOs)
+To apply knowledge of mathematics, sciences and professional subjects to formulate, interpret and analyse problems appropriate to Electronics (Instrumentation and Control) Engineering
+To employ appropriate engineering techniques, skills, tools and research based knowledge to realize Electronics (Instrumentation and Control) Engineering systems and engage in life- long learning.
+Course Structural Scheme
+Feedback Forms from Stakeholders
+:- Click here to view the data
+About Program
+The Biomedical Engineering program at Thapar Institute of Engineering and Technology (TIET), established in 2019 under the Department of Electrical and Instrumentation Engineering, is designed to bridge the gap between engineering, biological sciences, and medicine. Biomedical Engineering integrates engineering principles with biology and medicine to develop innovative technologies for healthcare. The program equips students with multidisciplinary knowledge and skills for the design and development of medical devices, diagnostic tools, therapeutic systems, biomedical instrumentation, and intelligent healthcare technologies aimed at improving patient care and advancing medical research. The program provides students with opportunities to explore emerging areas such as biomedical signal and image processing, biomedical devices and instrumentation, biomechanics, biometrics, health and environment, and biomedical control and systems biology. Through laboratory-based learning, interdisciplinary projects, research activities, industry exposure, and collaboration with healthcare professionals, students are encouraged to address real-world biomedical and healthcare challenges. With an intake of 30 students, the program promotes focused learning, innovation, research, and experiential education, preparing graduates for careers in healthcare industries, medical device development, research institutions, hospitals, engineering firms, and higher studies in Biomedical Engineering and allied disciplines.
+It closes the gap between the fields of engineering and medical science.
+Biomedical Engineering: the application of engineering principles and design concepts to medicine and biology for healthcare purposes (e.g. diagnostic or therapeutic).
+Biomedical Engineering Areas
+Role of Biomedical Engineers
+Biomedical engineers apply engineering principles and technologies to understand biological systems and address challenges in healthcare. Their key roles include:
+Understanding, modifying, and controlling biological systems.
+Detecting, measuring, and monitoring physiological functions.
+Designing and developing devices for physiological monitoring.
+Assisting in the diagnosis and treatment of patients.
+Developing healthcare technologies and medical instrumentation.
+Supporting the establishment of advanced laboratories and healthcare units.
+Contributing to research and development in biomedical engineering.
+Applying Artificial Intelligence to biomedical research and healthcare solutions
+.
+Admission Criteria
+Students with either PCM (Physics, Chemistry and Mathematics) or PCB (Physics, Chemistry and Biology) in 10+2 are eligible to apply for admission to the Biomedical Engineering program.
+Admission is offered through the following modes:
+Mode 1 – JEE/NEET Rank: 10+2 or equivalent with at least 60% marks (55% for SC/ST candidates) in PCM or PCB.
+Mode 2 – 10+2 Marks: 10+2 or equivalent with at least 60% marks (55% for SC/ST candidates) in PCM or PCB.
+International Engineering Program
+Students pursuing Biomedical Engineering at TIET have the following academic options:
+Complete the 4-year Biomedical Engineering program at Thapar Institute of Engineering and Technology.
+or
+Opt for the 3+2 accelerated postgraduate degree pathway with George Mason University, USA.
+About the International Engineering Program
+The Biomedical Engineering program at Thapar Institute of Engineering and Technology offers students an opportunity to pursue an international academic pathway through its collaboration with George Mason University, USA.
+Under the 3+2 accelerated postgraduate degree pathway, students complete the required undergraduate component at TIET and receive a B.Tech. degree in Biomedical Engineering from Thapar Institute of Engineering and Technology. They subsequently complete the postgraduate component at George Mason University, USA, and receive a Master's degree from George Mason University.
+This pathway provides students with international academic exposure, access to advanced research facilities, interdisciplinary learning, and opportunities to engage with emerging developments in biomedical engineering and healthcare technologies.
+The program is designed to strengthen students' technical, research, and professional competencies and prepare them for careers in healthcare industries, biomedical research, medical device development, and higher studies.
+Program Specific Outcomes (PSOs)
+To apply knowledge of mathematics, sciences and professional subjects to formulate, interpret and analyse problems appropriate to Biomedical Engineering.
+To employ appropriate engineering techniques, skills, tools and research based knowledge to realize Biomedical Engineering systems and engage in life- long learning.
+Program Outcomes (POs)
+PO1: Engineering knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems
+PO2: Problem analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development (WK1 to WK4)
+PO3: Design/development of solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required (WK5)
+PO4: Conduct investigations of complex problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions (WK8)
+PO5:
+Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems (WK2 and WK6)
+PO6:
+The Engineer and The World: Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment (WK1, WK5, and WK7)
+PO7:
+Ethics: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8:
+Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams
+PO9:
+Communication: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10:
+Project Management and Finance: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments
+PO11:
+Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK8)
+Department's Strength
+Several cutting edges funded research activities are going on.
+Around 100 publications in the field of Biomedical Engineering over last 5 years in reputed journals
+Most of the faculty working in Biomedical Engineering have foreign exposure
+Thrust Area
+Biomedical Signal and Image Processing
+Biomedical Devices and Instrumentation
+Health and Environment
+Biometrics
+Biomechanics
+Biomedical Control and System Biology
+State of Art Laboratories
+Biomechanics Lab
+Biomedical Computational Lab
+Bioinformatics Lab
+Biomedical Instrumentation Lab
+Government funded Projects:
+Name of Scheme
+PI
+Funding Agency
+Year
+Amount in INR (Lakhs)
+Duration
+Extra Mural Research
+Dr. Visha Srivastava
+ICMR
+2025
+119
+3
+Extra Mural Research
+Dr. Jainy Sachdeva
+ICMR
+2025
+4.67
+3
+Extra Mural Research
+Dr. Jainy Sachdeva
+ICMR
+2025
+12.36
+3
+TARE
+Dr. Sahaj Saxena
+SERB
+2022
+18.3
+3
+DST
+Dr. Sangeeta Kamboj
+DST-Haryana
+2022
+18
+3
+Career Opportunities
+Biomedical Engineering offers diverse career opportunities across healthcare, technology, research, and allied industries. The interdisciplinary nature of the program prepares graduates to work in areas involving medical technologies, healthcare systems, biomedical devices, research, and engineering applications.
+Biomedical Engineering graduates can explore careers in:
+Medical device manufacturing
+Healthcare and hospital systems
+Pharmaceutical industries
+Biomedical research organizations
+Engineering and technology firms
+Rehabilitation engineering
+Bioinformatics and biometrics
+Government and regulatory organizations
+Research and development
+Biomedical and healthcare consulting
+Patent analysis and technology assessment
+Higher studies and postgraduate research
+Graduates may pursue professional roles as biomedical engineers, researchers, consultants, scientists, patent analysts, and other technology professionals in healthcare and allied sectors. They may also pursue postgraduate studies and research in Biomedical Engineering and related interdisciplinary areas.
+Major Recruiters
+Biomedical Engineering graduates have opportunities across healthcare, medical technology, pharmaceuticals, consulting, research, analytics, and technology sectors. Major organizations represented in the program's recruitment and career ecosystem include:
+Medtronic
+Boston Scientific
+Johnson & Johnson
+Meril
+PharmaACE
+Deloitte
+Bain & Company
+ZS Associates
+JPMorgan Chase & Co.
+Fractal
+FNZ
+GreyB
+ProcDNA
+Capstone projects:
+Following capstone projects have been successfully carried out by the students of Biomedical engineering:
+Smart Watch for Elderly people
+Physical Therapy Monitoring System for Leg Muscles Injuries
+Smart shoe for portable gait analysis and correction of abnormal walking pattern
+5-Parameter Patient Monitoring System with Real-time Alerts
+Trainer X: An Interactive Biomedical Trainer Kit
+ISL Synergy: An Educational Tool and a Smart Data Glove for Medical Emergency
+Smart walking aid with quantitative pressure mapping shoes
+Internships
+A number of companies have been taking Biomedical students for internships, followed by pre-placement offers to a few students.
+Spinoff Technopark Pvt. Ltd.
+Smart Data Enterprises
+Y Hills Noida
+Boston Scientific
+Incruiter
+PGI Chandigarh
+FNZ
+Gentech
+Auptimo
+East West Concern Pvt. Ltd. Nepal
+Course Structural Scheme
+Capstone Projects
+Capstone 1-
+Click here to view
+Capstone 2-
+Click here to view
+About the Program
+The Electrical and Computer Engineering program at Thapar Institute of Engineering and Technology focuses on addressing the real-time challenges in computer science applications for various engineering problems including electrical engineering. In this program, students would learn and explore all subjects of Computer Science and Engineering such as Programming Languages (C/C++/Python), Data Structures, Database Management System (DBMS), Artificial Intelligence (AI), Embedded Systems and Internet of Things (IoT), Computer Networks, Robotics, Deep Learning Libraries (Tensorflow/PyTorch) and Platforms (Matlab/R/Octave) with applications to various Electrical Engineering domains such as Smart Electric Grid and Energy Management, Electric Vehicles and Real-Time Systems, Wearable Technologies, and Energy Efficient Lighting Techniques. The program offers a unique, interdisciplinary, balanced combination of tools, techniques, practices, and applications from the two most essential engineering disciplines namely Computer Engineering and Electrical Engineering.
+Our industry-centric undergraduate program offers electives to cover at least five different sample career trajectories, which include High-End Computing, Information and Grid Security, Computer Animation and Gaming, Electrical Vehicles, and Mathematics and Computing. Along with this, our Outcome-Based Education (OBE) approach brings a good mix of design projects, industrial visits, project semesters, multidisciplinary capstone projects, and experiential learning activities to involve the brilliant youth towards world-class education and to enable them to contribute to the development of our society.
+Curriculum: Salient Features
+Sample Career Trajectories
+Capstone Project
+Capstone projects are designed to encourage and assist the students to think, conceptualize, learn and develop skills such as planning, teamwork, public speaking, research by applying an engineering design process in computer science and electrical engineering. In the majority of the cases, the projects are interdisciplinary to encourage students to connect different areas and domains. Capstone projects are to emphasize hands-on experience and to integrate industry learning experience.
+Program Educational Objectives (PEOs)
+Demonstrate technical expertise to provide solutions for complex problems by applying computer and electrical engineering skills.
+Advance in professional development and lifelong learning to stay up to date in the quickly evolving field of computer engineering and its application to real world problems.
+Achieve leadership roles in their profession by instilling professional ethics and code of professional conduct.
+Program Specific Outcomes (PSOs)
+PSO1:
+To apply knowledge of mathematics, sciences and professional subjects to formulate, interpret and analyse problems appropriate to Electrical and/or Computer Engineering.
+PSO2:
+To employ appropriate engineering techniques, skills, tools and research based knowledge to realize Electrical and/or Computer Engineering based systems and engage in life- long learning.
+Program Outcomes  (POs)
+PO1: Engineering knowledge:
+Apply knowledge of mathematics, natural science, computing, engineering fundamentals and an engineering specialization as specified in WK1 to WK4 respectively to develop to the solution of complex engineering problems
+PO2: Problem analysis:
+Identify, formulate, review research literature and analyze complex engineering problems reaching substantiated conclusions with consideration for sustainable development (WK1 to WK4)
+PO3: Design/development of solutions:
+Design creative solutions for complex engineering problems and design/develop systems/components/processes to meet identified needs with consideration for the public health and safety, whole-life cost, net zero carbon, culture, society and environment as required (WK5)
+PO4: Conduct investigations of complex problems:
+Conduct investigations of complex engineering problems using research-based knowledge including design of experiments, modelling, analysis & interpretation of data to provide valid conclusions (WK8)
+PO5:
+Engineering Tool Usage: Create, select and apply appropriate techniques, resources and modern engineering & IT tools, including prediction and modelling recognizing their limitations to solve complex engineering problems (WK2 and WK6)
+PO6:
+The Engineer and The World: Analyze and evaluate societal and environmental aspects while solving complex engineering problems for its impact on sustainability with reference to economy, health, safety, legal framework, culture and environment (WK1, WK5, and WK7)
+PO7:
+Ethics: Apply ethical principles and commit to professional ethics, human values, diversity and inclusion; adhere to national & international laws. (WK9)
+PO8:
+Individual and Collaborative Team work: Function effectively as an individual, and as a member or leader in diverse/multi-disciplinary teams
+PO9:
+Communication: Communicate effectively and inclusively within the engineering community and society at large, such as being able to comprehend and write effective reports and design documentation, make effective presentations considering cultural, language, and learning differences
+PO10:
+Project Management and Finance: Apply knowledge and understanding of engineering management principles and economic decision-making and apply these to one’s own work, as a member and leader in a team, and to manage projects and in multidisciplinary environments
+PO11:
+Life-Long Learning: Recognize the need for, and have the preparation and ability for i) independent and life-long learning ii) adaptability to new and emerging technologies and iii) critical thinking in the broadest context of technological change (WK8)
+Recent Achievers and Student Testimonials
+Course Structural Scheme
+Capstone Project Videos
+Capstone 1-
+Click here to view
+Capstone 2-
+Click here to view
+Capstone 3-
+Click here to view
+Capstone 4-
+Click here to view
+Capstone 5-
+Click here to view
+Capstone 6-
+Click here to view
+About M.E. Electric Vehicle Technology Program
+The postgraduate program in Electric Vehicle Technology started in Electrical and Instrumentation Department in the year 2024. The Electrical Engineering programs of the department are accredited by National (NBA) and international (ABET) boards. By joining this program, the students will have opportunity to specialize in the most sought after disciplines through electives namely; Real time Systems, Smart grids, Renewable Energy, High Voltage technology, intelligent algorithms etc. To encourage the students in research based program in Electric Vehicle Technology, the institute offers a stipend of Rs 5000/month in addition to AICTE scholarship to GATE qualified students and Rs. 10,000/month to non-GATE students. The M.E. (Electric Vehicle Technology) program offers an opportunity for one-year industry internship, which helps the students to enhance research and academic skills and further provides an opportunity to get pre-placement offer. The placement office extends the support to invite slots for one-year internship in various MNCs R&D organizations. In previous years, the postgraduated students of power systems programe got the opportunity to work for their internships in C.G. Power, Savita Oil technologies, Tata Motors, LG Electronics, IIT Mandi, Azure Power, Stryker global technology etc. The graduates of the power systems program are well placed in various PSUs, Power grid, regional electricity board, Energy Efficiency board, and MNCs. Further, students got an opportunity to pursue their research career in various IITs.
+Key Features of PG Program
+Curriculum Designed with 1+1 Pattern.
+One Year Industry Internship.
+Opportunity to Work in Sponsored Projects.
+State of Art Laboratory Infrastructure.
+Research Oriented Teaching Learning Approach.
+Academic Fellowship for All Admitted Students*.
+Thrust Areas of Power System
+Electrical Vehicle
+Microgrid
+Power System Deregulation
+Multilevel Converters
+Power System Optimization
+Renewable Energy Sources
+Intelligent Drive Control
+Selected Research Papers Published by M.E. (Power Systems) Students
+S. No.
+Title
+Authors
+Journal
+Year
+1
+Combined Heat and Power Economic Dispatch using Integrated Civilized Swarm Optimization
+Nitin Narang,
+Era Sharma
+and J.S. Dhillon
+Applied Soft Computing
+(Elsevier)
+2017
+2
+Design of Modified Droop Controller for Frequency Support in Microgrid Using Fleet of Electric Vehicles
+Rubi Rana
+, Mukesh Singh and S. Mishra
+IEEE Transactions on Power Systems
+(IEEE)
+2017
+3
+Energy Management and Voltage Stabilization in an Islanded Microgrid through an Electric Vehicle Charging Station
+Shakti Singh, Mukesh Singh, and
+Shubhangi Jagota
+Sustainable cities and societies
+(Elsevier)
+2018
+4
+Fuzzy Rough Set Based Energy Management System for Self-Sustainable Smart City
+Sumedha Sharmaa
+, Amit Dua, Mukesh Singh, Neeraj Kumar, Surya Prakash
+Renewable and Sustainable Energy Reviews
+(Elsevier)
+2018
+5
+Feasibility Study of A Grid Integrated Hybrid Solar-Wind Energy System Consisting an Electric Vehicle Charging Station
+Shakti Singh,
+Prachi Chauhan
+, NirbhowJap Singh
+Journal of Modern Power system and clean Energy
+(Springer)
+2019
+6
+A Hybrid Approach for Model Order
+Reduction and Controller Design of Large-Scale Power Systems
+Singhal, R., Srivastava, Y., Agarwal, S., Kumar, A., & Ganguli, S.
+Electrical and Electronic Devices, Circuits and Materials: Design and Applications (Taylor & Francis)
+2020
+7
+Parameter Estimation of Solar Cells: A State-of-The-Art Review with Metaheuristic Approaches and Future Recommendations
+Goyal, S., Nijhawan, P., & Ganguli, S
+Green Energy:
+Fundamentals, Concepts and Applications (Wiley)
+2020
+8
+A Heuristic Approach for Modelling and Control of Automatic Voltage Regulator (AVR)
+Singhal, R., Kumar, A., & Ganguli, S
+Electronic Devices, Circuits and Materials: Design and Applications, CRC Press (Taylor & Francis )
+2020
+9
+An Intelligent Computing Technique for Parameter Extraction of Different Photovoltaic (PV) Models
+Goyal, S., Nijhawan, P., & Ganguli, S.
+Electrical and Electronic Devices, Circuits and Materials: Technological challenges and Solutions (Wiley)
+2020
+10
+A Heuristic- Based Appliance Scheduling Scheme for Smart Homes
+A. Jindal, B. S. Bhambhu, M. Singh, N. Kumar and K. Naik
+IEEE Transactions on Industrial Informatics (IEEE)
+2020
+List of students (ME Power Systems) for Internship Opportunity:
+Click here to view
+Achiever Students (ME Power Systems):
+Click here to view
+Program Educational Objectives (PEOs)
+Apply and exchange high level of technical expertise in Electric Vehicle Technology and allied profession with effective communication and management skills
+Continue their intellectual and professional development by seeking knowledge and to involve in fostering innovative activities for the sustainable development to improve the quality of life.
+Program Outcomes
+An ability to independently carry out research/investigation and development work to solve practical problems
+An ability to write and present a substantial technical report/document
+Students should be able to demonstrate a degree of mastery over the area as per the specialization of the program. The mastery should be at a level higher than the requirements in the appropriate bachelor program
+Course Scheme
+Click here to download 2017 Scheme
+Click here to download 2019 Scheme
+Click here to download 2020 Scheme
+Click here to download 2024 Scheme (Electric Vehicle Technology)
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

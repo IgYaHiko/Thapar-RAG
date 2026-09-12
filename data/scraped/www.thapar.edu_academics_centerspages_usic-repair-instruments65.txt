@@ -1,0 +1,53 @@
+SOURCE: https://www.thapar.edu/academics/centerspages/usic-repair-instruments65
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+CITM Instrument & PC Repair Laboratory, C-218
+FACILITIES
+Provide repair and maintenance service for electronic equipment & computers and peripherals to TTC.
+ACTIVITIES
+Repair & Maintenance of Instruments/ Equipment
+Repair & Maintenance of Personal Computers/ Peripherals
+Provide Technical Assistance on Maintenance of Equipment/ Instruments
+Sr. No.
+Name of Equipment
+Quantity
+1
+PM3213 20Mhz Dual Trace Analog Oscilloscope
+1
+2
+Soldering & Disordering Station
+1
+3
+Multi output Power Supply 1
+1
+4
+1.1Ghz Universal Frequency Counter
+1
+5
+Function Generator 1
+1
+6
+Digital storage Oscilloscope
+1
+7
+Frequency counter
+1
+8
+Pulse Generator
+1
+9
+Digital Multimeters
+1
+10
+Multimeter 8X MK3 with 25Kv Probe
+1
+11
+LCR-Meter
+1
+12
+Digital Earth Tester
+1
+13
+SMT rework station
+1

@@ -1,0 +1,66 @@
+SOURCE: https://thapar.edu/academics/centers/facilities3
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Facilities
+Internet Access
+CITM offers internet access and network services to Thapar Technology Campus.
+CITM has two static leased line connections: 3Gbps from BSNL and 1000 Mbps from National Knowledge Network (NKN).
+The Campus-wide Local Area Network (WLAN/LAN), which currently has 6000 live nodes (wired and wireless), is backboned by Optical Fiber connected with layer-3 and layer-2 switches, structured cabling of CAT 5 and CAT6.
+Internet access is available in all CITM labs
+E-Governance
+The centre is contributing in the implementation of ERP software that includes modules financial management, inventory management, human resource management, store/purchase, academic activities and its related support to the users of Thapar Institute of Engineering & Technology.
+Firewall and Security
+CITM has implemented and maintained the University level firewall and admission/access control for internet access. CITM has implemented and maintained managed end point protection solution for end devices.
+Web Services
+CITM is also responsible for maintenance and administration of Thapar Institute of Engineering & Technology Website.
+Email Services
+Provide e-mail service to Faculty/Research Scholars and staff.
+Internet Services
+Provisioning of internet services to Students/Faculty and staff.
+Campus wide LAN/WLAN
+CITM manages the campus wide network covering departments/schools/centers, faculty residences, Boys/Girls Hostels, faculty chambers, library and various research labs.
+Provisioning of Software Access
+CITM provides central access to SPSS 20.0, MATLAB 7, kaspersky antivirus, Microsoft Edvantage Oracle 10g, FTP, ssh and remote desktop services. Hardware/Equipment Maintenance
+CITM also provides repair and maintenance of Electronic Instruments/Equipment and, PCs and peripherals used in various Laboratories.
+Management of Linux Home Directories and File Management
+FTP Services to access Linux home directory
+Server IPs are 172.31.4.14, 172.31.4.9
+It is a File Transfer Protocol for Linux users. A utility provided to the user to transfer his/ her files on the Intranet (Windows/ Linux) machines. Use any type of windows machine and follow the following Three simple steps Steps:
+Open Internet explorer or any other ftp client
+Type ftp://172.31.4.14
+Enter valid Linux Username & Password that you can obtain from office of Head, CITM.
+Map your windows home directory to your machines through file and print service
+Server IP 172.31.4.15
+It will give access to your home directory residing on our Windows Machine/ Box. Use any type of windows machine and follow the following three simple steps:
+Go to run
+Type \\172.31.4.15
+Enter valid Windows Username & Password that you can obtain from office of Head, CITM.
+Application Servers
+Remote Access to Linux based Application Servers (AS)
+Server IPs : 172.31.4.9 or 172.31.4.14 or 172.31.4.17 (Sun Solaris 10)
+These AS will provide all the development tool provided by linux, Sun or other Open Software. Follow the easy three simple steps to connect Linux/Sun box:
+Download putty or Xmanager or use any ssh client
+Open a connect to any of above mentioned IPs using default ssh port 22.
+Enter valid Linux Username & Password that you can obtain from office of Head, CITM.
+Remote Access to Windows based Application Servers (AS)
+Server IPs : 172.31.4.15
+This AS will provide all the development tool which includes MS Visual Studio 6 and 2005, MS SQL Server 2005, Net beans 5, IIS, Oracle 10g, MySql 4.3. Follow the easy three simple steps to connect Linux/Sun box.
+Go to run in windows enter a command mstsc or launch Remote Desktop in connection menu.
+Open a connect to above mentioned IP.
+Enter your valid windows Username & Password that you can obtain from office of Head, CITM.
+Database Servers
+Access to Oracle 10g Servers (AS)
+Server IPs : 172.31.4.16
+Users get 100 MB Oracle Database space for storing tables.
+Connect to this Oracle database server with the user name and password provided by office of Head, CITM with host string CCDB and default port 1521.
+Uses can connect to this server by making an entry to Listener.sql or by using we based client and entering HTTP://172.31.4.16:5560/isqlplus
+Access to MSSQL 2005 Database Servers (AS)
+Server IPs : 172.31.4.15
+Connect to this Oracle database server with the user name and password provided by office of Head, CITM.
+Connect to MySql 4.3 Database Servers (AS)
+Server IPs : 172.31.4.9
+Connect to this Oracle database server with the user name and password provided by office of Head, CITM.
+Strengthening of Latest Software through Academia Initiatives
+Oracle Academia Initiative (OAI)
+Microsoft Edvantage Program

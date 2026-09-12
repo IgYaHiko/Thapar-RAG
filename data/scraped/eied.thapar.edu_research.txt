@@ -1,0 +1,313 @@
+SOURCE: https://eied.thapar.edu/research
+TITLE: Department of Electrical and Instrumentation Engineering - Major Research Area
+------------------------------------------------------------
+
+Research-Intensive Training
+Delivering excellence via varied research avenues, trained faculty and innovation
+Research facilities and Policies
+For the DST-FIST-sponsored Department of Electrical and Instrumentation Engineering at Thapar Institute of Engineering and Technology (TIET), Patiala, the following research facilities and research promotion policy are provided to faculty members.
+State-of-the-Art Research Facilities: The research facilities at the Department of Electrical and Instrumentation Engineering, Thapar Institute of Engineering and Technology (TIET), Patiala, are regularly updated, indicating the institute’s commitment to maintaining cutting-edge infrastructure for research and development. Regular upgrades to laboratories, research centers, and equipment enable both faculty and students to stay at the forefront of technological advancements and facilitate high-quality research output. This ongoing process of modernization reflects positively on the institution's academic rigor and research culture.
+External Funding: Department of Electrical and Instrumentation Engineering has several external funding support for research, education, and development projects from different funding sources such as Indian Council of Medical Research (ICMR),  Council of Scientific & Industrial Research (CSIR), Anusandhan National Research Foundation (ANRF)/ Science and Engineering Research Board (SERB), Ministry of Electronics and Information Technology (MeitY), Department of Science and Technology, Govt of India, DRDO, NPL, etc. During the last six years, the department has received more than INR 1000 Lakhs in funding from various external sources.
+Well-Defined Research Promotion Policy: Department of Electrical and Instrumentation Engineering, Thapar Institute of Engineering and Technology (TIET), Patiala has implemented a comprehensive research promotion policy, as evidenced by the document available on the institutional website. This policy addresses key areas such as:
+Incentives and Recognition: The institution offers grants, awards, or other forms of recognition to encourage research activities. Faculty members and students who publish papers in high-impact journals or secure patents are likely to be rewarded under the policy.
+Collaborations: The policy could emphasize collaborations with national and international institutions, as well as industry partnerships, which foster a multidisciplinary approach to research. The Department has collaborations with Virginia Tech, USA, through the Center of Excellence in Emerging Materials (CEEMS); Tel Aviv University, Israel; AGH University of Krakow, Poland, etc.
+Funding Opportunities: Provision of internal funding (Seed grant), along with assistance in securing external funding from governmental and private agencies, is crucial. TIET likely has mechanisms to guide researchers through the grant application process, ensuring they maximize the opportunities available to them.
+Research Training and Support: Workshops, seminars, and specialized training in research methodologies, writing proposals, and intellectual property rights (IPR) are likely to be provided to strengthen the research capabilities of both faculty and students. Faculty members have the opportunity to supervise M.E. and Ph.D. scholars in the department.
+Ethical Standards: Clear guidelines regarding ethical research practices, plagiarism, and the publication process are typically outlined in such policies, ensuring that all research meets high ethical standards.
+Institutional Implementation: The successful implementation of these policies is essential to ensure their effectiveness. Based on the details provided and the website, TIET is actively implementing its research promotion policy, indicating a structured and supportive research environment. Monitoring mechanisms, such as regular audits or feedback systems, are likely in place to ensure continuous improvement of research facilities and processes.
+Website Information: The availability of the policy on the institutional website ensures transparency and accessibility, which is an important criterion. This allows stakeholders, including prospective students, faculty, and research collaborators, to clearly understand the institution's commitment to research excellence.
+In summary, TIET’s Department of Electrical and Instrumentation Engineering focuses on updating research facilities and promoting research through a well-defined policy, which can be easily observed with the more than 850 research publications and more than INR 1000 Lakhs of funding from external agencies; that is in alignment with the accreditation bodies for fostering a robust research culture. These efforts contribute significantly to the institution's overall academic excellence.
+R&D projects
+Click here to view Externally Funded Projects from Years 2023-24 to 2025-26
+Research Facilities
+Bio-Medical Instrumentation laboratory
+Biomedical instrumentation lab provides the practical understanding of acquisition, measurements and constraints related to different biological signals such as ECG, EEG, EMG etc. This lab is equipped with State-of-the art bio signal measuring instruments like Spirometer, Polyrite 4-Channel Machine, Pulse Oximeter, EMG Bio-feedback Trainer, Ultrasonic Pulser/Receiver with PCI Digitizer Card, Bio-Medical Instrumentation Modules and Simulators, Cross Match I Scan2 Dual Iris Scanner, EMOTIV EPOC+ (EEG) Headset. It includes brief study of different medical instruments and their use in physiological measurements.
+Bioinformatics Lab
+3D MRI Data Processing of brain tumors using deep learning models and algorithms. D
+etection of new blood vessels in abnormal vascularization in diabetic retinopathy patients
+Diffusion
+MRI Fiber Tractography.
+Instrumentation and Control Lab
+The field of control and instrumentation is the prime most level for realization of any physical parameters, and their validation as real time systems with hardware equipment. This lab is designed to show case some state of the art facilities in the various domain areas of Instrumentation and Control (I&C) engineering. This lab entertains the core courses in UG domains namely, Electrical and Electronic Measurements, Control Systems and sensors and signal conditioning and also entertains state of the art experimental facility to a PG course, Industrial Instrumentation and Control. The equipment available in the lab are of a wide variety like: DC Motor Speed Control Kit with DC Motor Unit, Potentiometric Error Detector, Linear System Simulator, Compensators Kit with External RC Unit, Temperature Control using ON-OFF & PID Controller with external Heater Unit, Syncro Transmitter & Receiver Kit, PC based Coupled Tank Trainer Kit for study of interacting and non interacting systems with USB adaptor, AC Bridges, Proximity Sensor Kit, Strain Gauge Kit, Piezoelectric Trainer, Dead Weight Pressure Gauge Tester, And many more…
+Industrial Instrumentation Laboratory
+The Industrial Instrumentation lab provides training to the students (B. E Electronics (Instrumentation & Control) Engineering, B.E Electrical Engineering, M. E, and PhD) in the field of Industrial Instrumentation and control. A number of equipment’s like Say bolt Universal viscometer, Rotameter, Humidity trainer kit, Vibration measurement kit, McLeod Gauge etc. are available to demonstrate dynamic processes and to monitor various process variables. These equipment have been incorporated in the lab to enable students and research scholars to work in the field of industrial instrumentation and process control. Further, a dedicated Advanced level process station control containing the advanced software such as LABVIEW and MATLAB has been installed and is currently being used to measure process variables such as fluid level in tank, remote monitoring of sensor data, to monitor capacitive and ultrasonic sensor etc.
+High voltage Engineering Laboratory
+The High Voltage Laboratory is one of the oldest laboratories in the Electrical and Instrumentation Engineering Department at Thapar Institute of Engineering and Technology. This laboratory is used for practical classes in the High Voltage Engineering Course in the undergraduate Electrical Engineering program and for Ph.D. research. At present, one Ph.D. student is doing research on the development of ester oil-based insulating nanofluid for power transformers in the ANRF-funded project. The list of major equipment of this laboratory is mentioned below.
+List of Major Equipment
+1.
+Setup for measurement of High Alternating Voltages; (150 kV, 40 kVA, 50 Hz, Short duty).
+2.
+Setup for Determination of the flash over voltage of suspension insulator using power frequency high voltage source.
+3.
+Test cell (0-100 kV, AC) for measurement of break down voltage of transformer oil.
+4.
+Setup for measurement of capacitance and loss angle (tangent delta) using transformer ratio-arm bridge for solid and liquid insulation.
+5.
+Setup for determination of breakdown voltage of different insulating paper/ tape samples using the power frequency voltage source.
+6.
+Test setup for generation of impulse voltage and its measurement using 500 kV, 12.5 kJ five stage impulse generator.
+7.
+Experimental setup for determination of the level of partial discharges in the given sample using the partial discharge detector.
+8.
+Operation of high voltage construction kit for AC, DC and Impulse voltages.
+Network Analysis and Synthesis Laboratory
+The Network Analysis and Synthesis Laboratory came into existence in the 2016 with the introduction of a design-based course Network Theory and Design containing self-effort hours. The students develop and perform tests on verification of ac network theorems, two port network parameters and filter and attenuator design for electronic applications. The students are supposed to carry out a minor project related to the subject Network Theory and Design in this laboratory. The students also get a simultaneous exposure of hardware as well as simulation through PSPICE and MultiSIM software in this laboratory.
+Power System Simulation laboratory
+The research areas of Power system simulation laboratory include modelling, simulation, optimization, power quality and planning of electric power systems. Besides the state of the art computational infrastructure, it maintains the repository of engineering application software namely MATLAB and application specific tool boxes, DigSilent Power factory, MultiSIM, PSCAD, FEADCOM.
+Process Dynamics & Control Laboratory
+The purpose of the laboratory is to develop the fundamental concepts and principles of process control among the students. The lab is well equipped with various set-ups, used to study the open-loop and closed-loop dynamics of different types of processes, interfaced with software such as MATLAB and PLC for controlling purpose. The state of the art equipment includes various trainers for Level and Flow Control, Pressure Control, Temperature Control, Electro Hydraulic and Electro Pneumatic Trainer, Current to Pressure and Pressure to Current Converter, Control Valve Trainer.
+Real-Time Laboratory
+Electric vehicle charging station as a voltage and frequency regulator, within the real time capability of the EVs available, in presence of intermittent renewable energy sources. Energy Management of the Smart Home using Cloud Infrastructure-A Utility perspective.
+Thapar Freescale Laboratory
+The Thapar Freescale Systems Lab, a part of an industrial collaboration was established in April 2010, in collaboration with Freescale Semiconductors Ltd (Now NXP India), Noida to encourage UG and PG students for design and development of microcontroller based systems. Thapar Institute developed two PG courses and one UG course related to the infrastructure provided by the Freescale semiconductors Ltd.
+NXP further enhanced the technical support by augmenting more students learning kits. In 2015, NXP added 20 more ARM core based FRDM boards.
+State of the art equipment includes 2-channel Digital Oscilloscope, ARM based boards, 16-bit microcontroller based students learning kits, High-end soldering station. Rasberry Pi-3, IoT development kits, Zigbee and Ethernet modules for embedded system.
+Major Research Areas
+Biomedical Instrumentation
+Electric Vehicles
+Optical Networks
+Power Converters
+Power System Optimisation
+Smart Grids and Renewable Energy
+Signal and Image Processing
+System and Control Engineering
+×
+Admissions 2021
+-Select Country code* -
+Finland (+358)
+Afghanistan (+93)
+Albania (+355)
+Algeria (+213)
+American Samoa (+1-684)
+Andorra (+376)
+Angola (+244)
+Anguilla (+1-264)
+Norfolk Island (+672)
+Antigua and Barbuda (+1-268)
+Argentina (+54)
+Armenia (+374)
+Aruba (+297)
+Cocos (Keeling) Islands (+61)
+Austria (+43)
+Azerbaijan (+994)
+Bahamas (+1-242)
+Bahrain (+973)
+Bangladesh (+880)
+Barbados (+1-246)
+Belarus (+375)
+Belgium (+32)
+Belize (+501)
+Benin (+229)
+Bermuda (+1-441)
+Bhutan (+975)
+Bolivia (+591)
+Bosnia and Herzegowina (+387)
+Botswana (+267)
+Svalbard and Jan Mayen Islands (+47)
+Brazil (+55)
+United States Minor Outlying Islands (+246)
+Brunei Darussalam (+673)
+Bulgaria (+359)
+Burkina Faso (+226)
+Burundi (+257)
+Cambodia (+855)
+Cameroon (+237)
+United States (+1)
+Cape Verde (+238)
+Cayman Islands (+1-345)
+Central African Republic (+236)
+Chad (+235)
+Chile (+56)
+China (+86)
+Colombia (+57)
+Comoros (+269)
+Congo Democratic Republic of (+242)
+Cook Islands (+682)
+Costa Rica (+506)
+Ivory Coast (+225)
+Croatia (+385)
+Cuba (+53)
+Netherlands Antilles (+599)
+Cyprus (+357)
+Czech Republic (+420)
+Denmark (+45)
+Djibouti (+253)
+Dominica (+1-767)
+Dominican Republic (+1-809)
+Ecuador (+593)
+Egypt (+20)
+El Salvador (+503)
+Equatorial Guinea (+240)
+Eritrea (+291)
+Estonia (+372)
+Ethiopia (+251)
+South Georgia and the South Sandwich Islands (+500)
+Faroe Islands (+298)
+Fiji (+679)
+France (+33)
+French Guiana (+594)
+French Polynesia (+689)
+French Southern Territories (+555)
+Gabon (+241)
+Gambia (+220)
+Georgia (+995)
+Germany (+49)
+Ghana (+233)
+Gibraltar (+350)
+Greece (+30)
+Greenland (+299)
+Grenada (+1-473)
+Guadeloupe (+590)
+Guam (+1-671)
+Guatemala (+502)
+Guernsey (+44-1481)
+Guinea (+224)
+Guinea-bissau (+245)
+Guyana (+592)
+Haiti (+509)
+Heard Island and McDonald Islands (+011)
+Honduras (+504)
+Hong Kong (+852)
+Hungary (+36)
+Iceland (+354)
+India (+91)
+Indonesia (+62)
+Iran (Islamic Republic of) (+98)
+Iraq (+964)
+Ireland (+353)
+Isle of Man (+44-1624)
+Israel (+972)
+Italy (+39)
+Jamaica (+1-876)
+Japan (+81)
+Jersey (+44-1534)
+Jordan (+962)
+Russian Federation (+7)
+Kenya (+254)
+Kiribati (+686)
+Korea, Democratic People's Republic of (+850)
+Kosovo (+383)
+Kuwait (+965)
+Kyrgyzstan (+996)
+Lao People's Democratic Republic (+856)
+Latvia (+371)
+Lebanon (+961)
+Lesotho (+266)
+Liberia (+231)
+Libya (+218)
+Liechtenstein (+423)
+Lithuania (+370)
+Luxembourg (+352)
+Macao (+853)
+Macedonia, The Former Yugoslav Republic of (+389)
+Madagascar (+261)
+Malawi (+265)
+Malaysia (+60)
+Maldives (+960)
+Mali (+223)
+Malta (+356)
+Marshall Islands (+692)
+Martinique (+596)
+Mauritania (+222)
+Mauritius (+230)
+Reunion (+262)
+Mexico (+52)
+Micronesia, Federated States of (+691)
+Moldova (+373)
+Monaco (+377)
+Mongolia (+976)
+Montenegro (+382)
+Montserrat (+1-664)
+Western Sahara (+212)
+Mozambique (+258)
+Myanmar (+95)
+Namibia (+264)
+Nauru (+674)
+Nepal (+977)
+Netherlands (+31)
+New Caledonia (+687	)
+Pitcairn (+64)
+Nicaragua (+505)
+Niger (+227)
+Nigeria (+234)
+Niue (+683)
+Northern Mariana Islands (+1-670)
+Oman (+968)
+Pakistan (+92)
+Palau (+680)
+Palestine (+970)
+Panama (+507)
+Papua New Guinea (+675)
+Paraguay (+595)
+Peru (+51)
+Philippines (+63)
+Poland (+48)
+Portugal (+351)
+Puerto Rico (+1-787)
+Qatar (+974)
+Romania (+40)
+Rwanda (+250)
+Saint Helena, Ascension and Tristan da Cunha (+290)
+Saint Kitts and Nevis (+1-869)
+Saint Lucia (+1-758)
+Saint Vincent and the Grenadines (+1-784)
+Samoa (+685)
+San Marino (+378)
+Sao Tome and Principe (+239)
+Saudi Arabia (+966)
+Senegal (+221)
+Serbia (+381)
+Seychelles (+248)
+Sierra Leone (+232)
+Singapore (+65)
+Slovakia (Slovak Republic) (+421)
+Slovenia (+386)
+Solomon Islands (+677)
+Somalia (+252)
+South Africa (+27)
+South Korea (+82)
+Spain (+34)
+Sri Lanka (+94)
+St. Pierre and Miquelon (+508)
+Sudan (+249)
+Suriname (+597)
+Swaziland (+268)
+Sweden (+46)
+Switzerland (+41)
+Syrian Arab Republic (+963)
+Taiwan (+886)
+Tajikistan (+992)
+Tanzania, United Republic of (+255)
+Thailand (+66)
+Timor-Leste (+670)
+Togo (+228)
+Tokelau (+690)
+Tonga (+676)
+Trinidad and Tobago (+1-868)
+Tunisia (+216)
+Turkey (+90)
+Turkmenistan (+993)
+Turks and Caicos Islands (+1-649)
+Tuvalu (+688)
+Uganda (+256)
+Ukraine (+380)
+United Arab Emirates (+971)
+United Kingdom (+44)
+Uruguay (+598)
+Uzbekistan (+998)
+Vanuatu (+678)
+Vatican City State (Holy See) (+379)
+Venezuela (+58)
+Vietnam (+84)
+Virgin Islands (British) (+1-284)
+Virgin Islands (U.S.) (+1-340)
+Wallis and Futuna Islands (+681)
+Yemen (+967)
+Zambia (+260)
+Zimbabwe (+263)
+Select a Programme Type
+Undergraduate
+Postgraduate
+Select a Programme
+B.E./ B.Tech (4-Years)
+Download Brochure

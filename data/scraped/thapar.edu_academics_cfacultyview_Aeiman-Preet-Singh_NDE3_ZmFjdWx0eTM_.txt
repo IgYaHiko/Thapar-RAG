@@ -1,0 +1,92 @@
+SOURCE: https://thapar.edu/academics/cfacultyview/Aeiman-Preet-Singh/NDE3/ZmFjdWx0eTM=
+TITLE: Academics at TIET | World-Class Engineering Programs
+------------------------------------------------------------
+
+Aeiman Preet Singh
+Sr. Associate
+Designation:
+Sr. Associate
+Specialization:
+System Administration, LMS, Web Based Applications, Updates Institute Website, User Management, Technical Activities & Technical Support
+Email:
+aeiman@thapar.edu
+Job Profile
+Institute’s Database, Administration and Management, TIET e-Ticket Online Support,
+ERP Deployment of Modules,  Academics, Private Cloud Infrastructure of Institute, Managing Web Services, Updates Institute Website, User Management, Technical Activities  & Technical Support
+TIET-LMS
+:
+Assist in developing the "TIET-Learning management system". I manage in enrolling students/faculty and their respective courses on TIET-LMS. Fetching data from ERP for LMS user creation and course enrolments. Send personalized bulk emails to students/faculty with LMS credentials, e-contents links and help instruction for smooth onboarding on LMS. Update student information like email, LMS-server, LMS credentials etc in ERP. Moodle TIET-LMS sites with 13K+ users, 1900+ courses, 2.04TB data and 36K+ activities
+https://lms.thapar.edu
+https://ada-lms.thapar.edu
+https://murphy-lms.thapar.edu
+https://ramanujan-lms.thapar.edu
+https://murphy-lms.thapar.edu
+TIET e-Ticket Online Support:
+Assist in developing the “E-Ticket Online Support” for TIET-Institute Campus-wide. As Administrator, I manage to enroll departments/centers, and agents, help topics, build online forms, and canned responses, and manage the ticket queues. Also, I provide campus-wide support for the following topics.
+LMS Technical Support
+LMS Faculty-Subject Support
+LMS Student-Subject Support
+LMS END Exam 2021 Support
+TURNITIN Article Deletion
+Email @thapar.edu Support
+Creation of Email ID & Webkiosk
+Webkoisk Reset Password
+Matlab Software Support
+SPSS Software Support
+Email Domain:
+Google Gsuite Administrator, Security, Authentication, Spamming, Anonymous Emails, Configuration and Implementation for Domain Email System.
+User Management & Updates Institute Website:
+Manage Email id and its groups/LMS/Webkiosk user account service of the Institute and Internet complaints. (Creating, removing, resetting and No Dues). Also update the TIET website with upcoming Events, Tender, Notices and Admission related information.
+Support Technical Activities:
+Technical activities such as online placement and admission entrance exam activities, National Workshops, Student Reaction Survey, Grading, QEEE online Lectures, Quiz, Assignments.
+Troubleshooting of Technical queries of Faculty/Students/Staff and helping CITM to deliver services to the users.
+Digital Content:
+Design the email Templets for promotion of events for the Thapar Institute and Alumni. Develop the digital content for various departments for the Accreditation of ABET, NAAC and UGC.
+Experience in TIET
+: 05 November 2016 - Till Now
+Total Experience:
+14 years 11 months
+Qualification
+Master of Science in Information and Technology (M.Sc.-IT) from Punjabi University, Patiala
+Post-Graduation Diploma in Computer Application from Punjabi University, Patiala
+Professional Certification, Training & Workshop
+SQL From-Scratch Using Oracle SQL Developer and TOAD successfully completed in Jan 2021 from UDEMY.
+Operator Overloading Inheritance from IITM under the auspices of MHRD in Jan-Apr 2018.
+Excel Skills for Business: Essential from MACQUARIE UNIVERSITY, SYDNEY, AUSTALIA with grade 93.43% completed on August 15th, 2020
+Excel Skills for Business from MACQUARIE UNIVERSITY, SYDNEY, AUSTALIA with Grade Achieved: 87.17% completed on August 31st, 2020.
+Books Published
+S.No.
+Name of Book
+Name of Publisher
+Co-authors (if any)
+1.
+E-Accounting with Tally ERP 9
+KALYANI PUBLISHER
+Dr. S.S. Bhatia
+2.
+E-Accounting with SQL
+KALYANI PUBLISHER
+Dr. S.S. Bhatia
+3.
+Computer for Business
+KALYANI PUBLISHER
+Dr. S.S. Bhatia
+4.
+Office Automation
+KALYANI PUBLISHER
+Dr. S.S. Bhatia
+5.
+MS-Office 2007/10/13
+KALYANI PUBLISHER
+Dr. S.S. Bhatia
+6.
+Data
+Entry
+Operator
+GCS Group Pvt. Ltd.
+-NA-
+Other Email
+: aeimanpreet@gmail.com
+Communication Address:
+Office Address:
+L-117, First Floor, Centre of Information and Technology Management, Computer Science Block, Thapar Institute of Engineering & Technology, P.O. Box 32, Postcode: 147004,City: Patiala,Country: India
