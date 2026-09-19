@@ -6,7 +6,7 @@ import requests
 import os
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (StudentProject; contact: skolay_mca26@thapar.edu"
+    "User-Agent": "Mozilla/5.0 (StudentProject; contact: skolay_mca26@thapar.edu)"
 }
 
 SITEMAP_URL = "https://www.thapar.edu/sitemap.xml"
