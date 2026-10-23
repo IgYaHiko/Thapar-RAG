@@ -3,19 +3,18 @@ Reusable RAG chain module — imported by both CLI and Streamlit app.
 """
 import os
 import json
+import re
 import numpy as np
 import faiss
 from sentence_transformers import SentenceTransformer
-from langchain_google_genai import ChatGoogleGenerativeAI
+from langchain_ollama import ChatOllama
 from src.source_utils import format_source_for_display
 
 # ---- Config ----
 INDEX_PATH = "index/faiss_index/index.faiss"
 META_PATH = "index/chunks_metadata.jsonl"
 MODEL_NAME = "BAAI/bge-small-en-v1.5"
-TOP_K = 8  # was 5 — more context = richer answers
-
-GEMINI_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
+TOP_K = 8  # more context = richer answers
 
 # ---- Load once ----
 print("🚀 Loading RAG components...")
@@ -29,22 +28,15 @@ print(f"✅ Loaded {len(metadata)} chunks")
 
 
 def retrieve(query: str, k: int = TOP_K, min_score: float = 0.30) -> list[dict]:
-    """
-    Return top-k chunks most similar to the query.
-    Filters out anything below min_score to avoid garbage sources.
-    """
-    # Encode query
+    """Return top-k chunks most similar to the query."""
     q_emb = embedder.encode([query], normalize_embeddings=True).astype("float32")
-    
-    # Search FAISS
     scores, indices = index.search(q_emb, k)
     
-    # Build results
     results = []
-    for score, idx in zip(scores[0], indices[0]):   # ← singular `score` for loop, plural `scores` from FAISS
+    for score, idx in zip(scores[0], indices[0]):
         if idx < 0:
             continue
-        if score < min_score:   # skip weak matches
+        if score < min_score:
             continue
         chunk = metadata[idx].copy()
         chunk["score"] = float(score)
@@ -100,33 +92,81 @@ ANSWER (use markdown, be detailed and well-structured):"""
 
 
 def generate_answer(query: str, retrieved: list[dict]) -> str:
+    if not retrieved:
+        return "I don't have this information. Please contact the concerned department."
+    
     context_blocks = []
     for i, r in enumerate(retrieved, 1):
-        context_blocks.append(f"[{i}] {r['text']}\n(Source: {r['source']})")
+        try:
+            from src.source_utils import friendly_source_name
+            name = friendly_source_name(r["source"])
+        except Exception:
+            name = r["source"]
+        snippet = r["text"][:1200]
+        context_blocks.append(f"[{i}] {snippet}\n(Source: {name})")
     context = "\n\n".join(context_blocks)
+    
     prompt = PROMPT_TEMPLATE.format(context=context, question=query)
+    
+    try:
+        llm = ChatOllama(
+            model="llama3.2:3b",
+            temperature=0.2,
+            num_ctx=4096,
+        )
+        response = llm.invoke(prompt)
+        return response.content
+    except Exception as e:
+        return f"⚠️ Ollama error: {type(e).__name__}: {e}"
 
-    if not GEMINI_API_KEY:
-        return f"[RETRIEVAL ONLY — set GOOGLE_API_KEY]\n\n{context}"
 
-    llm = ChatGoogleGenerativeAI(
-        model="gemini-3.6-flash",  # 👈 change this to whichever works
-        google_api_key=GEMINI_API_KEY,
-        temperature=0.2,
-    )
-    response = llm.invoke(prompt)
-    return response.content
-
+# ---- GUARDRAILS: Catch greetings/thanks before hitting the database ----
+GREETING_REGEX = r"^(hi|hello|hey|yo|hola|namaste|hii+|hlo|sup|good\s+(morning|afternoon|evening|night))[\s!.,?]*$"
+THANKS_REGEX = r"^(thanks|thank you|thx|ty|ok|okay|got it)[\s!.,?]*$"
+BYE_REGEX = r"^(bye|goodbye|see you|exit|quit)[\s!.,?]*$"
 
 def ask(query: str) -> dict:
+    clean_query = query.strip().lower()
+
+    # 1. Handle Greetings
+    if re.match(GREETING_REGEX, clean_query):
+        return {
+            "query": query,
+            "answer": "Hello! 👋 I am your Thapar SmartCampus Assistant. How can I help you today?",
+            "sources": []
+        }
+        
+    # 2. Handle Thanks
+    if re.match(THANKS_REGEX, clean_query):
+        return {
+            "query": query,
+            "answer": "You're welcome! Let me know if you need help with anything else.",
+            "sources": []
+        }
+        
+    # 3. Handle Goodbyes
+    if re.match(BYE_REGEX, clean_query):
+        return {
+            "query": query,
+            "answer": "Goodbye! Best of luck with your semester. 👋",
+            "sources": []
+        }
+
+    # 4. Handle extremely short/meaningless inputs (e.g. "a", "???")
+    if len(clean_query) < 2:
+        return {
+            "query": query,
+            "answer": "Could you please ask a full question about the university?",
+            "sources": []
+        }
+
+    # 5. Standard RAG Flow for actual questions
     retrieved = retrieve(query, k=TOP_K)
     answer = generate_answer(query, retrieved)
     
     sources = []
     for r in retrieved:
-        # Try new friendly format
         try:
-            from src.source_utils import format_source_for_display
             display = format_source_for_display(r["source"])
             sources.append({
                 "friendly_name": display["friendly_name"],
@@ -136,7 +176,6 @@ def ask(query: str) -> dict:
                 "preview": r["text"][:150],
             })
         except Exception:
-            # Fallback to old format
             sources.append({
                 "url": r["source"],
                 "score": r["score"],
